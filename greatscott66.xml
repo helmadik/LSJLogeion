@@ -1,0 +1,218 @@
+<tei.2>
+
+  <teiHeader status="new" type="text">
+   <fileDesc>
+    <titleStmt>
+ 	<title>A Greek-English Lexicon</title>
+ 	<title type="sub">Machine readable text</title>
+ 	<author>Henry George Liddell</author>
+ 	<author>Robert Scott</author>
+    <sponsor>Perseus Project, Tufts University</sponsor>
+ 		<principal>Gregory Crane</principal>
+ 		<respStmt>
+ 		<resp>Prepared under the supervision of</resp>
+ 		<name>Lisa Cerrato</name>
+ 		<name>William Merrill</name>
+ 		<name>Elli Mylonas</name>
+ 		<name>David Smith</name>
+ 		</respStmt>
+    <funder n="org:NEH">The National Endowment for the Humanities</funder>
+    </titleStmt>
+ 	<publicationStmt>
+ 		<publisher>Trustees of Tufts University</publisher>
+ 		<pubPlace>Medford, MA</pubPlace>
+ 		<authority>Perseus Project</authority>
+ 		</publicationStmt>
+    <sourceDesc default="NO">
+ 	<biblStruct default="NO">
+ 	 <monogr>
+ 	  <author>Henry George Liddell</author>
+ 	  <author>Robert Scott</author>
+ 	  <title>A Greek-English Lexicon</title>
+ 	  <respStmt>
+ 	   <resp>revised and augmented throughout by</resp>
+ 	   <name>Sir Henry Stuart Jones</name>
+ 	   <resp>with the assistance of</resp>
+ 	   <name>Roderick McKenzie</name>
+ 	  </respStmt>
+ 	  <imprint>
+ 	   <pubPlace>Oxford</pubPlace>
+ 	   <publisher>Clarendon Press</publisher>
+ 	   <date>1940</date>
+ 	  </imprint>
+ 	 </monogr>
+ 	 <idno type="ISBN">0198642261</idno>
+ 	</biblStruct>
+    </sourceDesc>
+   </fileDesc>
+ 
+   <encodingDesc>
+    <refsDecl doctype="TEI.2">
+ 	<state n="chunk" unit="entry" />
+    </refsDecl>
+    <refsDecl doctype="TEI.2">
+ 	<state unit="alphabetic letter" />
+ 	<state unit="entry" />
+    </refsDecl>
+    <refsDecl doctype="TEI.2">
+ 	<state n="chunk" unit="section" />
+    </refsDecl>
+   </encodingDesc>
+   
+   <profileDesc>
+    <langUsage default="NO">
+ 	<language id="en">English
+ 	</language><language id="greek">Greek
+ 	</language><language id="la">Latin
+ 	</language><language id="fr">French
+    </language></langUsage>
+   </profileDesc>
+   
+   <revisionDesc>
+    <change><date>22 September 2000</date>
+ 	<respStmt><name>DAS</name><resp>ed.</resp></respStmt>
+ 	<item>
+ $Log: lsj.xml,v $
+
+Revisions 2.0 through 2018/11/05 Helma Dik
+Converted to Unicode; checked alphabetized div2 heads to find misspelled or mistakenly split entries. 
+Note: I mostly left items out of alphabetical order that are out of alphabetical order in print edition. 
+Removed any [] and - from divheads; kept those in orth_orig. Over time, split entries (marked with a in orig_id), and corrected contents as needed. 
+Note: Combining UTF-8 characters where possible; modifier letter apostrophe (02BC) for Greek apostrophes. 
+Please report errors at logeion.uchicago.edu ("Report a Problem"). 
+
+
+ Revision 1.2 2004/12/14 20:14:41 packel
+ added id tags to entries/senses
+ 
+ Revision 1.1 2004/11/22 17:05:46 packel
+ converted to P4/XML
+ 	
+ Revision 1.5 2004/10/07 14:57:49 packel
+ ϟ/[san  ] -&gt; koppa/san
+ 
+ Revision 1.4 2004/09/02 15:31:17 packel
+ for entries w/ identical keys, appended numbers to keys to distinguish them
+ 
+ Revision 1.3 2004/06/16 17:50:22 lcerrato
+ added entry for bioteuw, which was not separate from previous word
+ also fixed polemou in same entry
+ added space in entry for mwros after esti
+ fixed translation which ended around key word because of typesetting in entry sxhmatizw
+ fixed typos in entry for epignamptw
+ 
+ Revision 1.2 2004/06/15 21:06:38 lcerrato
+ 1. malignant for malignat
+ 2. pe/rnhmi for perneul in piprasko entry
+ 3. removed space a)sebh/mata/
+ 4. removed for remoued
+ 5. vulgar for vhlgar
+ 6. a)nh/r for a)nh/o
+ 7. ravaging for rauaging
+ 8. bathe for dathe
+ 9. of light for oflight
+ 10. interperted to interpreted
+ 11. possil to possit
+ 12. trun to turn
+ 13. witty for wilty
+ 
+ Revision 1.1 2003/01/09 22:34:05 amahoney
+ this is now the official copy
+ 
+ Revision 1.4 2001/04/14 00:48:17 dasmith
+ Added funder.
+ 
+ Revision 1.3 2001/02/28 20:07:01 dasmith
+ Made headers mixed case.
+ 
+ Revision 1.2 2001/02/23 20:46:20 dasmith
+ Added preface.
+ 
+ Revision 1.1 2000/12/07 21:14:07 dasmith
+ Moved from special LSJ directory.
+ 
+ Revision 1.5 2000/10/06 22:54:24 dasmith
+ Chunk front matter on sections.
+ 
+ Revision 1.4 2000/10/03 16:06:06 dasmith
+ Fixed sourceDesc title.
+ Added ISBN.
+ 
+ Revision 1.3 2000/09/26 23:59:09 dasmith
+ I didnʼt mean to make alphabetic letters chunk.
+ 
+ Revision 1.2 2000/09/26 23:42:22 dasmith
+ Added alphabet to refsDecl.
+ 
+ Revision 1.1 2000/09/23 00:32:34 dasmith
+ Preamble and TEI header for loose SGML LSJ.
+ 
+ </item></change></revisionDesc></teiHeader>
+<text>
+
+<div1 n="*r" type="alphabetic letter" org="uniform" sample="complete"><head lang="greek" orth_orig="Ρ">Ρ</head>
+<div2 id="cross*r" orig_id="n92019" key="*r" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="Ρ ρ">ρ</head>, <orth extent="full" lang="greek" opt="n">ῥῶ</orth>, <gen lang="greek" opt="n">τό</gen>, <itype opt="n">indecl.</itype>, twentieth (later seventeenth) letter of the Gr. alphabet: as numeral <foreign lang="greek">ρʹ</foreign> <abbr>=</abbr> 100, but <foreign lang="greek"><num>͵ρ</num></foreign> <abbr>=</abbr> 100,000: reckoned as a semivowel by <bibl n="Perseus:abo:tlg,0086,034:1456b:28" default="NO" valid="yes"><author>Arist.</author> <title>Po.</title> 1456b28</bibl>: the name <foreign lang="greek">ῥῶ</foreign> occurs in <bibl n="Perseus:abo:tlg,0019,008:781" default="NO" valid="yes"><author>Ar.</author> <title>Th.</title> 781</bibl>, Callias ap.<bibl n="Perseus:abo:tlg,0008,001:10:453d" default="NO"><author>Ath.</author> 10.453d</bibl>, <bibl n="Perseus:abo:tlg,0059,005:426c" default="NO" valid="yes"><author>Pl.</author> <title>Cra.</title> 426c</bibl>, <title>BCH</title> 29.483 (<placeName>Delos</placeName>), etc.</div2>
+
+ 
+<div2 id="crossr(a/" orig_id="n92020" key="r(a/" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ῥά">ῥά</head> <pron extent="full" lang="greek" opt="n">[ᾰ]</pron>, <sense id="n92020.0" n="A" level="1" opt="n">enclit. Particle, <gramGrp opt="n"><gram type="dialect" opt="n">Ep.</gram></gramGrp> for <foreign lang="greek">ἄρα</foreign> (q.v.), freq. in Hom.and <author>Pi.</author>; less freq. in Trag. (lyr.), <cit><quote lang="greek">ἦ ῥα</quote> <bibl n="Perseus:abo:tlg,0085,002:633" default="NO" valid="yes"><author>A.</author> <title>Pers.</title> 633</bibl></cit>, <bibl n="Perseus:abo:tlg,0011,003:172" default="NO" valid="yes"><author>S.</author> <title>Aj.</title> 172</bibl>; <foreign lang="greek">ἤ ῥα</foreign> ib.<bibl n="Perseus:abo:tlg,0011,003:177" default="NO" valid="yes">177</bibl>, <bibl n="Perseus:abo:tlg,0199,002:18:33" default="NO" valid="yes"><author>B.</author> 18.33</bibl>.—This and <itype lang="greek" opt="n">κα</itype> are the only monosyll. Particles not ending in <itype lang="greek" opt="n">ε</itype> which allow elision.</sense></div2>
+
+ 
+<div2 id="crossr(a=1" orig_id="n92021" key="r(a=1" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ῥᾶ">ῥᾶ</head>, <pos opt="n">Adv.</pos> <sense id="n92021.0" n="A" level="1" opt="n"><i>easily</i>, <bibl n="Perseus:abo:tlg,0291,001:42" default="NO"><author>Alcm.</author> 42</bibl>, <bibl n="Perseus:abo:tlg,0011,008:1086" default="NO" valid="yes"><author>S.</author> <title>Fr.</title> 1086</bibl>, Ion Trag.<bibl n="Perseus:abo:tlg,0011,008:66" default="NO" valid="yes">66</bibl>. [Codd. vary between <foreign lang="greek">ῥᾶ</foreign> and <foreign lang="greek">ῥᾴ</foreign>; only <foreign lang="greek">ῥᾴ </foreign> (<etym lang="greek" opt="n">ῥάι</etym>) seems to be admitted by <bibl n="Perseus:abo:tlg,0082,002:156:8" default="NO"><author>A.D.</author> <title>Adv.</title> 156.8</bibl>, <bibl n="Perseus:abo:tlg,4083,001:163:20" default="NO"><author>Eust.</author> 163.20</bibl>, but <foreign lang="greek">ῥᾶ</foreign> is prob. correct Attic and <gramGrp opt="n"><gram type="dialect" opt="n">Dor.</gram></gramGrp> for <foreign lang="greek">*ῥᾱᾰ</foreign> whence <gramGrp opt="n"><gram type="dialect" opt="n">Ep.</gram></gramGrp> <foreign lang="greek">*ῥῆα</foreign> (written <foreign lang="greek">ῥεῖα</foreign> in <author>Hom.</author> but <foreign lang="greek">ῥήα</foreign> in <author>Alc.</author> <title>Supp.</title> 12.7), later <gramGrp opt="n"><gram type="dialect" opt="n">Ion.</gram></gramGrp> <foreign lang="greek">ῥέα</foreign> (q.v.); cf. <gramGrp opt="n"><gram type="dialect" opt="n">Aeol.</gram></gramGrp> <foreign lang="greek">βρᾷ</foreign>.]</sense></div2>
+
+ 
+<div2 id="crossr(a=2" orig_id="n92022" key="r(a=2" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ῥᾶ">ῥᾶ</head>, <gen lang="greek" opt="n">τό</gen>, <sense id="n92022.0" n="A" level="1" opt="n"><i>rhubarb, Rheum officinale</i>, <author>Dsc.</author> 3.2; growing near the river <title>Rha</title> (mod. <i>Volga</i>), whence its name acc. to <author>Amm.Marc.</author> 22.8.28; cf. <foreign lang="greek">ῥῆον</foreign>.</sense></div2>
+
+ 
+<div2 id="crossr(a/as" orig_id="n92023" key="r(a/as" type="gloss" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ῥάας·">ῥάας</head> <foreign lang="greek">ῥεύματα</foreign>, <author>Hsch.</author></div2>
+
+ 
+<div2 id="crossr(a^ba/ssw" orig_id="n92024" key="r(a^ba/ssw" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ῥᾰβάσσω">ῥαβάσσω</head>, <gramGrp opt="n"><gram type="dialect" opt="n">Att.</gram></gramGrp> <orth extent="suff" lang="greek" opt="n">ῥαβάττω</orth>,= <foreign lang="greek">ῥάσσω, ἀράσσω</foreign>, <sense id="n92024.0" n="A" level="1" opt="n"><i>make a noise</i>, esp. <i>by dancing</i> or <i>beating time with the feet</i>, <author>Hsch.</author>, <author>Phot.</author>; cf. <foreign lang="greek">ἀρραβάσσω</foreign>.</sense></div2>
+
+ 
+<div2 id="crossr(abbi/" orig_id="n92025" key="r(abbi/" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ῥαββί">ῥαββί</head>, <sense id="n92025.0" n="A" level="1" opt="n"><i>O my Master</i>, Hebr. word in <bibl n="Perseus:abo:tlg,0031,001:23:7" default="NO" valid="yes"><title>Ev.Matt.</title> 23.7</bibl>, al.; also <orth extent="full" lang="greek" opt="n">ῥαββονί</orth> or <orth extent="full" lang="greek" opt="n">ῥαββουνί</orth>, <bibl n="Perseus:abo:tlg,0031,002:10:51" default="NO" valid="yes"><title>Ev.Marc.</title> 10.51</bibl>, <bibl n="Perseus:abo:tlg,0031,004:20:16" default="NO" valid="yes"><title>Ev.Jo.</title> 20.16</bibl>.</sense></div2>
+
+ 
+<div2 id="crossr(abdeu/omai" orig_id="n92026" key="r(abdeu/omai" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ῥαβδεύομαι">ῥαβδεύομαι</head>, <sense id="n92026.0" n="A" level="1" opt="n"><i>angle as with a rod</i>, v. ῥαβδίον I.2.</sense></div2>
+
+ 
+<div2 id="crossr(abdhfo/ros" orig_id="n92027" key="r(abdhfo/ros" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ῥαβδηφόρος">ῥαβδηφόρος</head>, <itype lang="greek" opt="n">ον</itype>, poet. for <foreign lang="greek">ῥαβδοφόρος</foreign>,= <foreign lang="greek">θυρσοφόρος</foreign>, <author>Lyc.</author> 1140.</div2>
+
+ 
+<div2 id="crossr(a/bdida" orig_id="n92028" key="r(a/bdida" type="gloss" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ῥάβδιδα·">ῥάβδιδα</head> <foreign lang="greek">τὰ διδασκαλεῖα</foreign>, <author>Hsch.</author></div2>
+
+ 
+<div2 id="crossr(abdi/zw" orig_id="n92029" key="r(abdi/zw" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ῥαβδ-ίζω">ῥαβδίζω</head>, <sense id="n92029.0" n="A" level="1" opt="n"><i>beat with a rod</i> or <i>stick, cudgel</i>, <bibl n="Perseus:abo:tlg,0019,007:587" default="NO" valid="yes"><author>Ar.</author> <title>Lys.</title> 587</bibl>, <bibl n="Perseus:abo:tlg,0486,001:50" default="NO"><author>Pherecr.</author> 50</bibl>, <bibl n="Perseus:abo:tlg,0031,008:11:25" default="NO" valid="yes"><title>2 Ep.Cor.</title> 11.25</bibl> (<gramGrp opt="n"><gram type="voice" opt="n">Pass.</gram></gramGrp>); <foreign lang="greek">ῥ. δένδρα</foreign> <i>thresh</i> trees, to bring down the fruit, <bibl n="Perseus:abo:tlg,0093,002:1:19:4" default="NO"><author>Thphr.</author> <title>CP</title> 1.19.4</bibl> (<gramGrp opt="n"><gram type="voice" opt="n">Pass.</gram></gramGrp>), cf. <bibl n="Perseus:abo:pap,P.Ryl.:148:20" default="NO"><title>PRyl.</title> 148.20</bibl> <date>(i A.D.)</date>; <cit><quote lang="greek">ἐλάας</quote> <bibl n="Perseus:abo:tlg,0093,002:5:4:2" default="NO"><author>Thphr.</author> <title>CP</title> 5.4.2</bibl></cit>; <foreign lang="greek">ῥ. [κριθάς</foreign>] <i>thresh out</i> barley, <bibl n="Perseus:abo:tlg,0527,010:2:17" default="NO" valid="yes"><author>LXX</author> <title>Ru.</title> 2.17</bibl>; <foreign lang="greek">σῖτον</foreign> ib.<bibl n="Perseus:abo:tlg,0527,009:6:11" default="NO"><title>Jd.</title> 6.11</bibl>.</sense></div2>
+
+ 
+<div2 id="crossr(abdi/on" orig_id="n92030" key="r(abdi/on" type="main" opt="n"><head extent="suff" lang="greek" opt="n" orth_orig="ῥαβδ-ίον">ῥαβδίον</head>, <gen lang="greek" opt="n">τό</gen>, <gramGrp opt="n"><gram type="dim" opt="n">Dim. of</gram></gramGrp> <foreign lang="greek">ῥάβδος</foreign>, <sense id="n92030.0" n="A" level="1" opt="n"><i>little rod</i> or <i>shoot</i>, <bibl n="Perseus:abo:tlg,0093,001:3:17:6" default="NO"><author>Thphr.</author> <title>HP</title> 3.17.6</bibl>, <author>Dsc.</author> 1.14; <i>the wand</i> of Hermes, <bibl n="Perseus:abo:tlg,0614,001:117:9" default="NO"><author>Babr.</author> 117.9</bibl>, <bibl n="Perseus:abo:tlg,0074,-02:3:20:12" default="NO"><author>Arr.</author> <title>Epict.</title> 3.20.12</bibl>; <foreign lang="greek">ἀπὸ ῥαβδίου οἰακίζεσθαι</foreign>, of horses, <bibl n="Perseus:abo:tlg,0099,001:17:3:7" default="NO" valid="yes"><author>Str.</author> 17.3.7</bibl>. </sense><sense n="b" id="n92030.1" level="4" opt="n"> <i>divining-rod</i>, <bibl n="Perseus:abo:tlg,0527,053:21:21" default="NO" valid="yes"><author>LXX</author> <title>Ez.</title> 21.21</bibl> (<bibl n="Perseus:abo:tlg,0527,053:26" default="NO" valid="yes">26</bibl>)(cod. A). </sense><sense n="2" id="n92030.2" level="3" opt="n"> <i>barbel</i> or <i>filament appended to the lips of certain fishes</i>, which are said <cit><quote lang="greek">ῥαβδεύεσθαι τοῖς ἐν τῷ στόματι, ἃ καλοῦσιν οἱ ἁλιεῖς ῥαβδία</quote> <bibl n="Perseus:abo:tlg,0086,014:620b:32" default="NO"><author>Arist.</author> <title>HA</title> 620b32</bibl></cit>. </sense><sense n="3" id="n92030.3" level="3" opt="n"> <i>iron stile</i>, used in encaustic painting, <author>Plu.</author> 2.568a, <bibl n="Perseus:abo:tlg,0008,001:15:687b" default="NO"><author>Ath.</author> 15.687b</bibl>. </sense><sense n="4" id="n92030.4" level="3" opt="n"> <foreign lang="greek">ῥαβδία ἀκοντίων</foreign> perh. javelin <i>shafts</i>, <title>BCH</title> 35.16 (Delian inventory). </sense><sense n="5" id="n92030.5" level="3" opt="n"> teacherʼs <i>pointer</i> (or = ῥάβδος I.7), <author>Eudem.</author> ap. <bibl n="Perseus:abo:tlg,4013,004:732:32" default="NO"><author>Simp.</author> <title>in Ph.</title> 732.32</bibl>. </sense><sense n="II" id="n92030.6" level="2" opt="n"> = ἅλιμον, Ps.-<author>Dsc.</author> 1.91.</sense></div2>
+
+ 
+<div2 id="crossr(abdismo/s" orig_id="n92031" key="r(abdismo/s" type="main" opt="n"><head extent="suff" lang="greek" opt="n" orth_orig="ῥαβδ-ισμός">ῥαβδισμός</head>, <gen lang="greek" opt="n">ὁ</gen>, <sense id="n92031.0" n="A" level="1" opt="n"><i>winnowing, threshing,</i> <author>PTeb.</author> 119.46 <date>(ii B.C.)</date>.</sense></div2>
+
+ 
+<div2 id="crossr(abdisth/s" orig_id="n92032" key="r(abdisth/s" type="main" opt="n"><head extent="suff" lang="greek" opt="n" orth_orig="ῥαβδ-ιστής">ῥαβδιστής</head>, <itype lang="greek" opt="n">οῦ</itype>, <gen lang="greek" opt="n">ὁ</gen>, <sense id="n92032.0" n="A" level="1" opt="n"><i>thresher</i>, <bibl n="Perseus:abo:pap,BGU:115i15" default="NO"><title>BGU</title> 115i15</bibl> <date>(ii A.D.)</date>, <bibl n="Perseus:abo:pap,SB:5124:103" default="NO"><title>Sammelb.</title> 5124.103</bibl> <date>(ii A.D.)</date>, al.</sense></div2>
+
+ 
+<div2 id="crossr(abdodi/aitos" orig_id="n92033" key="r(abdodi/aitos" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ῥαβδο-δίαιτος">ῥαβδοδίαιτος</head> [<foreign lang="greek">ῐ], <itype lang="greek" opt="n">ον</itype></foreign>, <sense id="n92033.0" n="A" level="1" opt="n"><i>living by the painterʼs stile</i> (ῥαβδίον I.3), epith. of Parrhasius, a parody on <foreign lang="greek">ἁβροδίαιτος</foreign>, <bibl n="Perseus:abo:tlg,0008,001:12:543d" default="NO"><author>Ath.</author> 12.543d</bibl>, <bibl n="Perseus:abo:tlg,0008,001:15:687c" default="NO">15.687c</bibl>.</sense></div2>
+
+ 
+<div2 id="crossr(abdoeidh/s" orig_id="n92034" key="r(abdoeidh/s" type="main" opt="n"><head extent="suff" lang="greek" opt="n" orth_orig="ῥαβδο-ειδής">ῥαβδοειδής</head>, <itype lang="greek" opt="n">ές</itype>, <sense id="n92034.0" n="A" level="1" opt="n"><i>striped</i>, <cit><quote lang="greek">πόα</quote> <author>Dsc.</author> 3.97</cit>; <cit><quote lang="greek">ἄνθος</quote> <title>Gp.</title> 12.37</cit>; <foreign lang="greek">γόμφοι</foreign> v.l. for λαβδ- in <title>Hippiatr.</title> 96.</sense></div2>
+
+ 
+<div2 id="crossr(abdomantei/a" orig_id="n92035" key="r(abdomantei/a" type="main" opt="n"><head extent="suff" lang="greek" opt="n" orth_orig="ῥαβδο-μαντεία">ῥαβδομαντεία</head>, <gen lang="greek" opt="n">ἡ</gen>, <sense id="n92035.0" n="A" level="1" opt="n"><i>divination by a wand,</i> <author>Gloss.</author></sense></div2>
+
+ 
+<div2 id="crossr(abdoma^xi/a" orig_id="n92036" key="r(abdoma^xi/a" type="main" opt="n"><head extent="suff" lang="greek" opt="n" orth_orig="ῥαβδο-μᾰχία">ῥαβδομαχία</head>, <gen lang="greek" opt="n">ἡ</gen>, <sense id="n92036.0" n="A" level="1" opt="n"><i>fighting with a staff</i> or <i>foil</i>, <bibl n="Perseus:abo:tlg,0007,047:4" default="NO"><author>Plu.</author> <title>Alex.</title> 4</bibl>.</sense></div2>
+
+ 
+<div2 id="crossr(abdonome/w" orig_id="n92037" key="r(abdonome/w" type="main" opt="n"><head extent="suff" lang="greek" opt="n" orth_orig="ῥαβδο-νομέω">ῥαβδονομέω</head>, <sense id="n92037.0" n="A" level="1" opt="n"><i>to be</i> <foreign lang="greek">ῥαβδονόμος</foreign>, <i>sit as umpire</i>, <bibl n="Perseus:abo:tlg,0011,001:516" default="NO" valid="yes"><author>S.</author> <title>Tr.</title> 516</bibl> (lyr.).</sense></div2>
+
+ 
+<div2 id="crossr(abdono/mos" orig_id="n92038" key="r(abdono/mos" type="main" opt="n"><head extent="suff" lang="greek" opt="n" orth_orig="ῥαβδο-νόμος">ῥαβδονόμος</head>, <itype lang="greek" opt="n">ον</itype>, (<etym lang="greek" opt="n">νέμω</etym>) <sense id="n92038.0" n="A" level="1" opt="n"><i>wielding a rod</i> or <i>wand</i>: hence of the Roman <i>lictors</i>, <bibl n="Perseus:abo:tlg,0007,019:32" default="NO"><author>Plu.</author> <title>Aem.</title> 32</bibl>; <i>umpire</i>, <author>Hsch.</author></sense></div2>
+
+ 
+<div2 id="crossr(abdo/omai" orig_id="n92039" key="r(abdo/omai" type="main" opt="n"><head extent="suff" lang="greek" opt="n" orth_orig="ῥαβδό-ομαι">ῥαβδόομαι</head>, <gramGrp opt="n"><gram type="voice" opt="n">Pass.</gram></gramGrp>, <sense id="n92039.0" n="A" level="1" opt="n"><i>to be striped</i> (cf. ῥάβδος III), <author>Lyd.</author> <title>Mag.</title> 1.7.</sense></div2>
+</div1> 
+</text>
+</tei.2>
+

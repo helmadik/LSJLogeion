@@ -1,0 +1,159 @@
+<tei.2>
+
+  <teiHeader status="new" type="text">
+   <fileDesc>
+    <titleStmt>
+ 	<title>A Greek-English Lexicon</title>
+ 	<title type="sub">Machine readable text</title>
+ 	<author>Henry George Liddell</author>
+ 	<author>Robert Scott</author>
+    <sponsor>Perseus Project, Tufts University</sponsor>
+ 		<principal>Gregory Crane</principal>
+ 		<respStmt>
+ 		<resp>Prepared under the supervision of</resp>
+ 		<name>Lisa Cerrato</name>
+ 		<name>William Merrill</name>
+ 		<name>Elli Mylonas</name>
+ 		<name>David Smith</name>
+ 		</respStmt>
+    <funder n="org:NEH">The National Endowment for the Humanities</funder>
+    </titleStmt>
+ 	<publicationStmt>
+ 		<publisher>Trustees of Tufts University</publisher>
+ 		<pubPlace>Medford, MA</pubPlace>
+ 		<authority>Perseus Project</authority>
+ 		</publicationStmt>
+    <sourceDesc default="NO">
+ 	<biblStruct default="NO">
+ 	 <monogr>
+ 	  <author>Henry George Liddell</author>
+ 	  <author>Robert Scott</author>
+ 	  <title>A Greek-English Lexicon</title>
+ 	  <respStmt>
+ 	   <resp>revised and augmented throughout by</resp>
+ 	   <name>Sir Henry Stuart Jones</name>
+ 	   <resp>with the assistance of</resp>
+ 	   <name>Roderick McKenzie</name>
+ 	  </respStmt>
+ 	  <imprint>
+ 	   <pubPlace>Oxford</pubPlace>
+ 	   <publisher>Clarendon Press</publisher>
+ 	   <date>1940</date>
+ 	  </imprint>
+ 	 </monogr>
+ 	 <idno type="ISBN">0198642261</idno>
+ 	</biblStruct>
+    </sourceDesc>
+   </fileDesc>
+ 
+   <encodingDesc>
+    <refsDecl doctype="TEI.2">
+ 	<state n="chunk" unit="entry" />
+    </refsDecl>
+    <refsDecl doctype="TEI.2">
+ 	<state unit="alphabetic letter" />
+ 	<state unit="entry" />
+    </refsDecl>
+    <refsDecl doctype="TEI.2">
+ 	<state n="chunk" unit="section" />
+    </refsDecl>
+   </encodingDesc>
+   
+   <profileDesc>
+    <langUsage default="NO">
+ 	<language id="en">English
+ 	</language><language id="greek">Greek
+ 	</language><language id="la">Latin
+ 	</language><language id="fr">French
+    </language></langUsage>
+   </profileDesc>
+   
+   <revisionDesc>
+    <change><date>22 September 2000</date>
+ 	<respStmt><name>DAS</name><resp>ed.</resp></respStmt>
+ 	<item>
+ $Log: lsj.xml,v $
+
+Revisions 2.0 through 2018/11/05 Helma Dik
+Converted to Unicode; checked alphabetized div2 heads to find misspelled or mistakenly split entries. 
+Note: I mostly left items out of alphabetical order that are out of alphabetical order in print edition. 
+Removed any [] and - from divheads; kept those in orth_orig. Over time, split entries (marked with a in orig_id), and corrected contents as needed. 
+Note: Combining UTF-8 characters where possible; modifier letter apostrophe (02BC) for Greek apostrophes. 
+Please report errors at logeion.uchicago.edu ("Report a Problem"). 
+
+
+ Revision 1.2 2004/12/14 20:14:41 packel
+ added id tags to entries/senses
+ 
+ Revision 1.1 2004/11/22 17:05:46 packel
+ converted to P4/XML
+ 	
+ Revision 1.5 2004/10/07 14:57:49 packel
+ ϟ/[san  ] -&gt; koppa/san
+ 
+ Revision 1.4 2004/09/02 15:31:17 packel
+ for entries w/ identical keys, appended numbers to keys to distinguish them
+ 
+ Revision 1.3 2004/06/16 17:50:22 lcerrato
+ added entry for bioteuw, which was not separate from previous word
+ also fixed polemou in same entry
+ added space in entry for mwros after esti
+ fixed translation which ended around key word because of typesetting in entry sxhmatizw
+ fixed typos in entry for epignamptw
+ 
+ Revision 1.2 2004/06/15 21:06:38 lcerrato
+ 1. malignant for malignat
+ 2. pe/rnhmi for perneul in piprasko entry
+ 3. removed space a)sebh/mata/
+ 4. removed for remoued
+ 5. vulgar for vhlgar
+ 6. a)nh/r for a)nh/o
+ 7. ravaging for rauaging
+ 8. bathe for dathe
+ 9. of light for oflight
+ 10. interperted to interpreted
+ 11. possil to possit
+ 12. trun to turn
+ 13. witty for wilty
+ 
+ Revision 1.1 2003/01/09 22:34:05 amahoney
+ this is now the official copy
+ 
+ Revision 1.4 2001/04/14 00:48:17 dasmith
+ Added funder.
+ 
+ Revision 1.3 2001/02/28 20:07:01 dasmith
+ Made headers mixed case.
+ 
+ Revision 1.2 2001/02/23 20:46:20 dasmith
+ Added preface.
+ 
+ Revision 1.1 2000/12/07 21:14:07 dasmith
+ Moved from special LSJ directory.
+ 
+ Revision 1.5 2000/10/06 22:54:24 dasmith
+ Chunk front matter on sections.
+ 
+ Revision 1.4 2000/10/03 16:06:06 dasmith
+ Fixed sourceDesc title.
+ Added ISBN.
+ 
+ Revision 1.3 2000/09/26 23:59:09 dasmith
+ I didnʼt mean to make alphabetic letters chunk.
+ 
+ Revision 1.2 2000/09/26 23:42:22 dasmith
+ Added alphabet to refsDecl.
+ 
+ Revision 1.1 2000/09/23 00:32:34 dasmith
+ Preamble and TEI header for loose SGML LSJ.
+ 
+ </item></change></revisionDesc></teiHeader>
+<text>
+
+<div1 n="*v" type="alphabetic letter" org="uniform" sample="complete"><head lang="greek" orth_orig="Ϝ">Ϝ</head>
+<div2 id="cross*v" orig_id="n46048" key="*v" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="Ϝ ϝ">ϝ</head>, also 𐅝, sixth letter of the oldest Gr. alphabets, pronounced <abbr>like</abbr> Engl. <sense id="n46048.0" n="A" level="1" opt="n"><i>w,</i> <author>IG</author> 9(1).334 (<gramGrp opt="n"><gram type="dialect" opt="n">Locr.</gram></gramGrp>, V B.C.), 4.333, 14.2420, <bibl n="Perseus:abo:tlg,0291,001:23:6" default="NO"><author>Alcm.</author> 23.6</bibl>, <bibl n="Perseus:abo:tlg,0009,001:1:6" default="NO"><author>Sapph.</author> <title>Supp.</title> 1.6</bibl>, Corinn.ib.<bibl n="Perseus:abo:tlg,0009,001:1:29" default="NO">1.29</bibl>, etc.; it was written in many dialects until <date>ii B.C.</date> (and pronounced even later); in others (incl. <gramGrp opt="n"><gram type="dialect" opt="n">Ion.</gram></gramGrp> and <gramGrp opt="n"><gram type="dialect" opt="n">Att.</gram></gramGrp>) it died out (with the sound) before the date of the earliest Inscrr., surviving only as a numeral,= 6, in the form 𐅝, <title>SIG</title> 46.106 (Halic., V B.C.), <title>IG</title> 12.760 (Athens, V B.C.), <bibl n="Perseus:abo:pap,P.Cair.Zen.:13:4" default="NO"><title>PCair.Zen.</title> 13.4</bibl> <date>(iii B.C.)</date>, <title>BMus.Cat.Coins</title>, Egypt Pl.XVI<bibl n="Perseus:abo:pap,P.Cair.Zen.:4" default="NO">4</bibl> (<bibl n="Perseus:abo:pap,P.Cair.Zen.:200" default="NO">200</bibl>/<bibl n="Perseus:abo:pap,P.Cair.Zen.:199" default="NO">199</bibl> B.C.), later in the form <itype lang="greek" opt="n">ϛ</itype>, ib. Egypt Pl.XXX<bibl n="Perseus:abo:pap,P.Cair.Zen.:5" default="NO">5</bibl> (<bibl n="Perseus:abo:pap,P.Cair.Zen.:47" default="NO">47</bibl> B.C.), <title>PMag.Lond.</title> 121.770 (<date>iii A.D.</date>, <author>Pl.</author> 61) and medieval Mss. Its name was <foreign lang="greek">ϝαῦ</foreign> (cf. Semitic <i>wāw</i>) acc. to Varro and Didymus (v. Varro <title>LL</title>p.209 G.-<author>S.</author>), later <foreign lang="greek">δίγαμμα</foreign> (q.v.). (Words with initial <itype lang="greek" opt="n">ϝ</itype> will be found under the second letter.)</sense></div2>
+</div1>
+ 
+
+</text>
+</tei.2>

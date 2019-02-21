@@ -1,0 +1,180 @@
+<tei.2>
+
+  <teiHeader status="new" type="text">
+   <fileDesc>
+    <titleStmt>
+ 	<title>A Greek-English Lexicon</title>
+ 	<title type="sub">Machine readable text</title>
+ 	<author>Henry George Liddell</author>
+ 	<author>Robert Scott</author>
+    <sponsor>Perseus Project, Tufts University</sponsor>
+ 		<principal>Gregory Crane</principal>
+ 		<respStmt>
+ 		<resp>Prepared under the supervision of</resp>
+ 		<name>Lisa Cerrato</name>
+ 		<name>William Merrill</name>
+ 		<name>Elli Mylonas</name>
+ 		<name>David Smith</name>
+ 		</respStmt>
+    <funder n="org:NEH">The National Endowment for the Humanities</funder>
+    </titleStmt>
+ 	<publicationStmt>
+ 		<publisher>Trustees of Tufts University</publisher>
+ 		<pubPlace>Medford, MA</pubPlace>
+ 		<authority>Perseus Project</authority>
+ 		</publicationStmt>
+    <sourceDesc default="NO">
+ 	<biblStruct default="NO">
+ 	 <monogr>
+ 	  <author>Henry George Liddell</author>
+ 	  <author>Robert Scott</author>
+ 	  <title>A Greek-English Lexicon</title>
+ 	  <respStmt>
+ 	   <resp>revised and augmented throughout by</resp>
+ 	   <name>Sir Henry Stuart Jones</name>
+ 	   <resp>with the assistance of</resp>
+ 	   <name>Roderick McKenzie</name>
+ 	  </respStmt>
+ 	  <imprint>
+ 	   <pubPlace>Oxford</pubPlace>
+ 	   <publisher>Clarendon Press</publisher>
+ 	   <date>1940</date>
+ 	  </imprint>
+ 	 </monogr>
+ 	 <idno type="ISBN">0198642261</idno>
+ 	</biblStruct>
+    </sourceDesc>
+   </fileDesc>
+ 
+   <encodingDesc>
+    <refsDecl doctype="TEI.2">
+ 	<state n="chunk" unit="entry" />
+    </refsDecl>
+    <refsDecl doctype="TEI.2">
+ 	<state unit="alphabetic letter" />
+ 	<state unit="entry" />
+    </refsDecl>
+    <refsDecl doctype="TEI.2">
+ 	<state n="chunk" unit="section" />
+    </refsDecl>
+   </encodingDesc>
+   
+   <profileDesc>
+    <langUsage default="NO">
+ 	<language id="en">English
+ 	</language><language id="greek">Greek
+ 	</language><language id="la">Latin
+ 	</language><language id="fr">French
+    </language></langUsage>
+   </profileDesc>
+   
+   <revisionDesc>
+    <change><date>22 September 2000</date>
+ 	<respStmt><name>DAS</name><resp>ed.</resp></respStmt>
+ 	<item>
+ $Log: lsj.xml,v $
+
+Revisions 2.0 through 2018/11/05 Helma Dik
+Converted to Unicode; checked alphabetized div2 heads to find misspelled or mistakenly split entries. 
+Note: I mostly left items out of alphabetical order that are out of alphabetical order in print edition. 
+Removed any [] and - from divheads; kept those in orth_orig. Over time, split entries (marked with a in orig_id), and corrected contents as needed. 
+Note: Combining UTF-8 characters where possible; modifier letter apostrophe (02BC) for Greek apostrophes. 
+Please report errors at logeion.uchicago.edu ("Report a Problem"). 
+
+
+ Revision 1.2 2004/12/14 20:14:41 packel
+ added id tags to entries/senses
+ 
+ Revision 1.1 2004/11/22 17:05:46 packel
+ converted to P4/XML
+ 	
+ Revision 1.5 2004/10/07 14:57:49 packel
+ ϟ/[san  ] -&gt; koppa/san
+ 
+ Revision 1.4 2004/09/02 15:31:17 packel
+ for entries w/ identical keys, appended numbers to keys to distinguish them
+ 
+ Revision 1.3 2004/06/16 17:50:22 lcerrato
+ added entry for bioteuw, which was not separate from previous word
+ also fixed polemou in same entry
+ added space in entry for mwros after esti
+ fixed translation which ended around key word because of typesetting in entry sxhmatizw
+ fixed typos in entry for epignamptw
+ 
+ Revision 1.2 2004/06/15 21:06:38 lcerrato
+ 1. malignant for malignat
+ 2. pe/rnhmi for perneul in piprasko entry
+ 3. removed space a)sebh/mata/
+ 4. removed for remoued
+ 5. vulgar for vhlgar
+ 6. a)nh/r for a)nh/o
+ 7. ravaging for rauaging
+ 8. bathe for dathe
+ 9. of light for oflight
+ 10. interperted to interpreted
+ 11. possil to possit
+ 12. trun to turn
+ 13. witty for wilty
+ 
+ Revision 1.1 2003/01/09 22:34:05 amahoney
+ this is now the official copy
+ 
+ Revision 1.4 2001/04/14 00:48:17 dasmith
+ Added funder.
+ 
+ Revision 1.3 2001/02/28 20:07:01 dasmith
+ Made headers mixed case.
+ 
+ Revision 1.2 2001/02/23 20:46:20 dasmith
+ Added preface.
+ 
+ Revision 1.1 2000/12/07 21:14:07 dasmith
+ Moved from special LSJ directory.
+ 
+ Revision 1.5 2000/10/06 22:54:24 dasmith
+ Chunk front matter on sections.
+ 
+ Revision 1.4 2000/10/03 16:06:06 dasmith
+ Fixed sourceDesc title.
+ Added ISBN.
+ 
+ Revision 1.3 2000/09/26 23:59:09 dasmith
+ I didnʼt mean to make alphabetic letters chunk.
+ 
+ Revision 1.2 2000/09/26 23:42:22 dasmith
+ Added alphabet to refsDecl.
+ 
+ Revision 1.1 2000/09/23 00:32:34 dasmith
+ Preamble and TEI header for loose SGML LSJ.
+ 
+ </item></change></revisionDesc></teiHeader>
+<text>
+
+<div1 n="*f" type="alphabetic letter" org="uniform" sample="complete"><head lang="greek" orth_orig="Φ">Φ</head>
+<div2 id="cross*f" orig_id="n110032" key="*f" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="Φ φ">φ</head>, <orth extent="full" lang="greek" opt="n">φεῖ</orth> (q.v.), <gen lang="greek" opt="n">τό</gen>, <itype opt="n">indecl.</itype>, twenty-first letter of the <gramGrp opt="n"><gram type="dialect" opt="n">Ion.</gram></gramGrp> alphabet: as a numeral <foreign lang="greek">φʹ</foreign> <abbr>=</abbr> 500, but <foreign lang="greek"><num>͵φ</num></foreign> <abbr>=</abbr> 500,000.</div2>
+
+ 
+<div2 id="crossfa=" orig_id="n110033" key="fa=" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="φᾶ">φᾶ</head>, <gramGrp opt="n"><gram type="dialect" opt="n">Dor.</gram></gramGrp> for <foreign lang="greek">ἔφα, ἔφη,</foreign> <sense id="n110033.0" n="A" level="1" opt="n">v. φημί.</sense></div2>
+
+ 
+<div2 id="crossfa/anqen" orig_id="n110034" key="fa/anqen" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="φάανθεν">φάανθεν</head>, <orth extent="full" lang="greek" opt="n">φαάνθη</orth>, <foreign lang="greek">ν. φαίνω.</foreign></div2>
+
+ 
+<div2 id="crossfa^a/nteros" orig_id="n110035" key="fa^a/nteros" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="φᾰάντερος">φαάντερος</head>, <itype lang="greek" opt="n">α</itype>, <itype lang="greek" opt="n">ον</itype>, <gramGrp opt="n"><gram type="dialect" opt="n">Ep.</gram></gramGrp> <gramGrp opt="n"><gram type="comp" opt="n">Comp. of</gram></gramGrp> <foreign lang="greek">φαεινός,</foreign> <sense id="n110035.0" n="A" level="1" opt="n"><i>more brilliant,</i> <author>AP</author> 9.210: <gramGrp opt="n"><gram type="comp" opt="n">Sup.</gram></gramGrp> <orth extent="full" lang="greek" opt="n">φᾰάντατος</orth>, <itype lang="greek" opt="n">η</itype>, <itype lang="greek" opt="n">ον</itype>, <i>brightest,</i> <cit><quote lang="greek">ἀστήρ</quote> <bibl n="Perseus:abo:tlg,0012,002:13:93" default="NO" valid="yes"><title>Od.</title> 13.93</bibl></cit>.</sense></div2>
+
+ 
+<div2 id="crossfa/ba1" orig_id="n110036" key="fa/ba1" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="φάβα">φάβα</head>, <itype lang="greek" opt="n">ατος</itype>, <gen lang="greek" opt="n">τό</gen>, (Lat. <sense id="n110036.0" n="A" level="1" opt="n"><i>faba) beans,</i> <author>Edict.Diocl.</author> 1.9 (CIL iii p.232858), 6.38, <title>Hippiatr.</title> 7, 104, 129, 130.134, <title>Gloss.</title></sense></div2>
+
+ 
+<div2 id="crossfa/ba2" orig_id="n110037" key="fa/ba2" type="gloss" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="φάβα·">φάβα</head> <foreign lang="greek">μέγας φόβος,</foreign> <author>Hsch.</author></div2>
+
+ 
+<div2 id="crossfa^bata/rion" orig_id="n110038" key="fa^bata/rion" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="φᾰβατάριον">φαβατάριον</head>, <gen lang="greek" opt="n">τό</gen>, <sense id="n110038.0" n="A" level="1" opt="n"><i>tureen for lentil-soup,</i> <author>POxy.</author> 1657.6 <date>(iii A. D.)</date>.</sense></div2>
+
+ 
+<div2 id="crossfa^ba/tinos" orig_id="n110039" key="fa^ba/tinos" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="φᾰβάτινος">φαβάτινος</head>, <itype lang="greek" opt="n">η</itype>, <itype lang="greek" opt="n">ον</itype>, <sense id="n110039.0" n="A" level="1" opt="n"><i>made of beans,</i> from Lat. <i>faba,</i> <cit><quote lang="greek">ἄλευρον</quote> <author>Alex.</author></cit> Trall.<bibl n="Perseus:abo:tlg,0402,001:3:7" default="NO">3.7</bibl>.</sense></div2>
+</div1>
+ 
+</text>
+</tei.2>
+

@@ -1,0 +1,159 @@
+<tei.2>
+
+  <teiHeader status="new" type="text">
+   <fileDesc>
+    <titleStmt>
+ 	<title>A Greek-English Lexicon</title>
+ 	<title type="sub">Machine readable text</title>
+ 	<author>Henry George Liddell</author>
+ 	<author>Robert Scott</author>
+    <sponsor>Perseus Project, Tufts University</sponsor>
+ 		<principal>Gregory Crane</principal>
+ 		<respStmt>
+ 		<resp>Prepared under the supervision of</resp>
+ 		<name>Lisa Cerrato</name>
+ 		<name>William Merrill</name>
+ 		<name>Elli Mylonas</name>
+ 		<name>David Smith</name>
+ 		</respStmt>
+    <funder n="org:NEH">The National Endowment for the Humanities</funder>
+    </titleStmt>
+ 	<publicationStmt>
+ 		<publisher>Trustees of Tufts University</publisher>
+ 		<pubPlace>Medford, MA</pubPlace>
+ 		<authority>Perseus Project</authority>
+ 		</publicationStmt>
+    <sourceDesc default="NO">
+ 	<biblStruct default="NO">
+ 	 <monogr>
+ 	  <author>Henry George Liddell</author>
+ 	  <author>Robert Scott</author>
+ 	  <title>A Greek-English Lexicon</title>
+ 	  <respStmt>
+ 	   <resp>revised and augmented throughout by</resp>
+ 	   <name>Sir Henry Stuart Jones</name>
+ 	   <resp>with the assistance of</resp>
+ 	   <name>Roderick McKenzie</name>
+ 	  </respStmt>
+ 	  <imprint>
+ 	   <pubPlace>Oxford</pubPlace>
+ 	   <publisher>Clarendon Press</publisher>
+ 	   <date>1940</date>
+ 	  </imprint>
+ 	 </monogr>
+ 	 <idno type="ISBN">0198642261</idno>
+ 	</biblStruct>
+    </sourceDesc>
+   </fileDesc>
+ 
+   <encodingDesc>
+    <refsDecl doctype="TEI.2">
+ 	<state n="chunk" unit="entry" />
+    </refsDecl>
+    <refsDecl doctype="TEI.2">
+ 	<state unit="alphabetic letter" />
+ 	<state unit="entry" />
+    </refsDecl>
+    <refsDecl doctype="TEI.2">
+ 	<state n="chunk" unit="section" />
+    </refsDecl>
+   </encodingDesc>
+   
+   <profileDesc>
+    <langUsage default="NO">
+ 	<language id="en">English
+ 	</language><language id="greek">Greek
+ 	</language><language id="la">Latin
+ 	</language><language id="fr">French
+    </language></langUsage>
+   </profileDesc>
+   
+   <revisionDesc>
+    <change><date>22 September 2000</date>
+ 	<respStmt><name>DAS</name><resp>ed.</resp></respStmt>
+ 	<item>
+ $Log: lsj.xml,v $
+
+Revisions 2.0 through 2018/11/05 Helma Dik
+Converted to Unicode; checked alphabetized div2 heads to find misspelled or mistakenly split entries. 
+Note: I mostly left items out of alphabetical order that are out of alphabetical order in print edition. 
+Removed any [] and - from divheads; kept those in orth_orig. Over time, split entries (marked with a in orig_id), and corrected contents as needed. 
+Note: Combining UTF-8 characters where possible; modifier letter apostrophe (02BC) for Greek apostrophes. 
+Please report errors at logeion.uchicago.edu ("Report a Problem"). 
+
+
+ Revision 1.2 2004/12/14 20:14:41 packel
+ added id tags to entries/senses
+ 
+ Revision 1.1 2004/11/22 17:05:46 packel
+ converted to P4/XML
+ 	
+ Revision 1.5 2004/10/07 14:57:49 packel
+ ϟ/[san  ] -&gt; koppa/san
+ 
+ Revision 1.4 2004/09/02 15:31:17 packel
+ for entries w/ identical keys, appended numbers to keys to distinguish them
+ 
+ Revision 1.3 2004/06/16 17:50:22 lcerrato
+ added entry for bioteuw, which was not separate from previous word
+ also fixed polemou in same entry
+ added space in entry for mwros after esti
+ fixed translation which ended around key word because of typesetting in entry sxhmatizw
+ fixed typos in entry for epignamptw
+ 
+ Revision 1.2 2004/06/15 21:06:38 lcerrato
+ 1. malignant for malignat
+ 2. pe/rnhmi for perneul in piprasko entry
+ 3. removed space a)sebh/mata/
+ 4. removed for remoued
+ 5. vulgar for vhlgar
+ 6. a)nh/r for a)nh/o
+ 7. ravaging for rauaging
+ 8. bathe for dathe
+ 9. of light for oflight
+ 10. interperted to interpreted
+ 11. possil to possit
+ 12. trun to turn
+ 13. witty for wilty
+ 
+ Revision 1.1 2003/01/09 22:34:05 amahoney
+ this is now the official copy
+ 
+ Revision 1.4 2001/04/14 00:48:17 dasmith
+ Added funder.
+ 
+ Revision 1.3 2001/02/28 20:07:01 dasmith
+ Made headers mixed case.
+ 
+ Revision 1.2 2001/02/23 20:46:20 dasmith
+ Added preface.
+ 
+ Revision 1.1 2000/12/07 21:14:07 dasmith
+ Moved from special LSJ directory.
+ 
+ Revision 1.5 2000/10/06 22:54:24 dasmith
+ Chunk front matter on sections.
+ 
+ Revision 1.4 2000/10/03 16:06:06 dasmith
+ Fixed sourceDesc title.
+ Added ISBN.
+ 
+ Revision 1.3 2000/09/26 23:59:09 dasmith
+ I didnʼt mean to make alphabetic letters chunk.
+ 
+ Revision 1.2 2000/09/26 23:42:22 dasmith
+ Added alphabet to refsDecl.
+ 
+ Revision 1.1 2000/09/23 00:32:34 dasmith
+ Preamble and TEI header for loose SGML LSJ.
+ 
+ </item></change></revisionDesc></teiHeader>
+<text>
+
+<div1 n="san" type="alphabetic letter" org="uniform" sample="complete"><head lang="greek" orth_orig="[σαν  ]">σάν</head>
+<div2 id="crosssan" orig_id="n92017" key="san" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="Ϻ">σάν</head> (Greek name prob. <orth extent="full" lang="greek" opt="n">σάν</orth> (v. Σ ς B. 2), <sense id="n92017.0" n="A" level="1" opt="n">eighteenth letter in the Etruscan abecedaria (<title>IG</title> 14.2420) and probably in the oldest Gr. alphabets, occupying the same serial position as the Hebrew Tsade, Phoenician Sadi <title>Syria</title> 6.103), with which it may be identified. In many of the oldest Gr. alphabets it represents the sound <i>s</i>, for which ϟ and Σ (twenty-first letter in the Etruscan abecedaria) is an alternative representation preferred in other Gr. alphabets. It is uncertain whether the letter Ͳ (name and serial position unknown), which represents the sound <itype lang="greek" opt="n">σσ</itype> in <title>Schwyzer</title> 707 (Ephesus, <date>vi B.C.</date>), 701<title>A</title> 17 (Erythrae, <date>v B.C.</date>), <title>SIG</title> 4.6 (Cyzicus, <date>vi B.C.</date>), 45.2, al. (Halic., <date>v B.C.</date>) and the third sound (<itype lang="greek" opt="n">σσ</itype>?) in the name of Mesambria in <i>BMus.Cat.Coins Thrace</i> p.132, is to be identified with <orth extent="full" lang="greek" opt="n">Ϻ</orth>. </sense><sense>It is also uncertain whether the numerical symbol  (= 900), described by <author>Gal.</author> 17(1).525, which has this form in <bibl n="Perseus:abo:pap,P.Eleph.:1" default="NO"><title>PEleph.</title> 1</bibl> <date>(iv B.C.)</date>, <bibl n="Perseus:abo:pap,P.Cair.Zen.:22:5" default="NO"><title>PCair.Zen.</title> 22.5</bibl> <date>(iii B.C.)</date>, <title>Rev.Phil.</title> 35.138 (Thessaly, <date>iii B.C.</date>), <title>Milet.</title> 6.39 <date>(ii B.C.)</date>, where it forms part of a symbol for thousands, and later the forms <orth extent="full" lang="greek" opt="n">Τ</orth> <title>JHS</title> 26.287 (Athenian tesserae of <date>iv B.C.</date>), 25.342 (papyri of <date>ii B.C.</date>), <title>SIG</title> 695.83 (<author>Magn.</author> Mae., <date>ii B.C.</date>), <title>IG</title> 12(1).913 (Rhodes, <date>i B.C.</date>), [see print copy] ib.22.2776.11, al. <date>(ii A.D.)</date>, and [see print copy] (medieval Mss., called <foreign lang="greek">παρακύϊσμα</foreign> in Sch.<bibl n="Perseus:abo:tlg,0063,001:p.496" default="NO"><author>D.T.</author> p.496</bibl> H.), is to be identified with either of the foregoing. The numerical symbol, in the form [see print copy], follows <itype lang="greek" opt="n">ω</itype> in an Attic abecedarium, <i>Bullettino dell’ Inst. di corrisp. archeol.</i> <bibl n="Perseus:abo:tlg,0063,001:1867:75" default="NO">1867.75</bibl>, and that position tallies with its numerical value, since <itype lang="greek" opt="n">ω</itype> <abbr>=</abbr> <bibl n="Perseus:abo:tlg,0063,001:800" default="NO">800</bibl>. The extended alphabet used by <bibl n="Perseus:abo:tlg,0552,004:11" default="NO"><author>Archim.</author> <title>Spir.</title> 11</bibl>, <bibl n="Perseus:abo:tlg,0552,005:2:3" default="NO"><title>Aequil.</title> 2.3</bibl> for a diagram ends with <itype lang="greek" opt="n">Ω</itype> Ϡ Ϙ.</sense></div2>
+</div1>
+ 
+
+</text>
+</tei.2>
