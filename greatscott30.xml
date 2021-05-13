@@ -74,11 +74,13 @@
  	<item>
  $Log: lsj.xml,v $
 
-Revisions 2.0 through 2018/11/05 Helma Dik
+Revisions 2.0 through 2021/02/19 Helma Dik
+
 Converted to Unicode; checked alphabetized div2 heads to find misspelled or mistakenly split entries. 
 Note: I mostly left items out of alphabetical order that are out of alphabetical order in print edition. 
 Removed any [] and - from divheads; kept those in orth_orig. Over time, split entries (marked with a in orig_id), and corrected contents as needed. 
 Note: Combining UTF-8 characters where possible; modifier letter apostrophe (02BC) for Greek apostrophes. 
+Ongoing incremental editorial work on OCR errors and citation references (URNs)
 Please report errors at logeion.uchicago.edu ("Report a Problem"). 
 
 

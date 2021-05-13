@@ -74,12 +74,14 @@
  	<item>
  $Log: lsj.xml,v $
 
-Revisions 2.0 through 2018/11/05 Helma Dik
+Revisions 2.0 through 2021/02/19 Helma Dik
 Converted to Unicode; checked alphabetized div2 heads to find misspelled or mistakenly split entries. 
 Note: I mostly left items out of alphabetical order that are out of alphabetical order in print edition. 
 Removed any [] and - from divheads; kept those in orth_orig. Over time, split entries (marked with a in orig_id), and corrected contents as needed. 
 Note: Combining UTF-8 characters where possible; modifier letter apostrophe (02BC) for Greek apostrophes. 
+Ongoing incremental editorial work on OCR errors and citation references (URNs)
 Please report errors at logeion.uchicago.edu ("Report a Problem"). 
+
 
 
  Revision 1.2 2004/12/14 20:14:41 packel
@@ -824,7 +826,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  
 <p>In the description of the editions used ʼ OCT’ is added to show that the work is one of the Oxford Classical
  Texts (<title>Scriptorum Classicorum Bibliotheca Oxoniensis</title>); similarly ‘T.’ indicates the smaller Teubner Series (<title>Bibliotheca
- Scriptorum Graecorum et Romanorum Teubneriana</title>), ʼ D.’ the Didot editions, and ‘Loeb’ the Loeb Classical Library.
+ Scriptorum Graecorum et Romanorum Teubneriana</title>), ‘D.’ the Didot editions, and ‘Loeb’ the Loeb Classical Library.
  </p></div2>
  
 <div2 n="B" type="subsection" org="uniform" sample="complete">

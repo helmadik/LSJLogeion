@@ -74,11 +74,13 @@
  	<item>
  $Log: lsj.xml,v $
 
-Revisions 2.0 through 2018/11/05 Helma Dik
+Revisions 2.0 through 2021/02/19 Helma Dik
+
 Converted to Unicode; checked alphabetized div2 heads to find misspelled or mistakenly split entries. 
 Note: I mostly left items out of alphabetical order that are out of alphabetical order in print edition. 
 Removed any [] and - from divheads; kept those in orth_orig. Over time, split entries (marked with a in orig_id), and corrected contents as needed. 
 Note: Combining UTF-8 characters where possible; modifier letter apostrophe (02BC) for Greek apostrophes. 
+Ongoing incremental editorial work on OCR errors and citation references (URNs)
 Please report errors at logeion.uchicago.edu ("Report a Problem"). 
 
 
@@ -196,7 +198,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossr(abdodi/aitos" orig_id="n92033" key="r(abdodi/aitos" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ῥαβδο-δίαιτος">ῥαβδοδίαιτος</head> [<foreign lang="greek">ῐ], <itype lang="greek" opt="n">ον</itype></foreign>, <sense id="n92033.0" n="A" level="1" opt="n"><i>living by the painterʼs stile</i> (ῥαβδίον I.3), epith. of Parrhasius, a parody on <foreign lang="greek">ἁβροδίαιτος</foreign>, <bibl n="Perseus:abo:tlg,0008,001:12:543d" default="NO"><author>Ath.</author> 12.543d</bibl>, <bibl n="Perseus:abo:tlg,0008,001:15:687c" default="NO">15.687c</bibl>.</sense></div2>
 
  
-<div2 id="crossr(abdoeidh/s" orig_id="n92034" key="r(abdoeidh/s" type="main" opt="n"><head extent="suff" lang="greek" opt="n" orth_orig="ῥαβδο-ειδής">ῥαβδοειδής</head>, <itype lang="greek" opt="n">ές</itype>, <sense id="n92034.0" n="A" level="1" opt="n"><i>striped</i>, <cit><quote lang="greek">πόα</quote> <author>Dsc.</author> 3.97</cit>; <cit><quote lang="greek">ἄνθος</quote> <title>Gp.</title> 12.37</cit>; <foreign lang="greek">γόμφοι</foreign> v.l. for λαβδ- in <title>Hippiatr.</title> 96.</sense></div2>
+<div2 id="crossr(abdoeidh/s" orig_id="n92034" key="r(abdoeidh/s" type="main" opt="n"><head extent="suff" lang="greek" opt="n" orth_orig="ῥαβδο-ειδής">ῥαβδοειδής</head>, <itype lang="greek" opt="n">ές</itype>, <sense id="n92034.0" n="A" level="1" opt="n"><i>striped</i>, <cit><quote lang="greek">πόα</quote> <author>Dsc.</author> 3.97</cit>; <cit><quote lang="greek">ἄνθος</quote> <bibl n="Perseus:abo:tlg,4080,001:12:37" default="NO"><title>Gp.</title> 12.37</bibl></cit>; <foreign lang="greek">γόμφοι</foreign> v.l. for λαβδ- in <title>Hippiatr.</title> 96.</sense></div2>
 
  
 <div2 id="crossr(abdomantei/a" orig_id="n92035" key="r(abdomantei/a" type="main" opt="n"><head extent="suff" lang="greek" opt="n" orth_orig="ῥαβδο-μαντεία">ῥαβδομαντεία</head>, <gen lang="greek" opt="n">ἡ</gen>, <sense id="n92035.0" n="A" level="1" opt="n"><i>divination by a wand,</i> <author>Gloss.</author></sense></div2>
