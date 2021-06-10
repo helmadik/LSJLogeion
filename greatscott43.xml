@@ -1941,7 +1941,10 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="cross*lasi/smata" orig_id="n62018" key="*lasi/smata" type="gloss" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="Λασίσματα·">Λασίσματα</head> <foreign lang="greek">ὡς σοφιστοῦ τοῦ Λάσου καὶ πολυπλόκου</foreign>, <author>Hsch.</author> </div2>
 
  
-<div2 id="crosslasito/s" orig_id="n62018" key="lasito/s" type="gloss" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="λασιτός·">λασιτός</head> <foreign lang="greek">κίναιδος, ἢ λεσιτός </foreign><foreign lang="greek">πόρνη</foreign>, <author>Hsch.</author> (cf. <foreign lang="greek">λαίσιτος</foreign>). <orth extent="full" lang="greek" opt="n">λασιχνεύουσα·</orth> <foreign lang="greek">πλανωμένη</foreign> (<placeName>Sicel</placeName>), Id.</div2>
+<div2 id="crosslasito/s" orig_id="n62018a" key="lasito/s" type="gloss" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="λασιτός·">λασιτός</head> <foreign lang="greek">κίναιδος, ἢ λεσιτός </foreign><foreign lang="greek">πόρνη</foreign>, <author>Hsch.</author> (cf. <foreign lang="greek">λαίσιτος</foreign>). </div2>
+
+ 
+<div2 id="crosslasixneu/ousa" orig_id="n62019" key="lasixneu/ousa" type="gloss" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="λασιχνεύουσα·">λασιχνεύουσα</head> <foreign lang="greek">πλανωμένη</foreign> (<placeName>Sicel</placeName>), <author>Hsch.</author></div2>
 
  
 <div2 id="crossla^si^w/n" orig_id="n62020" key="la^si^w/n" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="λᾰσῐ-ών">λασιών</head>, <itype lang="greek" opt="n">ῶνος</itype>, <gen lang="greek" opt="n">ὁ</gen>, (<cit><quote lang="greek">λάσιος</quote> <bibl n="Perseus:abo:tlg,4085,001:11" default="NO">II</bibl></cit>) <sense id="n62020.0" n="" level="1" opt="n"><i>thicket</i>, <bibl n="Perseus:abo:tlg,0022,001:28" default="NO"><author>Nic.</author> <title>Th.</title> 28</bibl>, <bibl n="Perseus:abo:tlg,0022,001:489" default="NO">489</bibl>.</sense></div2>
