@@ -3652,7 +3652,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossa)/oron" orig_id="n11152" key="a)/oron" type="gloss" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ἄορον·">ἄορον</head> <foreign lang="greek">μοχλόν, πυλῶνα, θυρωρόν</foreign> (Cypr.), <author>Hsch.</author> <orth extent="full" lang="greek" opt="n">ἄορος</orth> <foreign lang="greek">· ἄυπνος</foreign> (Methymn.), Id.</div2>
 
  
-<div2 id="crossa)orteu/s" orig_id="n11153" key="a)orteu/s" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ἀορτ-εύς">ἀορτεύς</head> <pron extent="full" lang="greek" opt="n">[ᾰ]</pron><foreign lang="greek">· ἀορτηρ,</foreign> <author>Hsch.</author></div2>
+<div2 id="crossa)orteu/s" orig_id="n11153" key="a)orteu/s" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ἀορτ-εύς">ἀορτεύς</head> <pron extent="full" lang="greek" opt="n">[ᾰ]</pron>· <foreign lang="greek">ἀορτηρ,</foreign> <author>Hsch.</author></div2>
 
  
 <div2 id="crossa)orte/w" orig_id="n11154" key="a)orte/w" type="main" opt="n"><head extent="suff" lang="greek" opt="n" orth_orig="ἀορτ-έω">ἀορτέω</head>, <sense id="n11154.0" n="Α" level="1" opt="n">lengthd. form of <foreign lang="greek">ἀείρω,</foreign> found only in <tns opt="n">aor. 1</tns> <mood opt="n">part.</mood> <gramGrp opt="n"><gram type="voice" opt="n">Pass.</gram></gramGrp> <cit><quote lang="greek">ἀορτηθείς</quote> <i>hung up, suspended,</i> <bibl n="Perseus:abo:tlg,7000,001:7:696" default="NO"><title>AP</title> 7.696</bibl></cit> (<author>Arch.</author>).</sense></div2>
@@ -6094,7 +6094,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossa)perktiko/s" orig_id="n11959" key="a)perktiko/s" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ἀπερκτικός">ἀπερκτικός</head>, <sense id="n11959.0" n="" level="1" opt="n">= ἀπειρκτικός, prob.l. for <foreign lang="greek">παρεκτικός,</foreign> <bibl n="Perseus:abo:tlg,0732,007:97" default="NO"><author>Alex.Aphr.</author> <title>in Sens.</title> 97</bibl>.</sense></div2>
 
  
-<div2 id="crossa)peropeu/s" orig_id="n11960" key="a)peropeu/s" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ἀπεροπεύς">ἀπεροπεύς</head>, <itype lang="greek" opt="n">έως</itype>, <gen lang="greek" opt="n">ὁ</gen><foreign lang="greek">,ἠπεροτευτής,</foreign> <bibl n="Perseus:abo:tlg,4099,001:433:45" default="NO"><title>EM</title> 433.45</bibl>.</div2>
+<div2 id="crossa)peropeu/s" orig_id="n11960" key="a)peropeu/s" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ἀπεροπεύς">ἀπεροπεύς</head>, <itype lang="greek" opt="n">έως</itype>, <gen lang="greek" opt="n">ὁ</gen>, = <foreign lang="greek">ἠπεροτευτής,</foreign> <bibl n="Perseus:abo:tlg,4099,001:433:45" default="NO"><title>EM</title> 433.45</bibl>.</div2>
 
  
 <div2 id="crossa)perrimme/nws" orig_id="n11961" key="a)perrimme/nws" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ἀπερριμμένως">ἀπερριμμένως</head>, <pos opt="n">Adv.</pos> <tns opt="n">pf.</tns> <mood opt="n">part.</mood> <gramGrp opt="n"><gram type="voice" opt="n">Pass.</gram></gramGrp> of <foreign lang="greek">ἀπορρίπτω,</foreign> <sense id="n11961.0" n="" level="1" opt="n"><i>negligently,</i> <bibl n="Perseus:abo:tlg,1183,001:28" default="NO" valid="yes"><author>Aristeas</author> 28</bibl>.</sense></div2>
