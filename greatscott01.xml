@@ -2777,12 +2777,11 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    <title>Scriptores Historiae Augustae,</title> ed. H. Peter2, Leipzig (T.) 1884.</item>
  <item><hi rend="bold">Homerus</hi> Epicus [Hom.]
    Ed. D. B. Monro &amp; T. W. Allen, Oxford (OCT).
-      Batr. = Batrachomyomachia (q.v.)}
-      Il. = Ilias           }sine auctoris nomine
-      Od. = Odyssea          }laudantur.
+      Batr. = Batrachomyomachia (q.v.)}<br />
+      Il. = Ilias           }sine auctoris nomine<br />
+      Od. = Odyssea          }laudantur.<br />
     </item>
-    <item><title>Epigr. = Epigrammata,</title> ed. D. B. Monro, Oxford 1896. [Hom.
-      </item><item><title>Epigr.</title>]
+    <item><title>Epigr. = Epigrammata,</title> ed. D. B. Monro, Oxford 1896. [Hom. </item><item><title>Epigr.</title>]
     </item><item><title>Hymni,</title> v. Hymni Homerici.
    Scholia in Homeri Iliadem, ed. W. Dindorf, 4 vols., Oxford 1874;
       vols. v and vi, ed. E. Maass, Oxford 1887-8.
@@ -3719,7 +3718,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
     Studien</title> i, Leipzig 1865. [Col. or <title>Fr.</title>]
    <title>Sto.</title> = <foreign lang="greek">περὶ τῶν Στωικῶν,</foreign> ed. W. Crönert, <title>Kolotes und Menedemos,</title>
     Leipzig 1906, pp. 53 sqq. [Col. or <title>Fr.</title>]
-   <title>Vit.</title> = <foreign lang="greek">περὶ κακιῶν ί,</foreign> ed. C. Jensen, Leipzig (T.) 1911.</item>
+   <title>Vit.</title> = <foreign lang="greek">περὶ κακιῶν ιʹ,</foreign> ed. C. Jensen, Leipzig (T.) 1911.</item>
  <item><hi rend="bold">Philodemus Gadarensis</hi> Epigrammaticus [Phld.] <date>i B.C.</date>
    Videtur idem fuisse ac philosophus.
    v. <title>Anthologia Graeca.</title></item>
@@ -5144,9 +5143,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  <item><title>PFreib. = Mitteilungen aus der Freiburger Papyrussammlung,</title> in
    <title>Sitzungsberichte der Heidelberger Akademie der Wissenschaften,
    Phil.-hist. Klasse,</title> 1914, 2. <title>Abh.,</title> 1916, 10. <title>Abh.</title></item>
- <item><title>PGand} = Quelques papyrus des collections de Gand et de Paris,</title> ed.</item>
- <item><title>PSorb.}</title> M. Hombert, <title>Revue belge de Philologie et d’ Histoire</title> iv (1925),
-   633-76: republished in <title>Sammelb.</title> iii.</item>
+ <item><title>PGand</title>, <title>PSorb.</title> = <title>Quelques papyrus des collections de Gand et de Paris,</title> ed. M. Hombert, <title>Revue belge de Philologie et d’ Histoire</title> iv (1925),  633-76: republished in <title>Sammelb.</title> iii.</item>
  <item><title>PGen. = Les papyrus de Genève</title> transcrits et publiés par Jules Nicole,
    Geneva 1896, 1900.</item>
  <item><title>PGiss. = Griechische Papyri im Museum des oberhessischen Geschichtsvereins zu Giessen,</title> Bd. I, Hefte 1-3, ed. O. Eger, E. Kornemann,
@@ -5155,9 +5152,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    Schubart 1919.</item>
  <item><title>PGoodsp.</title> = E. J. Goodspeed, <title>A group of Greek papyrus texts (Class.
    Phil.</title> i, 1906, p. 167).</item>
- <item><title>PGoodsp.Cair.</title> = E. J. Goodspeed, <title>Greek papyri from the Cairo</title>
-   <title>Museum . . (Decennial publications of the University of Chicago,</title>
-   1st series, vol. v p. 3), Chicago 1904.</item>
+ <item><title>PGoodsp.Cair.</title> = E. J. Goodspeed, <title>Greek papyri from the Cairo Museum . . (Decennial publications of the University of Chicago,</title>  1st series, vol. v p. 3), Chicago 1904.</item>
  <item><title>PGot.</title> = H. Frisk, <title>Papyrus grecs de la Bibl. Municipale de Gothembourg,</title> Göteborg 1929.</item>
  <item><title>PGrad.</title> = G. Plaumann, <title>Griechische Papyri der Sammlung Gradenwitz (Sitzungsberichte der Heidelberger Akademie der Wissenschaften,</title> 1914, 15. <title>Abh.</title>).</item>
  <item><title>PGrenf.</title> 1. = B. P. Grenfell. <title>An Alexandrian erotic fragment and other
@@ -5291,8 +5286,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    at Manchester,</title> vol. i 1911, ed. A. S. Hunt; vol. ii 1915, ed.
    A. S. Hunt, J. de M. Johnson, V. Martin; vol. iii 1938, ed.
    C. H. Roberts.</item>
- <item><title>PSI = Papiri greci e latini (Pubblicazioni della Società italiana per la
-   ricerca dei papiri greci e latini in Egitto),</title> Firenze 1912-; cited by
+ <item><title>PSI = Papiri greci e latini (Pubblicazioni della Società italiana per la ricerca dei papiri greci e latini in Egitto),</title> Firenze 1912-; cited by
    No. of vol., papyrus, and line.</item>
  <item><title>PSorb.</title> (i.e. Papyri in the Sorbonne), v. <title>PGand.</title></item>
  <item><title>PStrassb.</title> = F. Preisigke, <title>Griechische Papyrus der kaiserlichen Universitäts- und Landesbibliothek zu Strassburg,</title> 2 vols., Strassburg
@@ -5480,7 +5474,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    Sér. 1927-.</item>
  <item><title>Rh.Mus. = Rheinisches Museum,</title> Neue Folge, Frankfurt 1842-1920.</item>
  <item><title>Riv.Fil. = Rivista di Filologia,</title> 1873-.</item>
- <item><title>Riv.1st.Arch. = Rivista del R. Istituto d’ Archeologia e Storia dell’ Arte,</title> Rome 1929-.</item>
+ <item><title>Riv.Ιst.Arch. = Rivista del R. Istituto d’ Archeologia e Storia dell’ Arte,</title> Rome 1929-.</item>
  <item><title>Röm.Mitt. = Mitteilungen des deutschen archäologischen Instituts,
    Römische Abteilung,</title> 1886-.</item>
  <item><title>Sitzb.Heidelb.Akad. = Heidelberg. Akademie der Wissenschaften. Sitzungsberichte (phil.-hist. Klasse</title>) 1910- (cited by year).</item>
