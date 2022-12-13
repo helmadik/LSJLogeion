@@ -3009,7 +3009,8 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
     </item><item><title>DDeor. = Dialogi Deorum</title>
     </item><item><title>DMar. = Dialogi Marini</title>
     </item><item><title>DMeretr. = Dialogi Meretricii</title>
-    </item><item><title>DMort. = Dialogi Mortuorum</title>
+    </item><item><title>DMort. = Dialogi Mortuorum</title></item>
+    <item>[MacLeod's OCT is the basis for the TLG canonical numbering. LSJ references looking as follows, DMort. 5[18].2 will direct to 5.2 in URN conformant texts, but correspond to Jacobitz 18.2.--HD]
     </item><item><title>Dem.Enc. = Demosthenis Encomium</title>
     </item><item><title>Demon. = Demonax</title>
     </item><item><title>Deor.Conc. = Deorum Concilium</title>
