@@ -48,14 +48,14 @@
  
    <encodingDesc>
     <refsDecl doctype="TEI.2">
- 	<state n="chunk" unit="entry" />
+ 	<state n="chunk" unit="entry"/>
     </refsDecl>
     <refsDecl doctype="TEI.2">
- 	<state unit="alphabetic letter" />
- 	<state unit="entry" />
+ 	<state unit="alphabetic letter"/>
+ 	<state unit="entry"/>
     </refsDecl>
     <refsDecl doctype="TEI.2">
- 	<state n="chunk" unit="section" />
+ 	<state n="chunk" unit="section"/>
     </refsDecl>
    </encodingDesc>
    
