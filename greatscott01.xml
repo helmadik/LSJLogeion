@@ -48,14 +48,14 @@
  
    <encodingDesc>
     <refsDecl doctype="TEI.2">
- 	<state n="chunk" unit="entry" />
+ 	<state n="chunk" unit="entry"/>
     </refsDecl>
     <refsDecl doctype="TEI.2">
- 	<state unit="alphabetic letter" />
- 	<state unit="entry" />
+ 	<state unit="alphabetic letter"/>
+ 	<state unit="entry"/>
     </refsDecl>
     <refsDecl doctype="TEI.2">
- 	<state n="chunk" unit="section" />
+ 	<state n="chunk" unit="section"/>
     </refsDecl>
    </encodingDesc>
    
@@ -205,7 +205,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  strictures, and his prophecy that a work in which 139 columns were devoted to the word
  
  
- <pb n="iv" />
+ <pb n="iv"/>
  
  <foreign lang="greek">ἄγαλμα</foreign> would run to fifty volumes and attain to completion in 1889 was signally falsified.
  The work labours under the serious disadvantage of retaining the etymological arrangement
@@ -261,7 +261,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  are contained; but he seems to have laid the work aside in his later years,
   and he died in 1898, at the age of 87, a few months after the appearance of the eighth edition.
  
- <pb n="v" />
+ <pb n="v"/>
  </p>
  
 <p>Some five years later the Delegates of the Clarendon Press were invited to consider
@@ -325,7 +325,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  </quote>
  
  
- <pb n="vi" />
+ <pb n="vi"/>
  
  Dielsʼs own solution was the compilation, not of one, but of ten Thesauri, representing the
  main branches of Greek Literature, Epic, Lyric, Tragic, Comic, Philosophical, Historical,
@@ -386,7 +386,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  a largely re-written Lexicon with the contributions of specialists and others whose help
  might be enlisted.
                     
- <pb n="vii" />
+ <pb n="vii"/>
  
  </p>
  
@@ -449,7 +449,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  difficulties frequently arise, for which Professor A. E. Housman, when appealed to, never
  fails to provide a solution.
  
- <pb n="viii" />
+ <pb n="viii"/>
  </p>
  
 <p>Amongst technical writings must be classed those of the tacticians and military
@@ -501,7 +501,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
   Mr. Stocks found himself unable to work up the material which he had collected within the
  
  
- <pb n="ix" />
+ <pb n="ix"/>
  
  necessary limits of time. His notes on Stoic terminology were therefore transferred to
  Mr. A. C. Pearson, who carried the work a stage further, but found, after his appointment
@@ -563,7 +563,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
   excerpted several of the less familiar writers), but such merits as the new edition may
  
  
- <pb n="x" />
+ <pb n="x"/>
  
  possess in virtue of largely increased illustration and more accurate interpretation of the
  ancient texts will in the main be due to the self-effacing and monumental labours of
@@ -618,7 +618,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  except the symbols ‘Eccl.’ and ‘Byz.’ After due consideration it has been decided to exclude
  both Patristic and Byzantine literature from the purview of the present edition. It would
  
- <pb n="xi" />
+ <pb n="xi"/>
  
  have manifestly been impossible to include more than a small and haphazard selection of
  words and quotations from these literatures, which would therefore have had to be treated
@@ -667,7 +667,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  
  
  
- <pb n="xii" />
+ <pb n="xii"/>
  
  <title>Ptolemäerzeit</title> furnish more accurate readings of Papyri and necessitate changes or deletions,<note n="1" anchored="yes" place="unspecified">For example, <foreign lang="greek">ἀντιπατάσσω</foreign> was cited by me from <title>PPar</title>. 40, but the reference was deleted from the proof when it was found that in <title>UPZ</title> 12 Wilcken read <foreign lang="greek">ὠνηλάται ὄντες</foreign> for <foreign lang="greek">ἀντιπατάσσοντες</foreign>!</note>
  and I must place on record my gratitude to Professor Wilcken for kindly undertaking to
@@ -743,7 +743,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  be made of the prolonged and arduous labours of Mr. M. N. Tod of Oriel College on the
  inscriptions; of Lt.-Col. A. S. L. Farquharson of University College on Plato and Aristotle;
  
- <pb n="xiv" />
+ <pb n="xiv"/>
  
  of Dr. E. T. Withington of Balliol College on the medical writers; of Sir DʼArcy Thompson
  of St. Andrews on natural history; and of the late Sir Thomas Heath on mathematics and
@@ -2777,9 +2777,9 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    <title>Scriptores Historiae Augustae,</title> ed. H. Peter2, Leipzig (T.) 1884.</item>
  <item><hi rend="bold">Homerus</hi> Epicus [Hom.]
    Ed. D. B. Monro &amp; T. W. Allen, Oxford (OCT).
-      Batr. = Batrachomyomachia (q.v.)}<br />
-      Il. = Ilias           }sine auctoris nomine<br />
-      Od. = Odyssea          }laudantur.<br />
+      Batr. = Batrachomyomachia (q.v.)}<br/>
+      Il. = Ilias           }sine auctoris nomine<br/>
+      Od. = Odyssea          }laudantur.<br/>
     </item>
     <item><title>Epigr. = Epigrammata,</title> ed. D. B. Monro, Oxford 1896. [Hom. </item><item><title>Epigr.</title>]
     </item><item><title>Hymni,</title> v. Hymni Homerici.
