@@ -1767,7 +1767,10 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossprotu/pwsis" orig_id="n90576" key="protu/pwsis" type="main" opt="n"><head extent="suff" lang="greek" opt="n" orth_orig="προτύπ-ωσις">προτύπωσις</head>, <itype lang="greek" opt="n">εως</itype>, <gen lang="greek" opt="n">ἡ</gen>, <sense id="n90576.0" n="" level="1" opt="n"><i>prefiguration, preformation</i>, <cit><quote lang="greek">παρασκευὴ πρὸς τὰ ὄντα καὶ π.</quote> <bibl n="Perseus:abo:tlg,2000,001:6:6:10" default="NO"><author>Plot.</author> 6.6.10</bibl></cit>, cf. <bibl n="Perseus:abo:tlg,0087,036:126" default="NO"><author>Hdn.</author> <title>Epim.</title> 126</bibl>.</sense></div2>
 
  
-<div2 id="crossprou=" orig_id="n90577" key="prou=" type="gloss" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="προῦ·">προῦ</head> <foreign lang="greek">προσέρχου</foreign>, <author>Hsch.</author> <orth extent="full" lang="greek" opt="n">προυγελέω</orth>, v. προυσελέω.</div2>
+<div2 id="crossprou=" orig_id="n90577" key="prou=" type="gloss" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="προῦ·">προῦ</head> <foreign lang="greek">προσέρχου</foreign>, <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossprougele/w" orig_id="n90577a" key="prougele/w" type="gloss" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="προυγελέω">προυγελέω</head>, v. προυσελέω.</div2>
 
  
 <div2 id="crossprou+grai/nw" orig_id="n90578" key="prou+grai/nw" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="προϋγραίνω">προϋγραίνω</head>, <sense id="n90578.0" n="" level="1" opt="n"><i>moisten first</i>, <cit><quote lang="greek">σώματα τροφῇ</quote> <bibl n="Perseus:abo:tlg,0627,012:4:13" default="NO"><author>Hp.</author> <title>Aph.</title> 4.13</bibl></cit>, cf. <author>Gal.</author> 11.346.</sense></div2>
