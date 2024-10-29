@@ -2945,7 +2945,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossko/on" orig_id="n58940" key="ko/on" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="κόον">κόον</head>, v. κῷον.</div2>
 
  
-<div2 id="crosskoo/rtis" orig_id="n58941" key="koo/rtis" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="κοόρτις">κοόρτις</head>, <itype lang="greek" opt="n">ιος</itype>, <gen lang="greek" opt="n">ἡ</gen>, the Roman <sense id="n58941.0" n="" level="1" opt="n"><i>cohors</i>, <bibl n="Perseus:abo:tlg,0543,001:11:23:1"><author>Plb.</author> 11.23.1</bibl>, <bibl n="Perseus:abo:tlg,0543,001:11:33:1">11.33.1</bibl>, etc.</sense></div2>
+<div2 id="crosskoo/rtis" orig_id="n58941" key="koo/rtis" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="κοόρτις">κοόρτις</head>, <itype lang="greek" opt="n">ιος</itype>, <gen lang="greek" opt="n">ἡ</gen>, the Roman <sense id="n58941.0" n="" level="1" opt="n"><foreign lang="la">cohors</foreign>, <bibl n="Perseus:abo:tlg,0543,001:11:23:1"><author>Plb.</author> 11.23.1</bibl>, <bibl n="Perseus:abo:tlg,0543,001:11:33:1">11.33.1</bibl>, etc.</sense></div2>
 
  
 <div2 id="crossko/os" orig_id="n58942" key="ko/os" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="κόος">κόος</head>, <gen lang="greek" opt="n">ὁ</gen>, <sense id="n58942.0" n="" level="1" opt="n"><i>cavity</i> in the earth, <author>Hsch.</author> (pl.); from <gramGrp opt="n"><gram type="dialect" opt="n">Lacon.</gram></gramGrp> <foreign lang="greek">κόον,</foreign> = μέγα, <bibl n="Perseus:abo:tlg,4099,001:396:29" default="NO"><title>EM</title> 396.29</bibl>.</sense></div2>
