@@ -3541,7 +3541,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossa)nnwneako\n" orig_id="n9116" key="a)nnwneako\n" type="main" opt="n"><head extent="suff" lang="greek" opt="n" orth_orig="ἀννων-εακὸν">ἀννωνεακόν</head> <foreign lang="greek">φρόντισμα,</foreign> <abbr>=</abbr> <sense id="n9116.0" n="" level="1" opt="n"><i>cura annonae,</i> <author>Lyd.</author> <title>Mag.</title> 3.38.</sense></div2>
 
  
-<div2 id="crossa)nnwne/parxos" orig_id="n9117" key="a)nnwne/parxos" type="main" opt="n"><head extent="suff" lang="greek" opt="n" orth_orig="ἀννων-έπαρχος">ἀννωνέπαρχος</head>, <gen lang="greek" opt="n">ὁ</gen>, <sense id="n9117.0" n="" level="1" opt="n"><i>praefectus annonae,</i> <title>PFlor.</title> 75.20 <date>(iv A.D.)</date>.</sense></div2>
+<div2 id="crossa)nnwne/parxos" orig_id="n9117" key="a)nnwne/parxos" type="main" opt="n"><head extent="suff" lang="greek" opt="n" orth_orig="ἀννων-έπαρχος">ἀννωνέπαρχος</head>, <gen lang="greek" opt="n">ὁ</gen>, <sense id="n9117.0" n="" level="1" opt="n"><i><foreign lang="la">praefectus annonae</foreign>,</i> <title>PFlor.</title> 75.20 <date>(iv A.D.)</date>.</sense></div2>
 
  
 <div2 id="crossa)nnwneu/omai" orig_id="n9118" key="a)nnwneu/omai" type="main" opt="n"><head extent="suff" lang="greek" opt="n" orth_orig="ἀννων-εύομαι">ἀννωνεύομαι</head>, <gramGrp opt="n"><gram type="voice" opt="n">Pass.</gram></gramGrp>, <sense id="n9118.0" n="" level="1" opt="n"><i>to have as an allowance (annona),</i> <cit><quote lang="greek">ἀ. καθʼ ἑκάστην ἡμέραν ἄρτους μβ</quote> <title>OGI</title> 200.20</cit> (<placeName>Axum</placeName>).</sense></div2>
@@ -5167,7 +5167,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossa)ntepana/gomai" orig_id="n9654" key="a)ntepana/gomai" type="main" opt="n"><head extent="suff" lang="greek" opt="n" orth_orig="ἀντεπ-ανάγομαι">ἀντεπανάγομαι</head> <foreign lang="greek">[ᾰγ</foreign>], <sense id="n9654.0" n="" level="1" opt="n"><i>put to sea against,</i> <cit><quote lang="greek">πρός τινα</quote> <bibl n="Perseus:abo:tlg,0003,001:4:25"><author>Th.</author> 4.25</bibl></cit>.</sense></div2>
 
  
-<div2 id="crossa)nte/parxos" orig_id="n9655" key="a)nte/parxos" type="main" opt="n"><head extent="suff" lang="greek" opt="n" orth_orig="ἀντέπ-αρχος">ἀντέπαρχος</head>, <gen lang="greek" opt="n">ὁ</gen>, <sense id="n9655.0" n="" level="1" opt="n"><i>subpraefectus,</i> <title>Gloss.</title></sense></div2>
+<div2 id="crossa)nte/parxos" orig_id="n9655" key="a)nte/parxos" type="main" opt="n"><head extent="suff" lang="greek" opt="n" orth_orig="ἀντέπ-αρχος">ἀντέπαρχος</head>, <gen lang="greek" opt="n">ὁ</gen>, <sense id="n9655.0" n="" level="1" opt="n"><foreign lang="la">subpraefectus,</foreign> <title>Gloss.</title></sense></div2>
 
  
 <div2 id="crossa)ntepafi/hmi" orig_id="n9656" key="a)ntepafi/hmi" type="main" opt="n"><head extent="suff" lang="greek" opt="n" orth_orig="ἀντεπ-αφίημι">ἀντεπαφίημι</head> <foreign lang="greek">[φῐ</foreign>], <sense id="n9656.0" n="" level="1" opt="n"><i>let go, let slip against,</i> <cit><quote lang="greek">τινί</quote> <bibl n="Perseus:abo:tlg,0062,057:9" default="NO"><author>Luc.</author> <title>Zeux.</title> 9</bibl></cit>.</sense></div2>
