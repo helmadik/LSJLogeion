@@ -3409,7 +3409,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crosspolu/nostos" orig_id="n85116" key="polu/nostos" type="main" opt="n"><head extent="suff" lang="greek" opt="n" orth_orig="πολύ-νοστος">πολύνοστος</head>, <itype lang="greek" opt="n">ον</itype>, <sense id="n85116.0" n="" level="1" opt="n"><i>making much return;</i> of food, <i>very nutritious,</i> <cit><quote lang="greek">σιτία</quote> <bibl n="Perseus:abo:tlg,0627,031:2:56" default="NO"><author>Hp.</author> <title>Vict.</title> 2.56</bibl></cit> (v.l. -ναστα <i>very compact</i>): <gramGrp opt="n"><gram type="comp" opt="n">Comp.</gram></gramGrp>, of seed, <i>producing fuller grain,</i> <bibl n="Perseus:abo:tlg,0093,001:8:8:2" default="NO"><author>Thphr.</author> <title>HP</title> 8.8.2</bibl>.</sense></div2>
 
  
-<div2 id="crosspo/luntra" orig_id="n85117" key="po/luntra" type="gloss" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="πόλυντρα·">πόλυντρα</head> <foreign lang="greek">ἄλφιτα</foreign> (i.e. Lat. <sense id="n85117.0" n="" level="1" opt="n"><i>polenta</i>), <author>Hsch.</author></sense></div2>
+<div2 id="crosspo/luntra" orig_id="n85117" key="po/luntra" type="gloss" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="πόλυντρα·">πόλυντρα</head> <sense id="n85117.0" n="" level="1" opt="n"><foreign lang="greek">ἄλφιτα</foreign> (i.e. Lat. <foreign lang="lat">polenta</foreign>), <author>Hsch.</author></sense></div2>
 
  
 <div2 id="crosspolu/numfos" orig_id="n85118" key="polu/numfos" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="πολύ-νυμφος">πολύνυμφος</head>, <itype lang="greek" opt="n">ον</itype>, <sense id="n85118.0" n="" level="1" opt="n"><i>with many brides,</i> <bibl n="Perseus:abo:tlg,0542,001:3:48" default="NO"><author>Poll.</author> 3.48</bibl>.</sense></div2>
@@ -5195,7 +5195,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crosspopa^nw/dhs" orig_id="n85708" key="popa^nw/dhs" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ποπᾰνώδης">ποπανώδης</head>, <itype lang="greek" opt="n">ες</itype>, <sense id="n85708.0" n="" level="1" opt="n"><i>like a πόπανον,</i> <author>Hsch.</author> s.v. φυσακτήρ.</sense></div2>
 
  
-<div2 id="crosspo/pac" orig_id="n85709" key="po/pac" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="πόπαξ">πόπαξ</head>, Interj. <sense id="n85709.0" n="" level="1" opt="n">= πόποι: <cit><quote lang="greek">ἰού, ἰού, πόπαξ</quote> <bibl n="Perseus:abo:tlg,0085,007:143"><author>A.</author> <title>Eu.</title> 143</bibl></cit>.</sense></div2>
+<div2 id="crosspo/pac" orig_id="n85709" key="po/pac" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="πόπαξ">πόπαξ</head>, <sense id="n85709.0" n="" level="1" opt="n">Interj. = πόποι: <cit><quote lang="greek">ἰού, ἰού, πόπαξ</quote> <bibl n="Perseus:abo:tlg,0085,007:143"><author>A.</author> <title>Eu.</title> 143</bibl></cit>.</sense></div2>
 
  
 <div2 id="crosspo/par" orig_id="n85710" key="po/par" type="gloss" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="πόπαρ·">πόπαρ</head> <foreign lang="greek">πατήρ, καὶ πατρὸς πατήρ,</foreign> <author>Hsch.</author></div2>
@@ -5707,7 +5707,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crosspo/s1" orig_id="n85877" key="po/s1" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="πός">πός</head> (A), <gramGrp opt="n"><gram type="dialect" opt="n">Dor.</gram></gramGrp> <sense id="n85877.0" n="" level="1" opt="n">= πούς, <bibl n="Perseus:abo:tlg,4093,001:1:192" default="NO"><author>Choerob.</author> <title>in Theod.</title> 1.192</bibl>, <bibl n="Perseus:abo:tlg,4093,001:243" default="NO">243</bibl> H., <bibl n="Perseus:abo:tlg,4099,001:635:22" default="NO"><title>EM</title> 635.22</bibl>.</sense></div2>
 
  
-<div2 id="crosspo/s2" orig_id="n85878" key="po/s2" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="πός">πός</head> (B), Arc., Cypr. <sense id="n85878.0" n="" level="1" opt="n">= πρός (q.v.).</sense></div2>
+<div2 id="crosspo/s2" orig_id="n85878" key="po/s2" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="πός">πός</head> (B), <sense id="n85878.0" n="" level="1" opt="n">Arc., Cypr. = πρός (q.v.).</sense></div2>
 
  
 <div2 id="crossposa/gw" orig_id="n85879" key="posa/gw" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ποσάγω">ποσάγω</head>, = <foreign lang="greek">προσάγω,</foreign> <title>JRS</title> 15.159 (<placeName>Cotiaeum</placeName>).</div2>
