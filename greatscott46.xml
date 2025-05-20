@@ -1561,7 +1561,25 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossma/lion" orig_id="n64855" key="ma/lion" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="μάλιον">μάλιον</head> [<foreign lang="greek">ᾰ</foreign>], <gen lang="greek" opt="n">τό</gen>, <sense id="n64855.0" n="" level="1" opt="n"><gramGrp opt="n"><gram type="dim" opt="n">Dim. of</gram></gramGrp> *<foreign lang="greek">μᾰλός </foreign>( = μαλλός), <i>long hair, pigtail,</i> <bibl n="Perseus:abo:tlg,7000,001:11:157" default="NO"><title>AP</title> 11.157</bibl> (<author>Ammian.</author>), <author>Herm.Trism.</author> in <title>Rev.Phil.</title> 32.256 (prob.), 264. </sense><sense n="II" id="n64855.1" level="2" opt="n"> v. μάλα II.</sense></div2>
 
  
-<div2 id="crossmali/r" orig_id="n64856" key="mali/r" type="gloss" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="μαλίρ·">μαλίρ</head> <foreign lang="greek">γῆ Κιμωλία,</foreign> <author>Hsch.</author> <orth extent="full" lang="greek" opt="n">μᾶλις</orth>, <sense id="n64856.0" n="" level="1" opt="n">= μηλίς (B), <title>Hippiatr.</title> 2. <orth extent="full" lang="greek" opt="n">Μᾱλίς</orth>, <itype lang="greek" opt="n">ίδος</itype>, <gen lang="greek" opt="n">ἡ</gen>, <gramGrp opt="n"><gram type="dialect" opt="n">Dor.</gram></gramGrp> for <foreign lang="greek">Μηλίς</foreign>. <orth extent="full" lang="greek" opt="n">μάλιστα</orth>, <pos opt="n">Adv.</pos> <gramGrp opt="n"><gram type="comp" opt="n">Sup. of</gram></gramGrp> <foreign lang="greek">μάλα,</foreign> v. μάλα III. <orth extent="full" lang="greek" opt="n">μαλιωτέρα·</orth> <foreign lang="greek">προσφιλεστέρα,</foreign> <author>Hsch.</author>; cf. <foreign lang="greek">μάλιαν</foreign>. <orth extent="full" lang="greek" opt="n">μαλκάω</orth>, = ναρκάω, Sch. <bibl n="Perseus:abo:tlg,0022,001:382" default="NO"><author>Nic.</author> <title>Th.</title> 382</bibl>. <orth extent="full" lang="greek" opt="n">μαλκενίς·</orth> <foreign lang="greek">παρθένος</foreign> (Cret.), <author>Hsch.</author>; cf. <foreign lang="greek">μαλακίννης</foreign>.</sense></div2>
+<div2 id="crossmali/r" orig_id="n64856" key="mali/r" type="gloss" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="μαλίρ·">μαλίρ</head> <foreign lang="greek">γῆ Κιμωλία,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossma=lis" orig_id="n64856a" key="ma=lis" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="μᾶλις">μᾶλις</head>, <sense id="n64856.0" n="" level="1" opt="n">= μηλίς (B), <title>Hippiatr.</title> 2. </sense></div2>
+
+ 
+<div2 id="cross*mali/s" orig_id="n64856b" key="*mali/s" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="Μᾱλίς">Μαλίς</head>, <itype lang="greek" opt="n">ίδος</itype>, <gen lang="greek" opt="n">ἡ</gen>, <gramGrp opt="n"><gram type="dialect" opt="n">Dor.</gram></gramGrp> for <foreign lang="greek">Μηλίς</foreign>. </div2>
+
+ 
+<div2 id="crossma/lista" orig_id="n64856c" key="ma/lista" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="μάλιστα">μάλιστα</head>, <pos opt="n">Adv.</pos> <gramGrp opt="n"><gram type="comp" opt="n">Sup. of</gram></gramGrp> <foreign lang="greek">μάλα,</foreign> v. μάλα III. </div2>
+
+ 
+<div2 id="crossmaliwte/ra" orig_id="n64856d" key="maliwte/ra" type="gloss" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="μαλιωτέρα·">μαλιωτέρα</head> <foreign lang="greek">προσφιλεστέρα,</foreign> <author>Hsch.</author>; cf. <foreign lang="greek">μάλιαν</foreign>. </div2>
+
+ 
+<div2 id="crossmalka/w" orig_id="n64856e" key="malka/w" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="μαλκάω">μαλκάω</head>, = ναρκάω, Sch. <bibl n="Perseus:abo:tlg,0022,001:382" default="NO"><author>Nic.</author> <title>Th.</title> 382</bibl>. </div2>
+
+ 
+<div2 id="crossmalkeni/s" orig_id="n64856f" key="malkeni/s" type="gloss" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="μαλκενίς·">μαλκενίς</head> <foreign lang="greek">παρθένος</foreign> (Cret.), <author>Hsch.</author>; cf. <foreign lang="greek">μαλακίννης</foreign>.</div2>
 
  
 <div2 id="crossma/lkh" orig_id="n64857" key="ma/lkh" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="μάλκη">μάλκη</head>, <gen lang="greek" opt="n">ἡ</gen>, <sense id="n64857.0" n="" level="1" opt="n"><i>numbness from cold,</i> esp. in hands and feet, <bibl n="Perseus:abo:tlg,0022,002:540" default="NO"><author>Nic.</author> <title>Al.</title> 540</bibl>, <bibl n="Perseus:abo:tlg,0022,001:724" default="NO"><title>Th.</title> 724</bibl>, <bibl n="Perseus:abo:tlg,0022,001:382" default="NO">382</bibl> (pl.), prob. in <bibl n="Perseus:abo:tlg,0007,125:914a"><author>Plu.</author> <title>Aet. phys.</title> 2.914a</bibl>. </sense><sense n="2" id="n64857.1" level="3" opt="n"> <i>chilblain,</i> Sch. <bibl n="Perseus:abo:tlg,0022,001:382" default="NO"><author>Nic.</author> <title>Th.</title> 382</bibl> (pl.). </sense><sense n="II" id="n64857.2" level="2" opt="n"> <foreign lang="greek">μάλκην· τὸ ἐπικόπανον</foreign> (<placeName>Parian</placeName>), <author>Hsch.</author></sense></div2>
