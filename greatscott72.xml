@@ -3830,7 +3830,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="cross*su^rihgenh/s" orig_id="n101254" key="*su^rihgenh/s" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="Σῠριηγενής">Συριηγενής</head>, <itype lang="greek" opt="n">ές</itype>, <sense id="n101254.0" n="" level="1" opt="n"><i>Syrian-born,</i> Orac. ap. <bibl n="Perseus:abo:tlg,0016,001:7:140"><author>Hdt.</author> 7.140</bibl>, <bibl n="Perseus:abo:tlg,0579,003:262" default="NO"><author>Orph.</author> <title>L.</title> 262</bibl>.</sense></div2>
 
  
-<div2 id="cross*su^riko/s" orig_id="n101255" key="*su^riko/s" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="Σῠρικός">Συρικός</head>, <itype lang="greek" opt="n">ή</itype>, <itype lang="greek" opt="n">όν</itype>, <sense id="n101255.0" n="" level="1" opt="n"><i>from Syria, Syrian,</i> <author>St.Byz.</author>:—<orth lang="greek">Συρικόν</orth>, <gen lang="greek" opt="n">τό</gen>, = σάνδυξ, <i>lead oxide,</i> <bibl n="Perseus:abo:tlg,0744,001:3:7" default="NO"><author>Alex.Trall.</author> 3.7</bibl>, <bibl n="Perseus:abo:tlg,0718,002:70" default="NO"><author>Aët.</author> 2.70</bibl>, <bibl n="Perseus:abo:tlg,0715,001:7:3" default="NO"><author>Paul.Aeg.</author> 7.3</bibl>: cf. σηρικός 3.</sense></div2>
+<div2 id="cross*su^riko/s" orig_id="n101255" key="*su^riko/s" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="Σῠρικός">Συρικός</head>, <itype lang="greek" opt="n">ή</itype>, <itype lang="greek" opt="n">όν</itype>, <sense id="n101255.0" n="" level="1" opt="n"><i>from Syria, Syrian,</i> <author>St.Byz.</author>:—</sense><sense id="n101255a.0" n="" level="1" opt="n"><orth lang="greek">Συρικόν</orth>, <gen lang="greek" opt="n">τό</gen>, = σάνδυξ, <i>lead oxide,</i> <bibl n="Perseus:abo:tlg,0744,001:3:7" default="NO"><author>Alex.Trall.</author> 3.7</bibl>, <bibl n="Perseus:abo:tlg,0718,002:70" default="NO"><author>Aët.</author> 2.70</bibl>, <bibl n="Perseus:abo:tlg,0715,001:7:3" default="NO"><author>Paul.Aeg.</author> 7.3</bibl>: cf. σηρικός 3.</sense></div2>
 
  
 <div2 id="crosssurikth/s" orig_id="n101256" key="surikth/s" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="συρικτής">συρικτής</head>, v. συριστής.</div2>
@@ -5437,7 +5437,13 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crosssfwi/+teros" orig_id="n101787" key="sfwi/+teros" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="σφωΐτερος">σφωΐτερος</head> [<foreign lang="greek">ῐ</foreign>], <itype lang="greek" opt="n">α</itype>, <itype lang="greek" opt="n">ον</itype>, possess. <pos opt="n">Adj.</pos> of <foreign lang="greek">σφῶϊ,</foreign> Pron. of <per opt="n">2nd pers.</per> dual, <sense id="n101787.0" n="" level="1" opt="n"><i>of you two,</i> <foreign lang="greek">σ. ἔπος</foreign> the word <i>of you two,</i> Hera and Athena, <bibl n="Perseus:abo:tlg,0012,001:1:216"><title>Il.</title> 1.216</bibl>. </sense><sense n="2" id="n101787.1" level="3" opt="n"> of <foreign lang="greek">σφωέ,</foreign> Pron. of <per opt="n">3rd pers.</per> dual, <i>of them two</i> or <i>both of them,</i> <bibl n="Perseus:abo:tlg,0239,002:10" default="NO"><author>Antim.</author> 10</bibl>, <bibl n="Perseus:abo:tlg,0239,002:13" default="NO">13</bibl>. </sense><sense n="II" id="n101787.2" level="2" opt="n"> = σφέτερος in <author>A.R.</author>: </sense><sense n="1" id="n101787.3" level="3" opt="n"> for <per opt="n">2nd pers.</per> pl., <i>your own, your,</i> <bibl n="Perseus:abo:tlg,0001,001:4:454">4.454</bibl>. </sense><sense n="2" id="n101787.4" level="3" opt="n"> for <per opt="n">2nd pers.</per> sg., <i>thine own, thine, thy,</i> <bibl n="Perseus:abo:tlg,0001,001:3:395">3.395</bibl>. </sense><sense n="3" id="n101787.5" level="3" opt="n"> for <per opt="n">3rd pers.</per> sg., <i>his</i> or <i>her own,</i> <bibl n="Perseus:abo:tlg,0001,001:2:465">2.465</bibl>, <bibl n="Perseus:abo:tlg,0001,001:2:544">544</bibl>, al. (so <bibl n="Perseus:abo:tlg,0005,001:25:55"><author>Theoc.</author> 25.55</bibl>); <i>his</i> or <i>her,</i> <bibl n="Perseus:abo:tlg,0001,001:1:643"><author>A.R.</author> 1.643</bibl>, <bibl n="Perseus:abo:tlg,0001,001:3:600">3.600</bibl>. </sense><sense n="4" id="n101787.6" level="3" opt="n"> for <per opt="n">3rd pers.</per> pl., <i>their own,</i> <bibl n="Perseus:abo:tlg,0005,001:1:1286">1.1286</bibl>, <bibl n="Perseus:abo:tlg,2583,001:2:190" default="NO"><author>Man.</author> 2.190</bibl>.</sense></div2>
 
  
-<div2 id="crosssfw=|n" orig_id="n101788" key="sfw=|n" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="σφῷν">σφῷν</head>, <sense id="n101788.0" n="" level="1" opt="n">v. σύ II. <orth extent="full" lang="greek" opt="n">σχαδίζω</orth>, v. σχαλίζω. <orth extent="full" lang="greek" opt="n">σχάδιον</orth> [<foreign lang="greek">ᾰ</foreign>], <gen lang="greek" opt="n">τό</gen>, = ἰσχάδιον, <title>Gloss.</title></sense></div2>
+<div2 id="crosssfw=|n" orig_id="n101788" key="sfw=|n" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="σφῷν">σφῷν</head>, v. σύ II. </div2>
+
+ 
+<div2 id="crosssxadi/zw" orig_id="n101788a" key="sxadi/zw" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="σχαδίζω">σχαδίζω</head>, v. σχαλίζω. </div2>
+
+ 
+<div2 id="crosssxa/dion" orig_id="n101788b" key="sxa/dion" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="σχάδιον">σχάδιον</head> [<foreign lang="greek">ᾰ</foreign>], <gen lang="greek" opt="n">τό</gen>, <sense id="n101788b.0" n="" level="1" opt="n">= ἰσχάδιον, <title>Gloss.</title></sense></div2>
 
  
 <div2 id="crosssxadoka/rua" orig_id="n101789" key="sxadoka/rua" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="σχαδοκάρυα">σχαδοκάρυα</head>, v. ἰσχαδοκάρυον.</div2>
@@ -5977,7 +5983,25 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crosssxolu/drion" orig_id="n101965" key="sxolu/drion" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="σχολύδριον">σχολύδριον</head>, <gen lang="greek" opt="n">τό</gen>, <gramGrp opt="n"><gram type="dim" opt="n">Dim. of</gram></gramGrp> <foreign lang="greek">σχόλιον,</foreign> Tz.ad <bibl n="Perseus:abo:tlg,0341,002:1414"><author>Lyc.</author> 1414</bibl> (<foreign lang="greek">-ίδρια</foreign> codd. plerique).</div2>
 
  
-<div2 id="crosssxo/menos" orig_id="n101966" key="sxo/menos" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="σχόμενος">σχόμενος</head>, <sense id="n101966.0" n="" level="1" opt="n">v. ἔχω. <orth extent="full" lang="greek" opt="n">σχονθύλλω</orth>, = τονθορύζω, <author>Hsch.</author> <orth extent="full" lang="greek" opt="n">σχῦρ</orth>, <gen lang="greek" opt="n">ὁ</gen>, = χήρ, <i>hedgehog,</i> <author>Id.</author> <orth extent="full" lang="greek" opt="n">σχῶ</orth>, <orth extent="full" lang="greek" opt="n">σχῶμεν</orth>, <orth extent="full" lang="greek" opt="n">σχών</orth>, v. ἔχω. <orth extent="full" lang="greek" opt="n">σῶ</orth>, v. σάω, σήθω. <orth extent="full" lang="greek" opt="n">σῷ</orth>, <gramGrp opt="n"><gram type="dialect" opt="n">Att.</gram></gramGrp> <gramGrp opt="n"><gram type="var" opt="n">contr.</gram></gramGrp> for <foreign lang="greek">σῶοι</foreign>. <orth extent="full" lang="greek" opt="n">σωάδδει</orth>, v. σῴζω.</sense></div2>
+<div2 id="crosssxo/menos" orig_id="n101966" key="sxo/menos" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="σχόμενος">σχόμενος</head>, v. ἔχω. </div2>
+
+ 
+<div2 id="crosssxonqu/llw" orig_id="n101966a" key="sxonqu/llw" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="σχονθύλλω">σχονθύλλω</head>, = τονθορύζω, <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crosssxu=r" orig_id="n101966b" key="sxu=r" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="σχῦρ">σχῦρ</head>, <gen lang="greek" opt="n">ὁ</gen>, <sense id="n101966b.0" n="" level="1" opt="n">= χήρ, <i>hedgehog,</i> <author>Id.</author> </sense></div2>
+
+ 
+<div2 id="crosssxw=" orig_id="n101966c" key="sxw=" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="σχῶ">σχῶ</head>, <orth extent="full" lang="greek" opt="n">σχῶμεν</orth>, <orth extent="full" lang="greek" opt="n">σχών</orth>, v. ἔχω. </div2>
+
+ 
+<div2 id="crosssw=" orig_id="n101966d" key="sw=" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="σῶ">σῶ</head>, v. σάω, σήθω. </div2>
+
+ 
+<div2 id="crosssw=|" orig_id="n101966e" key="sw=|" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="σῷ">σῷ</head>, <gramGrp opt="n"><gram type="dialect" opt="n">Att.</gram></gramGrp> <gramGrp opt="n"><gram type="var" opt="n">contr.</gram></gramGrp> for <foreign lang="greek">σῶοι</foreign> [v. σῶς]. </div2>
+
+ 
+<div2 id="crossswa/ddei" orig_id="n101966f" key="swa/ddei" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="σωάδδει">σωάδδει</head>, v. σῴζω.</div2>
 
  
 <div2 id="crossswda/rion" orig_id="n101967" key="swda/rion" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="σωδάριον">σωδάριον</head>, <gen lang="greek" opt="n">τό</gen>, <sense id="n101967.0" n="" level="1" opt="n">= σουδάριον, <bibl n="Perseus:abo:tlg,0252,001:96" default="NO"><author>Hermipp.</author> 96</bibl> (s.v.l.).</sense></div2>

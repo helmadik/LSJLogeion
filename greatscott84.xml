@@ -264,7 +264,13 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossya/kelon" orig_id="n115286" key="ya/kelon" type="gloss" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ψάκελον·">ψάκελον</head> <foreign lang="greek">μέγα,</foreign> <author>Hsch.</author> (cod. <foreign lang="greek">μέσα</foreign>), <author>Suid.</author></div2>
 
  
-<div2 id="crossya/kion" orig_id="n115287" key="ya/kion" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ψάκιον">ψάκιον</head> <pron extent="full" lang="greek" opt="n">[ᾰ]</pron>, <gen lang="greek" opt="n">τό</gen>, <sense id="n115287.0" n="" level="1" opt="n"><gramGrp opt="n"><gram type="dim" opt="n">Dim. of</gram></gramGrp> <foreign lang="greek">ψακάς,</foreign> <i>small piece</i> or <i>drop,</i> <author>Hsch.</author> <orth extent="full" lang="greek" opt="n">ψάκτα</orth>, <gen lang="greek" opt="n">ἡ</gen>, a kind of <i>cake,</i> <author>Id.</author> <orth extent="full" lang="greek" opt="n">ψακτήρ</orth>, <itype lang="greek" opt="n">ῆρος</itype>, <gen lang="greek" opt="n">ὁ</gen>, = ψήκτρα, <author>Id.</author> (perh. for <foreign lang="greek">*ψηκτήρ</foreign>).</sense></div2>
+<div2 id="crossya/kion" orig_id="n115287" key="ya/kion" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ψάκιον">ψάκιον</head> <pron extent="full" lang="greek" opt="n">[ᾰ]</pron>, <gen lang="greek" opt="n">τό</gen>, <sense id="n115287.0" n="" level="1" opt="n"><gramGrp opt="n"><gram type="dim" opt="n">Dim. of</gram></gramGrp> <foreign lang="greek">ψακάς,</foreign> <i>small piece</i> or <i>drop,</i> <author>Hsch.</author> </sense></div2>
+
+ 
+<div2 id="crossya/kta" orig_id="n115287a" key="ya/kta" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ψάκτα">ψάκτα</head>, <gen lang="greek" opt="n">ἡ</gen>, a kind of <i>cake,</i> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossyakth/r" orig_id="n115287b" key="yakth/r" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ψακτήρ">ψακτήρ</head>, <itype lang="greek" opt="n">ῆρος</itype>, <gen lang="greek" opt="n">ὁ</gen>, <sense id="n115287b.0" n="" level="1" opt="n">= ψήκτρα, <author>Hsch.</author> (perh. for <foreign lang="greek">*ψηκτήρ</foreign>).</sense></div2>
 
  
 <div2 id="crossyala/qrion" orig_id="n115288" key="yala/qrion" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="ψαλάθριον">ψαλάθριον</head>, dub. l. in <bibl n="Perseus:abo:tlg,7000,001:7:472:11" default="NO"><title>AP</title> 7.472.11</bibl> (<author>Leon.</author>).</div2>
