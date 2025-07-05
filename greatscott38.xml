@@ -4597,7 +4597,10 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crosska/rth" orig_id="n53503" key="ka/rth" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="κάρτη">κάρτη</head>, <gen lang="greek" opt="n">ἡ</gen>, <sense id="n53503.0" n="" level="1" opt="n">a kind of <i>garment,</i> Juba Hist.85.</sense></div2>
 
  
-<div2 id="crosska/rtistos" orig_id="n53504" key="ka/rtistos" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="κάρτιστος">κάρτιστος</head>, <itype lang="greek" opt="n">η</itype>, <itype lang="greek" opt="n">ον</itype>, <gramGrp opt="n"><gram type="dialect" opt="n">Ep.</gram></gramGrp> for <foreign lang="greek">κράτιστος</foreign>. <orth extent="full" lang="greek" opt="n">καρτομιστής</orth>, <gen lang="greek" opt="n">ὁ</gen>, = κερτομιστής, <author>Hsch.</author></div2>
+<div2 id="crosska/rtistos" orig_id="n53504" key="ka/rtistos" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="κάρτιστος">κάρτιστος</head>, <itype lang="greek" opt="n">η</itype>, <itype lang="greek" opt="n">ον</itype>, <gramGrp opt="n"><gram type="dialect" opt="n">Ep.</gram></gramGrp> for <foreign lang="greek">κράτιστος</foreign>. </div2>
+
+ 
+<div2 id="crosskartomisth/s" orig_id="n53504a" key="kartomisth/s" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="καρτομιστής">καρτομιστής</head>, <gen lang="greek" opt="n">ὁ</gen>, <sense id="n53504a.0" n="" level="1" opt="n">= κερτομιστής, <author>Hsch.</author></sense></div2>
 
  
 <div2 id="crosskarto/s" orig_id="n53505" key="karto/s" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="καρτός">καρτός</head>, <itype lang="greek" opt="n">ή</itype>, <itype lang="greek" opt="n">όν</itype>, (<etym lang="greek" opt="n">κείρω</etym>) <sense id="n53505.0" n="" level="1" opt="n"><i>shorn smooth,</i> opp. rough, of cloths, <title>IG</title> 2(2).1514.40. </sense><sense n="II" id="n53505.1" level="2" opt="n"> <i>chopped, sliced,</i> esp. of the leaves of the leek, <foreign lang="greek">πράσον κ</foreign>. <author>Dsc.</author> 2.149, <title>Eup.</title> 2.123; also <cit><quote lang="greek">κ. κρόμμυα</quote> <author>Gal.</author> 10.815</cit>; <foreign lang="greek">τὸ κ</foreign>. abs., <bibl n="Perseus:abo:tlg,4080,001:2:6:32" default="NO"><title>Gp.</title> 2.6.32</bibl>. (On the accent <abbr>v.</abbr> <bibl default="NO"><author>Hdn.Gr.</author> 1.216</bibl>.)</sense></div2>
@@ -4857,7 +4860,13 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crosska/samon" orig_id="n53589" key="ka/samon" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="κάσαμον">κάσαμον</head>, <gen lang="greek" opt="n">τό</gen>, <sense id="n53589.0" n="" level="1" opt="n">= κυκλάμινος, <bibl n="Perseus:abo:tlg,0718,016:146(136)" default="NO"><author>Aët.</author> 16.146(136)</bibl>.</sense></div2>
 
  
-<div2 id="crosskasa/ndra" orig_id="n53590" key="kasa/ndra" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="κασάνδρα">κασάνδρα</head>, <sense id="n53590.0" n="" level="1" opt="n">gloss on  ἐπάγων, <author>Hsch.</author> <orth extent="full" lang="greek" opt="n">κασᾶς</orth>, v. κασῆς. <orth extent="full" lang="greek" opt="n">κασαύρα</orth> and <orth extent="full" lang="greek" opt="n">κασαυράς</orth>, <gen lang="greek" opt="n">ἡ</gen>, = κασαλβάς, <author>Id.</author></sense></div2>
+<div2 id="crosskasa/ndra" orig_id="n53590" key="kasa/ndra" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="κασάνδρα">κασάνδρα</head>, gloss on ἐπάγων, <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crosskasa=s" orig_id="n53590a" key="kasa=s" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="κασᾶς">κασᾶς</head>, v. κασῆς. </div2>
+
+ 
+<div2 id="crosskasau/ra" orig_id="n53590b" key="kasau/ra" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="κασαύρα">κασαύρα</head> and <orth extent="full" lang="greek" opt="n">κασαυράς</orth>, <gen lang="greek" opt="n">ἡ</gen>, <sense id="n53590b.0" n="" level="1" opt="n">= κασαλβάς, <author>Hsch.</author></sense></div2>
 
  
 <div2 id="crosskasaurei=on" orig_id="n53591" key="kasaurei=on" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="κασαυρεῖον">κασαυρεῖον</head>, <gen lang="greek" opt="n">τό</gen>, <sense id="n53591.0" n="" level="1" opt="n"><i>brothel,</i> <author>Hsch.</author> (pl.), prob. for <foreign lang="greek">κασαυρίοισι</foreign> in <bibl n="Perseus:abo:tlg,0019,002:1285"><author>Ar.</author> <title>Eq.</title> 1285</bibl>; cf. <foreign lang="greek">κασώριον</foreign>.</sense></div2>
