@@ -1968,10 +1968,10 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 
  
 
-<div2 id="crossprosanti/os" orig_id="n88641" key="prosanti/os" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="προσαντίος">προσαντίος</head>, <itype lang="greek" opt="n">α</itype>, <itype lang="greek" opt="n">ον</itype>, = <foreign lang="greek">προσάντης,</foreign> <author>Hsch.</author></div2>
+<div2 id="crossprosanti/os" orig_id="n88641" key="prosanti/os" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="προσαντίος">προσαντίος</head>, <itype lang="greek" opt="n">α</itype>, <itype lang="greek" opt="n">ον</itype>, <sense id="n88641.0" n="" level="1" opt="n">= <foreign lang="greek">προσάντης,</foreign> <author>Hsch.</author></sense></div2>
 
  
-<div2 id="crossprosanti/sxw" orig_id="n88642" key="prosanti/sxw" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="προσαντίσχω">προσαντίσχω</head>, = <foreign lang="greek">προσαντέχω,</foreign> <bibl n="Perseus:abo:tlg,0543,001:11:21:4"><author>Plb.</author> 11.21.4</bibl>.</div2>
+<div2 id="crossprosanti/sxw" orig_id="n88642" key="prosanti/sxw" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="προσαντίσχω">προσαντίσχω</head>, <sense id="n88642.0" n="" level="1" opt="n">= <foreign lang="greek">προσαντέχω,</foreign> <bibl n="Perseus:abo:tlg,0543,001:11:21:4"><author>Plb.</author> 11.21.4</bibl>.</sense></div2>
 
  
 <div2 id="crossprosantle/w" orig_id="n88643" key="prosantle/w" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="προσαντλ-έω">προσαντλέω</head>, <sense id="n88643.0" n="" level="1" opt="n"><i>draw and pour upon,</i> <author>Dsc.</author> 4.64 (<gramGrp opt="n"><gram type="voice" opt="n">Pass.</gram></gramGrp>); <i>bathe, foment,</i> <author>Herod.Med.</author> ap. <bibl n="Perseus:abo:tlg,0722,001:10:37:11" default="NO"><author>Orib.</author> 10.37.11</bibl>, <author>Antyll.</author> ap. eund. <bibl n="Perseus:abo:tlg,0722,001:9:23:11" default="NO">9.23.11</bibl>.</sense></div2>
@@ -2466,7 +2466,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <pb n="1505"/>
 
  
-<div2 id="crossprosbo/reios" orig_id="n88806" key="prosbo/reios" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="προσβόρειος">προσβόρειος</head>, <itype lang="greek" opt="n">ον</itype>, = sq., opp. <foreign lang="greek">καταβόρειος</foreign> (q.v.), <bibl n="Perseus:abo:tlg,0086,014:547a:12" default="NO"><author>Arist.</author> <title>HA</title> 547a12</bibl>, <bibl n="Perseus:abo:tlg,0093,001:1:9:2" default="NO"><author>Thphr.</author> <title>HP</title> 1.9.2</bibl>, etc.</div2>
+<div2 id="crossprosbo/reios" orig_id="n88806" key="prosbo/reios" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="προσβόρειος">προσβόρειος</head>, <itype lang="greek" opt="n">ον</itype>, <sense id="n88806.0" n="" level="1" opt="n">= sq. [πρόσβορρος], opp. <foreign lang="greek">καταβόρειος</foreign> (q.v.), <bibl n="Perseus:abo:tlg,0086,014:547a:12" default="NO"><author>Arist.</author> <title>HA</title> 547a12</bibl>, <bibl n="Perseus:abo:tlg,0093,001:1:9:2" default="NO"><author>Thphr.</author> <title>HP</title> 1.9.2</bibl>, etc.</sense></div2>
 
  
 <div2 id="crosspro/sborros" orig_id="n88807" key="pro/sborros" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="πρόσβορρος">πρόσβορρος</head>, <itype lang="greek" opt="n">ον</itype>, <sense id="n88807.0" n="" level="1" opt="n"><i>towards</i> or <i>exposed to the north wind,</i> <bibl n="Perseus:abo:tlg,0006,010:11"><author>E.</author> <title>Ion</title> 11</bibl>, <bibl n="Perseus:abo:tlg,0006,010:937">937</bibl>, <bibl n="Perseus:abo:tlg,0093,001:9:2:3" default="NO"><author>Thphr.</author> <title>HP</title> 9.2.3</bibl>, <abbr>v.l.</abbr> in <bibl n="Perseus:abo:tlg,0086,012:783a:31" default="NO"><author>Arist.</author> <title>GA</title> 783a31</bibl>: <gramGrp opt="n"><gram type="comp" opt="n">Sup.</gram></gramGrp> <cit><quote lang="greek">-βορρότατος</quote> <author>Str.</author> <title>Chr.</title> 11.48</cit>.</sense></div2>
@@ -3158,7 +3158,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossprosele/w" orig_id="n89035" key="prosele/w" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="προσελέω">προσελέω</head>, v. προυσελέω.</div2>
 
  
-<div2 id="crossproselhnai=os" orig_id="n89036" key="proselhnai=os" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="προσελην-αῖος">προσεληναῖος</head>, <gramGrp opt="n"><gram type="dialect" opt="n">Dor.</gram></gramGrp> <orth extent="suff" lang="greek" opt="n">-σελᾱναῖος</orth>, <itype lang="greek" opt="n">α</itype>, <itype lang="greek" opt="n">ον</itype>, = <foreign lang="greek">προσέληνος,</foreign> <title>Lyr.Adesp.</title> 84.8.</div2>
+<div2 id="crossproselhnai=os" orig_id="n89036" key="proselhnai=os" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="προσελην-αῖος">προσεληναῖος</head>, <gramGrp opt="n"><gram type="dialect" opt="n">Dor.</gram></gramGrp> <orth extent="suff" lang="greek" opt="n">-σελᾱναῖος</orth>, <itype lang="greek" opt="n">α</itype>, <itype lang="greek" opt="n">ον</itype>, <sense id="n89036.0" n="" level="1" opt="n">= <foreign lang="greek">προσέληνος,</foreign> <title>Lyr.Adesp.</title> 84.8.</sense></div2>
 
  
 <div2 id="crossproselhni/des" orig_id="n89037" key="proselhni/des" type="gloss" opt="n"><head extent="suff" lang="greek" opt="n" orth_orig="προσελην-ίδες·">προσεληνίδες</head> <foreign lang="greek">αἱ Ἀρκαδικαὶ νύμφαι,</foreign> <author>Hsch.</author></div2>
@@ -5243,7 +5243,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossprosma^qhte/on" orig_id="n89725" key="prosma^qhte/on" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="προσμᾰθητέον">προσμαθητέον</head>, <sense id="n89725.0" n="" level="1" opt="n"><i>one must learn besides,</i> <bibl n="Perseus:abo:tlg,0032,003:13:1"><author>X.</author> <title>Oec.</title> 13.1</bibl>.</sense></div2>
 
  
-<div2 id="crosspro/smakros" orig_id="n89726" key="pro/smakros" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="πρόσμακρος">πρόσμακρος</head>, <itype lang="greek" opt="n">ον</itype>, = <foreign lang="greek">πρόμακρος</foreign> (q.v.), <author>Hp.</author> <title>Steril.</title> 235, <bibl n="Perseus:abo:tlg,0627,006:6:7:2" default="NO"><title>Epid.</title> 6.7.2</bibl> codd.</div2>
+<div2 id="crosspro/smakros" orig_id="n89726" key="pro/smakros" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="πρόσμακρος">πρόσμακρος</head>, <itype lang="greek" opt="n">ον</itype>, <sense id="n89726.0" n="" level="1" opt="n">= <foreign lang="greek">πρόμακρος</foreign> (q.v.), <author>Hp.</author> <title>Steril.</title> 235, <bibl n="Perseus:abo:tlg,0627,006:6:7:2" default="NO"><title>Epid.</title> 6.7.2</bibl> codd.</sense></div2>
 
  
 <div2 id="crossprosmanqa/nw" orig_id="n89727" key="prosmanqa/nw" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="προσμανθάνω">προσμανθάνω</head>, <sense id="n89727.0" n="" level="1" opt="n"><i>learn besides,</i> <bibl n="Perseus:abo:tlg,0085,003:697"><author>A.</author> <title>Pr.</title> 697</bibl>, <title>Trag.Adesp.</title> 516a, <bibl n="Perseus:abo:tlg,0019,004:1208"><author>Ar.</author> <title>V.</title> 1208</bibl>, <bibl n="Perseus:abo:tlg,0019,008:20"><title>Th.</title> 20</bibl>: c. <mood opt="n">inf.</mood>, ib. <bibl n="Perseus:abo:tlg,0019,008:24">24</bibl>.</sense></div2>
