@@ -2359,9 +2359,15 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossmormolu/ttomai" orig_id="n68761" key="mormolu/ttomai" type="main" opt="n"><head extent="suff" lang="greek" opt="n" orth_orig="μορμο-λύττομαι">μορμολύττομαι</head>, only <tns opt="n">pres.</tns> and <tns opt="n">impf.</tns> (exc. <tns opt="n">aor. 1</tns> <mood opt="n">part.</mood> <cit><quote lang="greek">μορμολυξάμενος</quote> <author>Gal.</author> 10.106</cit>): (<etym lang="greek" opt="n">μορμώ</etym>):—<sense id="n68761.0" n="" level="1" opt="n"><i>frighten, scare,</i> <bibl n="Perseus:abo:tlg,0019,006:1245"><author>Ar.</author> <title>Av.</title> 1245</bibl>, <bibl n="Perseus:abo:tlg,0059,003:46c"><author>Pl.</author> <title>Cri.</title> 46c</bibl>, <bibl n="Perseus:abo:tlg,0018,001:2:468" default="NO"><author>Ph.</author> 2.468</bibl>; <cit><quote lang="greek">μ. τοὺς φίλους</quote> <bibl n="Perseus:abo:tlg,0032,004:4:27"><author>X.</author> <title>Smp.</title> 4.27</bibl></cit>. </sense><sense n="II" id="n68761.1" level="2" opt="n"> <i>fear, be afraid of,</i> <cit><quote lang="greek">τὸν θάνατον</quote> <bibl n="Perseus:abo:tlg,0059,038:364b" default="NO"><author>Pl.</author> <title>Ax.</title> 364b</bibl></cit>.—<gramGrp opt="n"><gram type="voice" opt="n">Act.</gram></gramGrp> <foreign lang="greek">μορμολύττω</foreign> is <abbr>f. l.</abbr> in <bibl n="Perseus:abo:tlg,0433,001:8" default="NO"><author>Crates Com.</author> 8</bibl>.</sense></div2>
 
  
-<div2 id="crossmo/rmoros" orig_id="n68762" key="mo/rmoros" type="gloss" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="μόρμορος·">μόρμορος</head> <foreign lang="greek">φόβος,</foreign> <author>Hsch.</author>; cf. <foreign lang="greek">μέρμερος</foreign>. <orth extent="full" lang="greek" opt="n">μορμορύζω</orth>, <sense id="n68762.0" n="" level="1" opt="n">= μορμολύττομαι, <author>Phot.</author></sense></div2>
+<div2 id="crossmo/rmoros" orig_id="n68762" key="mo/rmoros" type="gloss" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="μόρμορος·">μόρμορος</head> <foreign lang="greek">φόβος,</foreign> <author>Hsch.</author>; cf. <foreign lang="greek">μέρμερος</foreign>. </div2>
 
  
+<div2 id="crossmormoru/zw" orig_id="n68762a" key="mormoru/zw" type="gloss" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="μορμορύζω">μορμορύζω</head>, <sense id="n68762a.0" n="" level="1" opt="n">= μορμολύττομαι, <author>Phot.</author></sense></div2>
+
+ 
+<div2 id="crossmormo/rucis" orig_id="n68762b" key="mormo/rucis" type="gloss" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="μορμόρυξις">μορμόρυξις</head>, <gen lang="greek" opt="n">ἡ</gen>, <sense id="n68762b.0" n="" level="1" opt="n"><i>frightening, scaring,</i> rest. in <bibl n="Perseus:abo:tlg,0033,005:Paian:52"><author>Pi.</author> <title>Pae.</title> 20.6</bibl> S.-M.</sense></div2>
+
+
 <div2 id="crossmormorwpo/s" orig_id="n68763" key="mormorwpo/s" type="main" opt="n"><head extent="full" lang="greek" opt="n" orth_orig="μορμορωπός">μορμορωπός</head>, <itype lang="greek" opt="n">όν</itype>, <sense id="n68763.0" n="" level="1" opt="n"><i>hideous to behold,</i> <bibl n="Perseus:abo:tlg,0019,009:925"><author>Ar.</author> <title>Ra.</title> 925</bibl>; v. μορμυρωπός.</sense></div2>
 
  
