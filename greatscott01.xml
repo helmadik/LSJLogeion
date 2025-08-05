@@ -62,8 +62,8 @@
    <profileDesc>
     <langUsage default="NO">
  	<language id="en">English
- 	</language><language id="greek">Greek
- 	</language><language id="la">Latin
+ 	</language><language id="grc">Greek
+ 	</language><language id="lat">Latin
  	</language><language id="fr">French
     </language></langUsage>
    </profileDesc>
@@ -207,7 +207,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  
  <pb n="iv"/>
  
- <foreign lang="greek">ἄγαλμα</foreign> would run to fifty volumes and attain to completion in 1889 was signally falsified.
+ <foreign lang="grc">ἄγαλμα</foreign> would run to fifty volumes and attain to completion in 1889 was signally falsified.
  The work labours under the serious disadvantage of retaining the etymological arrangement
  of Stephanus,<note n="1" anchored="yes" place="unspecified">In 1812 Passow himself had advocated the retention of Stephanus’ arrangement; but he fortunately
   abandoned it in favour of the alphabetical principle.</note> which forces the reader to make a laborious search for any compound
@@ -219,8 +219,8 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
   of Karl Benedict Hase. This enterprise was also subjected to criticism in the <title>Quarterly
   Review</title> (vol. li, pp. 144 ff.) by J. R. Fishlake (the translator of Buttmannʼs <title>Lexilogus</title>) on the
   ground of its unwieldy bulk; but the association of the brothers Wilhelm and Ludwig
-  Dindorf at an early stage of the work<note n="2" anchored="yes" place="unspecified">Their names appeared on the title-page of Part IV (containing <foreign lang="greek">β</foreign>), which appeared concurrently
- with the second half of <foreign lang="greek">α</foreign>.</note> enabled it to be carried through in thirty-four years,
+  Dindorf at an early stage of the work<note n="2" anchored="yes" place="unspecified">Their names appeared on the title-page of Part IV (containing <foreign lang="grc">β</foreign>), which appeared concurrently
+ with the second half of <foreign lang="grc">α</foreign>.</note> enabled it to be carried through in thirty-four years,
   and its vast collections of material, though often ill-arranged and unevenly treated, were
   largely drawn upon by Liddell and Scott in their successive editions.
  </p>
@@ -251,7 +251,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
   particles and the technical terms of Attic law. This edition was stereotyped, and from
   time to time reprinted. Finally, in 1897, there was published an eighth edition, in which
   such corrections were made as could be inserted without altering the pagination. This
-  made it impossible to take full account of such new sources as the <foreign lang="greek">Ἀθηναίων Πολιτεία,</foreign> but
+  made it impossible to take full account of such new sources as the <foreign lang="grc">Ἀθηναίων Πολιτεία,</foreign> but
   there was a short list of Addenda, containing references to this work and to inscriptions
   published in the <title>Journal of Hellenic Studies</title>. Liddell appears to have been engaged for
   some years after the publication of the seventh edition on a lexicographical study of inscriptions;
@@ -314,7 +314,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
      to Nonnus, or (as Krumbacher proposed in London) down to Apostolius, and further that they had all
      been worked over, slipped, or excerpted by a gigantic staff of scholars, and that a great house had
      preserved and stored the thousands of boxes, whence would come the time, money, and power to sift
-     these millions of slips and to bring <foreign lang="greek">Νοῦς</foreign> into this Chaos ? Since the proportion of Latin to Greek
+     these millions of slips and to bring <foreign lang="grc">Νοῦς</foreign> into this Chaos ? Since the proportion of Latin to Greek
      Literature is about 1:10, the office work of the Greek Thesaurus would occupy at least 100 scholars.
      At their head there would have to be a general editor, who, however, would be more of a general than an
      editor. And if this editorial cohort were really to perform its task punctually, and if the Association of
@@ -367,7 +367,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  confine themselves in the first instance to the Modern tongue; and though this recommendation
  was not, as it seems, formally adopted, the preliminary publications of the
  Commission consist mainly in a series of studies of the modern dialects, which appear
- as supplements to <foreign lang="greek">Ἀθηνᾶ,</foreign> and it would appear that a Lexicon of Medieval and Modern
+ as supplements to <foreign lang="grc">Ἀθηνᾶ,</foreign> and it would appear that a Lexicon of Medieval and Modern
  Greek is contemplated in the first instance.
  </p>
  
@@ -428,7 +428,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  Perga, Aristarchus of Samos, and Diophantus mark him out as the first authority in this
  subject. He has found leisure to contribute a large number of notes of the greatest value
  on Greek mathematical terms. To take an obvious instance, it will be seen that the eighth
- edition of Liddell and Scott recognizes the word <foreign lang="greek">ἀσύμπτωτος</foreign> only in a Medical sense
+ edition of Liddell and Scott recognizes the word <foreign lang="grc">ἀσύμπτωτος</foreign> only in a Medical sense
  illustrated by a quotation (not quite accurately translated) from Hippocrates; Sir Thomas
  Heath has supplied the materials for a history of the use from which the modern <mentioned rend="italics">asymptote</mentioned>
  is derived.
@@ -461,7 +461,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <p>Besides these highly specialized branches of study, there were large tracts of literature
  which it was needful to explore, but which a single editor could not hope to cover unaided.
  In the matter of papyri, for example, he might be able to deal with the newly recovered
- literary texts such as the <foreign lang="greek">Ἀθηναίων Πολιτεία,</foreign> Bacchylides, Herodas, Cercidas, and the
+ literary texts such as the <foreign lang="grc">Ἀθηναίων Πολιτεία,</foreign> Bacchylides, Herodas, Cercidas, and the
  recently found fragments of the Early Lyric poets and Callimachus, but the great mass of
  non-literary papyri, especially those concerned with the technique of law and administration
  in Ptolemaic and Roman Egypt, required to be dealt with by those specially versed in
@@ -473,7 +473,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  Inscriptions little could be done by the editor except to revise the existing references
  to Boeckhʼs <title>Corpus Inscriptionum Graecarum</title> -no light task, seeing that so many of the
  stones have been re-examined and may be studied in improved texts–and to supplement
- these corrected citations by illustrations from collections such as those of Dittenberger<note n="2" anchored="yes" place="unspecified">The appearance of a third edition of the <title>Sylloge Inscriptionum Graecarum</title>, completed in 1924, has necessitated the alteration of a large number of references. The pitfalls which beset the path of the lexicographer may be exemplified by the fact that on the first revision the word <foreign lang="greek">ἀπόπλωσις</foreign> was illustrated by SIG<hi rend="sup">2</hi>929.127, and this was altered by the concordance-table to SIG<hi rend="sup">3</hi>685.127: fortunately it was discovered in time that the word had disappeared in the later text!</note>
+ these corrected citations by illustrations from collections such as those of Dittenberger<note n="2" anchored="yes" place="unspecified">The appearance of a third edition of the <title>Sylloge Inscriptionum Graecarum</title>, completed in 1924, has necessitated the alteration of a large number of references. The pitfalls which beset the path of the lexicographer may be exemplified by the fact that on the first revision the word <foreign lang="grc">ἀπόπλωσις</foreign> was illustrated by SIG<hi rend="sup">2</hi>929.127, and this was altered by the concordance-table to SIG<hi rend="sup">3</hi>685.127: fortunately it was discovered in time that the word had disappeared in the later text!</note>
  or Michel or the <title>Griechische Dialektinschriften</title>, with the aid of Herwerdenʼs <title>Lexicon
  Suppletorium</title>, a work unfortunately marred by constant inaccuracy of reference, which
  it is charitable to ascribe to lack of the minute care required in lexicographical proofreading.
@@ -490,7 +490,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  </p>
  
 <p>Turning to Literature proper, it soon became clear that while the references to Plato
-  and Aristotle needed careful revision and some amplification,<note n="3" anchored="yes" place="unspecified">Bonitzʼs <title>Index to Aristotle</title> and Astʼs <title>Lexicon Platonicum</title> are no longer all-sufficing guides. Such words as <foreign lang="greek">μορυχώτερον</foreign> (which should be read in Arist. <title>Metaph.</title> 987a10) and <foreign lang="greek">τεράμων</foreign> (which there is reason to think once stood in the text of Pl. <title>Sph.</title> 221a, though it is not mentioned by Burnet) are addenda.</note> the terminology of the later
+  and Aristotle needed careful revision and some amplification,<note n="3" anchored="yes" place="unspecified">Bonitzʼs <title>Index to Aristotle</title> and Astʼs <title>Lexicon Platonicum</title> are no longer all-sufficing guides. Such words as <foreign lang="grc">μορυχώτερον</foreign> (which should be read in Arist. <title>Metaph.</title> 987a10) and <foreign lang="grc">τεράμων</foreign> (which there is reason to think once stood in the text of Pl. <title>Sph.</title> 221a, though it is not mentioned by Burnet) are addenda.</note> the terminology of the later
   schools of Philosophy had never been adequately treated by lexicographers.  Neither
   Usenerʼs <title>Epicurea</title> nor von Arnimʼs <title>Stoicorum Veterum Fragmenta</title> possesses an index; and
   Mr. (now Professor) J. L. Stocks generously undertook to remedy this defect, and to supply
@@ -512,7 +512,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  
 <p>In dealing with the vocabulary of Epicurus and his school Mr. Stocks found that for
  an adequate treatment it would be necessary to obtain access to the transcripts of the
- fragments of the <foreign lang="greek">περὶ φύσεως</foreign> and other writings made by Wilhelm Crönert and used by
+ fragments of the <foreign lang="grc">περὶ φύσεως</foreign> and other writings made by Wilhelm Crönert and used by
  him in his revision of Passowʼs Lexicon, of which more will be said presently. Crönert
  (who had spent some time in England as a prisoner of war in 1917-19) very kindly acceded
  to a request which I made to him at the suggestion of von Wilamowitz-Moellendorff and
@@ -522,19 +522,19 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  
 <p>The peculiar vocabulary of the later Platonists has not hitherto received the attention
  which it deserves in Lexica; it is worthy of note that even in the seventh edition (1883)
- Liddell and Scott stated that the word <foreign lang="greek">μετεμψύχωσις</foreign> (which is absent from the Paris
+ Liddell and Scott stated that the word <foreign lang="grc">μετεμψύχωσις</foreign> (which is absent from the Paris
  Thesaurus and appears in Rost and Palm with the note ʼ Clem.Al. (?)ʼ) ‘seems to be of no
  authority’, though in the eighth edition an example of its use is cited from Proclusʼ
  Commentary on the <title>Republic</title> of Plato. As a matter of fact, this word can be quoted from
  ten authors besides Proclus.<note n="1" anchored="yes" place="unspecified">D. S. 10. 6, Gal. 4. 763, Alex. Aphr. <title>de An</title>. 27. 18, Porph. <title>Abst</title>. 4. 16, Herm. ap. Stob. 1. 49. 69 (tit.), Sallust. 20, Hieronym. <title>Ep</title>. 124. 4, <title>Theol. Ar</title>. 40, Serv. ad Verg. <title>Aen</title>. 3. 68, Sch. Iamb. <title>Protr</title>. 14.</note> Professor Burnet, who in his edition of the <title>Phaedo</title> drew
  attention to some of these passages, added: ‘Hippolytus, Clement and other Christian
- writers say <foreign lang="greek">μετενσωμάτωσις</foreign> (“reincarnation”) which is accurate but cumbrous’; but the
+ writers say <foreign lang="grc">μετενσωμάτωσις</foreign> (“reincarnation”) which is accurate but cumbrous’; but the
  implication that this word belongs to Patristic Greek is misleading. It is found in Plotinus
  and in later Platonists such as Hierocles and Proclus. Again, such a characteristic use as
- that of <foreign lang="greek">ἄτοπος</foreign> in the philosophical sense of ‘non-spatial’ has escaped lexicographers. In
+ that of <foreign lang="grc">ἄτοπος</foreign> in the philosophical sense of ‘non-spatial’ has escaped lexicographers. In
  dealing with this branch of literature I have received help from various scholars, notably
  Professor A. E. Taylor; and the late Mr. M. G. Davidson read the <title>Enneads</title> of Plotinus,
- the abstruse work of Damascius <foreign lang="greek">περὶ ἀρχῶν,</foreign> and other treatises. The extant commentaries
+ the abstruse work of Damascius <foreign lang="grc">περὶ ἀρχῶν,</foreign> and other treatises. The extant commentaries
  on the works of Aristotle of course belong to this school of thought, and Mr. W. D. Ross
  kindly undertook to supply notes on their vocabulary with the aid of the excellent indices
  of the Berlin edition and with the collaboration of certain of the Oxford translators;<note n="2" anchored="yes" place="unspecified">Two of these, Mr. Erwin Webster and Mr. Gibson, lost their lives in the Great War.</note> the
@@ -552,7 +552,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
   purposes of revision such Lexica as those of Ebeling and Zorell are generally sufficient;
   while for the illustration of Biblical usage from Hellenistic and later Greek we have
   a most valuable aid in Moulton and Milliganʼs <title>Vocabulary of the Greek Testament</title> which
-  (within its natural limits) may almost be regarded as a Lexicon of the <foreign lang="greek">κοινή</foreign> as a whole.
+  (within its natural limits) may almost be regarded as a Lexicon of the <foreign lang="grc">κοινή</foreign> as a whole.
   I owe a deep debt of gratitude to Professor Milligan for supplying advance proofs of the
   <title>Vocabulary</title>, the fifth part of which has just been published. Prof. A. H. McNeile and the
   Rev. A. Llewellyn Davies have advised me in matters relating to the LXX, Hexapla, etc.
@@ -637,7 +637,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  
 <p>The present volume will not challenge comparison in scale with the revision of
   Passowʼs <title>Wörterbuch der griechischen Sprache</title> by Wilhelm  Crönert, of which three parts,
-  extending as far as <foreign lang="greek">ἀνά,</foreign> appeared in 1912-14. This monument of Herculean toil will, if
+  extending as far as <foreign lang="grc">ἀνά,</foreign> appeared in 1912-14. This monument of Herculean toil will, if
   and when it is completed (a consummation for which all lovers of learning will devoutly
   pray), bulk about three times as large as Liddell and Scott; in fact, this estimate may be
   exceeded if Crönert is able to carry out the plan foreshadowed in the preface to his second
@@ -650,7 +650,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
   work will do something to supply this need, and that it may be found to possess some
   compensating advantages denied to the larger Lexicon of Crönert, such as the provision
   of exact references for every word cited from an author and fuller and more representative
-  quotations from the later literature, e.g. from such authors as Plotinus.<note n="3" anchored="yes" place="unspecified">A comparison of the art. <foreign lang="greek">ἀμφίβιος</foreign> in Crönert-Passow with that of the present work will illustrate the difference of method. Crönert, on the other hand, gives the lexicographical tradition of the ancient grammarians very fully. For this it would not have been possible to find room; nor, indeed, has it yet been thoroughly sifted and critically edited. The deaths of Wentzel, Leopold Cohn, and Egenolff, and the migration of Bethe and Reitzenstein to more succulent pastures, have brought the two great enterprises of the firm of Teubner–the <title>Corpus Grammaticorum Graecorum</title> and that of the ancient Lexica—to a premature end. De Stefaniʼs edition of the <title>Etymologicum Gudianum</title> is, however, in course of appearing, and it is understood that Drachmann is editing the remains of the Glossary of ‘Cyril’ (see Pauly-Wissowa, <title>Realencyclopädie</title> xii 175).</note>
+  quotations from the later literature, e.g. from such authors as Plotinus.<note n="3" anchored="yes" place="unspecified">A comparison of the art. <foreign lang="grc">ἀμφίβιος</foreign> in Crönert-Passow with that of the present work will illustrate the difference of method. Crönert, on the other hand, gives the lexicographical tradition of the ancient grammarians very fully. For this it would not have been possible to find room; nor, indeed, has it yet been thoroughly sifted and critically edited. The deaths of Wentzel, Leopold Cohn, and Egenolff, and the migration of Bethe and Reitzenstein to more succulent pastures, have brought the two great enterprises of the firm of Teubner–the <title>Corpus Grammaticorum Graecorum</title> and that of the ancient Lexica—to a premature end. De Stefaniʼs edition of the <title>Etymologicum Gudianum</title> is, however, in course of appearing, and it is understood that Drachmann is editing the remains of the Glossary of ‘Cyril’ (see Pauly-Wissowa, <title>Realencyclopädie</title> xii 175).</note>
  </p>
  
 <p>My best thanks are due to those scholars who are generously devoting their time to
@@ -669,7 +669,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  
  <pb n="xii"/>
  
- <title>Ptolemäerzeit</title> furnish more accurate readings of Papyri and necessitate changes or deletions,<note n="1" anchored="yes" place="unspecified">For example, <foreign lang="greek">ἀντιπατάσσω</foreign> was cited by me from <title>PPar</title>. 40, but the reference was deleted from the proof when it was found that in <title>UPZ</title> 12 Wilcken read <foreign lang="greek">ὠνηλάται ὄντες</foreign> for <foreign lang="greek">ἀντιπατάσσοντες</foreign>!</note>
+ <title>Ptolemäerzeit</title> furnish more accurate readings of Papyri and necessitate changes or deletions,<note n="1" anchored="yes" place="unspecified">For example, <foreign lang="grc">ἀντιπατάσσω</foreign> was cited by me from <title>PPar</title>. 40, but the reference was deleted from the proof when it was found that in <title>UPZ</title> 12 Wilcken read <foreign lang="grc">ὠνηλάται ὄντες</foreign> for <foreign lang="grc">ἀντιπατάσσοντες</foreign>!</note>
  and I must place on record my gratitude to Professor Wilcken for kindly undertaking to
  verify and correct references to documents in the yet unpublished portions of his work,<note n="2" anchored="yes" place="unspecified">This should cause little inconvenience to the user of the Lexicon, as Part I of <title>UPZ</title> contains concordance-tables for the whole work.</note>
  as also to Mr. J. U. Powell for permitting me to use and refer to the proofs of his
@@ -698,7 +698,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  greatly regret that neither the Editor Sir Henry Stuart Jones, who died on 29 June 1939,
  nor the Assistant Editor Mr. Roderick McKenzie, who died on 24 June 1937, survived to
  see the work completed. McKenzie saw the main body of the work to its end, and himself
- wrote the long article on <foreign lang="greek">ὡς</foreign>; Sir Henry was at work on the Addenda and Corrigenda up
+ wrote the long article on <foreign lang="grc">ὡς</foreign>; Sir Henry was at work on the Addenda and Corrigenda up
  to within a fortnight of his death and had almost put them into shape. The work done by
  these two men could not be overrated. Sir Henry was the ideal Editor; his wide range
  of knowledge and his exact scholarship, his persistent devotion to his task even in periods
@@ -710,7 +710,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  </p>
  
 <p>In the Preface published in 1925 Stuart Jones sketched the history of the work up to
- the publication of <foreign lang="greek">ἀποβαίνω,</foreign> and recorded the signal services given by many scholars to the
+ the publication of <foreign lang="grc">ἀποβαίνω,</foreign> and recorded the signal services given by many scholars to the
  work in its formative stages. To that nothing need now be added. But Jones went on to
  thank the scholars who were ʼ generously devoting their time to the reading of proof-sheets
  and the verification of references’. It is important that the nature of this work should be
@@ -920,13 +920,13 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    Ed. C. Müller, <title>FHG</title> iv p. 287.</item>
  <item><hi rend="bold">Aëtius</hi> Medicus [Aët.] <date>vi A.D.</date>
    Editio Aldina, Venice 1534 (Lib. i-viii); Lib. vii 1-90, ed.
-    J. Hirschberg, Leipzig 1899; Lib. ix, ed. S. Zervos, <foreign lang="greek">Ἀθηνᾶ</foreign>
+    J. Hirschberg, Leipzig 1899; Lib. ix, ed. S. Zervos, <foreign lang="grc">Ἀθηνᾶ</foreign>
     xxiii (1911) p. 265; Lib. xi, ed. C. Daremberg &amp; C. E. Ruelle,
     </item><item><title>Rufus,</title> Paris 1879, p. 85; Lib. xii, ed. G. A. Kostomiris, Paris
-    1892; Lib. xiii (parts), xv, ed. S. Zervos, <foreign lang="greek">Ἀθηνᾶ</foreign> xviii (1906)
+    1892; Lib. xiii (parts), xv, ed. S. Zervos, <foreign lang="grc">Ἀθηνᾶ</foreign> xviii (1906)
     p. 241, xxi (1909) p. 3; Lib. xvi, ed. S. Zervos, Leipzig 1901.</item>
  <item><hi rend="bold">Africanus, Julius</hi> Historicus [Afric.] <date>ii/iii A.D.</date>
-   <title>Cest.</title> = <foreign lang="greek">Κεστοί</foreign> in <title>POxy.</title> 412.</item>
+   <title>Cest.</title> = <foreign lang="grc">Κεστοί</foreign> in <title>POxy.</title> 412.</item>
  <item><hi rend="bold">Agaclytus</hi> Historicus [Agaclyt.]
    Ed. C. Müller, <title>FHG</title> iv p. 288.</item>
  <item><hi rend="bold">Agatharchides</hi> Geographus [Agatharch.] <date>ii B.C.</date>
@@ -960,8 +960,8 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    v. <title>Anthologia Graeca.</title></item>
  <item><hi rend="bold">Alcidamas</hi> Rhetor [Alcid.] <date>iv B.C.</date>
    Ed F. Blass, <title>Antipho,</title> Leipzig (T.) 1892, p. 183.
-    </item><item><title>Od.</title> = <foreign lang="greek">Ὀδυσσεύς.</foreign>
-    </item><item><title>Soph.</title> = <foreign lang="greek">περὶ σοφιστῶν</foreign></item>
+    </item><item><title>Od.</title> = <foreign lang="grc">Ὀδυσσεύς.</foreign>
+    </item><item><title>Soph.</title> = <foreign lang="grc">περὶ σοφιστῶν</foreign></item>
  <item><hi rend="bold">Alcinous</hi> Philosophus [Alcin.]
    <title>Introductio in Platonem,</title> ed. C. F. Hermann, <title>Plato,</title> Leipzig (T.)
     1892, vol. vi, p. 152. [<title>Intr.</title>]</item>
@@ -997,7 +997,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
     ii <title>pars</title> ii), Berlin 1892.
    <title>Pr. = Problemata,</title> ed. J. L. Ideler, <title>Physici et Medici Graeci
     Minores,</title> Berlin 1841, i p. 3.
-   <title>Pr.Anecd.</title> = <foreign lang="greek">προβλήματα ἀνέκδοτα,</foreign> ed. U. Cats Bussemaker, <title>Aristotelis Opera,</title> vol. iv (Paris (D.) 1857), p. 291.
+   <title>Pr.Anecd.</title> = <foreign lang="grc">προβλήματα ἀνέκδοτα,</foreign> ed. U. Cats Bussemaker, <title>Aristotelis Opera,</title> vol. iv (Paris (D.) 1857), p. 291.
    <title>Quaest. = Quaestiones,</title> ed. I. Bruns (<title>Supplementum Aristotelicum</title>
     ii <title>pars</title> ii), Berlin 1892.</item>
  <item><hi rend="bold">Alexander Ephesius</hi> Epicus [Alex.Eph.] <date>i B.C.</date>
@@ -1007,7 +1007,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    Ed. C. Müller, <title>FHG</title> iii p. 206.</item>
  <item><hi rend="bold">Alexander</hi> Rhetor [Alex.] <date>ii A.D.</date>
    <title>De Figuris,</title> ed. L. Spengel, <title>Rhet.</title> iii p. 7. [<title>Fig.</title>]
-   <foreign lang="greek">περὶ ῥητορικῶν ἀφορμῶν,</foreign> ed. L. Spengel, op. cit., p. i. [<title>Rh.</title>]</item>
+   <foreign lang="grc">περὶ ῥητορικῶν ἀφορμῶν,</foreign> ed. L. Spengel, op. cit., p. i. [<title>Rh.</title>]</item>
  <item><hi rend="bold">Alexander Trallianus</hi> Medicus [Alex.Trall.] <date>vi A.D.</date>
    Ed. T. Puschmann, Vienna 1878-9; Nachträge, ed. T. Puschmann, Berlin 1886.
     </item><item><title>Febr. = de febribus</title>
@@ -1028,7 +1028,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  <item><hi rend="bold">Ammonius</hi> Epigrammaticus [Ammon.] <date>v A.D. (?)</date>
    v. <title>Anthologia Graeca.</title></item>
  <item><hi rend="bold">Ammonius</hi> Grammaticus [Ammon.] <date>i/ii A.D.</date>
-   <foreign lang="greek">περὶ ὁμοίων καὶ διαφόρων λέξεων,</foreign> ed. L. C. Valckenaer2, Leipzig
+   <foreign lang="grc">περὶ ὁμοίων καὶ διαφόρων λέξεων,</foreign> ed. L. C. Valckenaer2, Leipzig
     1822. [<title>Diff.</title>]</item>
  <item><hi rend="bold">Ammonius</hi> Philosophus [Ammon.] <date>v. A.D.</date>
    <title>in APr. = in Aristotelis Analyticorum Priorum librum I commentarium,</title> ed. M. Wallies (<title>Comm. in Arist. Graeca</title> iv <title>pars</title>
@@ -1109,9 +1109,9 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
     (<title>Comm. in Arist. Graeca</title> xxiii <title>pars</title> iv), Berlin 1884.
    <title>in Tht. = Anonymi Commentarius in Platonis Theaetetum,</title> ed.
     H. Diels &amp; W. Schubart, <title>BKT</title> ii, Berlin 1905.
-   <title>Incred.</title> = Anonymus, <foreign lang="greek">περὶ ἀπίστων,</foreign> ed. N. Festa (post Palaephatum
+   <title>Incred.</title> = Anonymus, <foreign lang="grc">περὶ ἀπίστων,</foreign> ed. N. Festa (post Palaephatum
     (q. v.), p. 88), Leipzig (T.) 1902.
-   <title>Trop.</title> = Anonymi, <foreign lang="greek">περὶ τρόπων,</foreign> ed. L. Spengel, <title>Rhet.</title> iii pp. 207,
+   <title>Trop.</title> = Anonymi, <foreign lang="grc">περὶ τρόπων,</foreign> ed. L. Spengel, <title>Rhet.</title> iii pp. 207,
     227.</item>
  <item><hi rend="bold">Anonymus Londnensis</hi> [Anon.Lond.] <date>i A.D.</date>
    <title>Anonymi Londinensis ex Aristotelis Iatricis Menoniis et aliis medicis
@@ -1127,7 +1127,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  <item><hi rend="bold">Antenor</hi> Historicus <date>ii B.C. (?)</date>
    Ed. C. Müller, <title>FHG</title> iv p. 305.</item>
  <item><hi rend="bold">Anthemius</hi> Paradoxographus [Anthem.] <date>vi A.D.</date>
-   Ed. A. Westermann, <foreign lang="greek">Παραδοξογράφοι,</foreign> Brunswick-London 1839,
+   Ed. A. Westermann, <foreign lang="grc">Παραδοξογράφοι,</foreign> Brunswick-London 1839,
     p. 149.</item>
  <item><hi rend="bold">Anthologia Graeca</hi> 
    (Names of epigrammatists, where found in codd., are added in
@@ -1177,8 +1177,8 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    Ed. A. Nauck, <title>TGF</title> p. 792.</item>
  <item><hi rend="bold">Antisthenes</hi> Rhetor [Antisth.] <date>iv B.C.</date>
    Ed. F. Blass (post Antiphontem), Leipzig (T.) 1892.
-    </item><item><title>Aj.</title> = <foreign lang="greek">Αἴας</foreign>
-    </item><item><title>Od.</title> = <foreign lang="greek">Ὀδυσσεύς</foreign></item>
+    </item><item><title>Aj.</title> = <foreign lang="grc">Αἴας</foreign>
+    </item><item><title>Od.</title> = <foreign lang="grc">Ὀδυσσεύς</foreign></item>
  <item><hi rend="bold">Antistius</hi> Epigrammaticus [Antist.] <date>i A.D.</date>
    v. <title>Anthologia Graeca.</title></item>
  <item><hi rend="bold">Antoninus Liberalis</hi> Mythographus [Ant.Lib.] <date>ii A.D. (?)</date>
@@ -1194,7 +1194,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  <item><hi rend="bold">Anyte</hi> Epigrammatica [Anyt.] <date>iv/iii B.C.</date>
    v. <title>Anthologia Graeca.</title></item>
  <item><hi rend="bold">Aphthonius</hi> Rhetor [Aphth.] <date>iv/v A.D.</date>
-   <foreign lang="greek">Προγυμνάσματα,</foreign> ed. L. Spengel, <title>Rhet.</title> ii p. 19. [<title>Prog.</title>]</item>
+   <foreign lang="grc">Προγυμνάσματα,</foreign> ed. L. Spengel, <title>Rhet.</title> ii p. 19. [<title>Prog.</title>]</item>
  <item><hi rend="bold">Apion</hi> Grammaticus <date>i A.D.</date>
    Ed. A. Ludwich in <title>Philol.</title> lxxiv (1917) p. 205, lxxv (1919)
     p. 9.</item>
@@ -1215,7 +1215,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    <title>Epitome,</title> ed. R. Wagner, op. cit., p. 173. [<title>Epit.</title>]
    <title>Fragmenta Historica,</title> ed. C. Müller, <title>FHG</title> i p. 428. [Hist.]</item>
  <item><hi rend="bold">Apollodorus Damascenus</hi> Mechanicus [Apollod.] <date>ii A.D.</date>
-   <foreign lang="greek">Πολιορκητικά,</foreign> Ed. R. Schneider, <title>Abhandlungen der Göttinger
+   <foreign lang="grc">Πολιορκητικά,</foreign> Ed. R. Schneider, <title>Abhandlungen der Göttinger
     Gesellschaft der Wissenschaften (Phil.-hist. Klasse),</title> 1908.
     [<title>Poliorc.</title>] (Cited by Wescherʼs page, given in Schneiderʼs
     margin.)</item>
@@ -1267,19 +1267,19 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    Ed. L. Mendelssohn &amp; P. Viereck, Leipzig (T.) 1879-1905.
     </item>
     <item><title>BC = Bella Civilia</title>
-    </item><item><title>Gall.</title> = <foreign lang="greek">Κελτική</foreign>
-    </item><item><title>Hann.</title> = <foreign lang="greek">Ἀννιβαϊκή</foreign>
-    </item><item><title>Hisp.</title> = <foreign lang="greek">Ἰβηρική</foreign>
-    </item><item><title>Ill.</title> = <foreign lang="greek">Ἰλλυρική</foreign>
-    </item><item><title>Ital.</title> = <foreign lang="greek">Ἰταλική</foreign>
-    </item><item><title>Mac.</title> = <foreign lang="greek">Μακεδονική</foreign>
-    </item><item><title>Mith.</title> = <foreign lang="greek">Μιθριδάτειος</foreign>
+    </item><item><title>Gall.</title> = <foreign lang="grc">Κελτική</foreign>
+    </item><item><title>Hann.</title> = <foreign lang="grc">Ἀννιβαϊκή</foreign>
+    </item><item><title>Hisp.</title> = <foreign lang="grc">Ἰβηρική</foreign>
+    </item><item><title>Ill.</title> = <foreign lang="grc">Ἰλλυρική</foreign>
+    </item><item><title>Ital.</title> = <foreign lang="grc">Ἰταλική</foreign>
+    </item><item><title>Mac.</title> = <foreign lang="grc">Μακεδονική</foreign>
+    </item><item><title>Mith.</title> = <foreign lang="grc">Μιθριδάτειος</foreign>
     </item><item><title>Praef. = Praefatio</title>
-    </item><item><title>Pun.</title> = <foreign lang="greek">Λιβυκή</foreign>
-    </item><item><title>Reg.</title> = <foreign lang="greek">Βασιλική</foreign>
-    </item><item><title>Sam.</title> = <foreign lang="greek">Σαυνιτική</foreign>
-    </item><item><title>Sic.</title> = <foreign lang="greek">Σικελική</foreign>
-    </item><item><title>Syr.</title> = <foreign lang="greek">Συριακή</foreign></item>
+    </item><item><title>Pun.</title> = <foreign lang="grc">Λιβυκή</foreign>
+    </item><item><title>Reg.</title> = <foreign lang="grc">Βασιλική</foreign>
+    </item><item><title>Sam.</title> = <foreign lang="grc">Σαυνιτική</foreign>
+    </item><item><title>Sic.</title> = <foreign lang="grc">Σικελική</foreign>
+    </item><item><title>Syr.</title> = <foreign lang="grc">Συριακή</foreign></item>
  <item><hi rend="bold">Apsines</hi> Rhetor [Aps.]
    <title>Rh. = Ars Rhetorica,</title> ed. C. Hammer, in L. Spengel, <title>Rhet.</title> i2 (2),
     Leipzig (T.) 1894, p. 217.</item>
@@ -1296,7 +1296,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    Scholia, ed. E. Maass, <title>Commentariorum in Aratum reliquiae,</title>
     Berlin 1898.</item>
  <item><hi rend="bold">Arcadius</hi> Grammaticus [Arc.] <date>iv A.D. (?)</date>
-   Ed. E. H. Barker, Leipzig 1820; ed. M. Schmidt, <foreign lang="greek">Ἐπιτομὴ τῆς    καθολικῆς προσῳδίας Ἡρωδιανοῦ,</foreign> Jena 1860: cited by Barkerʼs
+   Ed. E. H. Barker, Leipzig 1820; ed. M. Schmidt, <foreign lang="grc">Ἐπιτομὴ τῆς    καθολικῆς προσῳδίας Ἡρωδιανοῦ,</foreign> Jena 1860: cited by Barkerʼs
     page, given in Schmidtʼs margin.</item>
  <item><hi rend="bold">Arcesilaus</hi> Comicus [Arcesil.] <date>v B.C.</date>
    Ed. J. Demiańczuk, <title>Supp. Com.</title> p. 10.</item>
@@ -1320,18 +1320,18 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
     [<title>Supp.</title>]</item>
  <item><hi rend="bold">Archimedes</hi> Geometra [Archim.] <date>iii B.C.</date>
    Ed. J. L. Heiberg, ed. 2, Leipzig (T.) 1910-15.
-    </item><item><title>Aequil.</title> = <foreign lang="greek">περὶ ἰσορροπιῶν</foreign>
-    </item><item><title>Aren.</title> = <foreign lang="greek">ψαμμίτης</foreign>
-    </item><item><title>Bov.</title> = <foreign lang="greek">πρόβλημα βοεικόν</foreign>
-    </item><item><title>Circ.</title> = <foreign lang="greek">κύκλου μέτρησις</foreign>
-    </item><item><title>Con.Sph.</title> = <foreign lang="greek">περὶ κωνοειδέων καὶ σφαιροειδέων</foreign>
-    </item><item><title>Eratosth.</title> = <foreign lang="greek">πρὸς Ἐρατοσθένην ἔφοδος</foreign>
-    </item><item><title>Fluit.</title> = <foreign lang="greek">περὶ τῶν ὀχουμένων</foreign>
+    </item><item><title>Aequil.</title> = <foreign lang="grc">περὶ ἰσορροπιῶν</foreign>
+    </item><item><title>Aren.</title> = <foreign lang="grc">ψαμμίτης</foreign>
+    </item><item><title>Bov.</title> = <foreign lang="grc">πρόβλημα βοεικόν</foreign>
+    </item><item><title>Circ.</title> = <foreign lang="grc">κύκλου μέτρησις</foreign>
+    </item><item><title>Con.Sph.</title> = <foreign lang="grc">περὶ κωνοειδέων καὶ σφαιροειδέων</foreign>
+    </item><item><title>Eratosth.</title> = <foreign lang="grc">πρὸς Ἐρατοσθένην ἔφοδος</foreign>
+    </item><item><title>Fluit.</title> = <foreign lang="grc">περὶ τῶν ὀχουμένων</foreign>
     </item><item><title>Fr. = Fragmenta</title>
-    </item><item><title>Quadr.</title> = <foreign lang="greek">τετραγωνισμὸς παραβολῆς</foreign>
-    </item><item><title>Sph.Cyl.</title> = <foreign lang="greek">περὶ σφαίρας καὶ κυλίνδρου</foreign>
-    </item><item><title>Spir.</title> = <foreign lang="greek">περὶ ἑλίκων</foreign>
-    </item><item><title>Stom.</title> = <foreign lang="greek">στομάχιον</foreign></item>
+    </item><item><title>Quadr.</title> = <foreign lang="grc">τετραγωνισμὸς παραβολῆς</foreign>
+    </item><item><title>Sph.Cyl.</title> = <foreign lang="grc">περὶ σφαίρας καὶ κυλίνδρου</foreign>
+    </item><item><title>Spir.</title> = <foreign lang="grc">περὶ ἑλίκων</foreign>
+    </item><item><title>Stom.</title> = <foreign lang="grc">στομάχιον</foreign></item>
  <item><hi rend="bold">Archimelus</hi> Epigrammaticus [Archimel.] <date>iii B.C.</date>
    v. <title>Anthologia Graeca.</title></item>
  <item><hi rend="bold">Archippus</hi> Comicus [Archipp.] <date>v/iv B.C.</date>
@@ -1342,10 +1342,10 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    Ed. H. Diels, <title>Vorsokr.</title> i p. 322.</item>
  <item><hi rend="bold">Aretaeus</hi> Medicus [Aret.] <date>ii A.D.</date>
    Ed. K. Hude, <title>CMG</title> ii, Leipzig 1923.
-    </item><item><title>CA</title> = <foreign lang="greek">ὀξέων νούσων θεραπευτικόν</foreign>
-    </item><item><title>CD</title> = <foreign lang="greek">χρονίων νούσων θεραπευτικόν</foreign>
-    </item><item><title>SA</title> = <foreign lang="greek">περὶ αἰτιῶν καὶ σημείων ὀξέων παθῶν</foreign>
-    </item><item><title>SD</title> = <foreign lang="greek">περὶ αἰτιῶν καὶ σημείων χρονίων παθῶν</foreign></item>
+    </item><item><title>CA</title> = <foreign lang="grc">ὀξέων νούσων θεραπευτικόν</foreign>
+    </item><item><title>CD</title> = <foreign lang="grc">χρονίων νούσων θεραπευτικόν</foreign>
+    </item><item><title>SA</title> = <foreign lang="grc">περὶ αἰτιῶν καὶ σημείων ὀξέων παθῶν</foreign>
+    </item><item><title>SD</title> = <foreign lang="grc">περὶ αἰτιῶν καὶ σημείων χρονίων παθῶν</foreign></item>
  <item><hi rend="bold">Arion</hi> Lyricus <date>vi B.C.</date>
    Ed. T. Bergk. <title>PLG</title> iii p. 79.</item>
  <item><hi rend="bold">Ariphron</hi> Lyricus <date>iv B.C.</date>
@@ -1374,7 +1374,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
     </item><item><title>Or. = Orationes,</title> cited by speech and section, if from Keil; the
       rest cited without title by Jebbʼs vol. and page (given in
       margin of Dindorf).
-    </item><item><title>Rh.</title> = <foreign lang="greek">τέχναι ῥητορικαί,</foreign> ed. L. Spengel, <title>Rhet.</title> ii p. 457; cited by
+    </item><item><title>Rh.</title> = <foreign lang="grc">τέχναι ῥητορικαί,</foreign> ed. L. Spengel, <title>Rhet.</title> ii p. 457; cited by
       Spengelʼs page.
    Scholia, ed W. Dindorf, op. cit.; ed. W. Frommel, Frankfort 1826.</item>
  <item><hi rend="bold">Aristides Milesius</hi> Historicus [Aristid.Mil.] <date>ii B.C.</date>
@@ -1435,7 +1435,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    Ed. I. Bekker, Berlin 1831-70.
     </item><item><title>APo. = Analytica Posteriora</title>
     </item><item><title>APr. = Analytica Priora</title>
-    </item><item><title>Ath.</title> = <foreign lang="greek">Ἀθηναίων Πολιτεία,</foreign> ed. Sir F. G. Kenyon, Oxford (OCT).
+    </item><item><title>Ath.</title> = <foreign lang="grc">Ἀθηναίων Πολιτεία,</foreign> ed. Sir F. G. Kenyon, Oxford (OCT).
     </item><item><title>Aud. = de Audibilibus</title>
     </item><item><title>Cael. = de Caelo</title>
     </item><item><title>Cat. = Categoriae</title>
@@ -1581,7 +1581,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  <item><hi rend="bold">Babrius</hi> Fabularum Scriptor [Babr.] <date>ii A.D.</date>
    Ed. O. Crusius, Leipzig (T.) 1897.</item>
  <item><hi rend="bold">Bacchius</hi> Musicus [Bacch.]
-   <title>Harm.</title> = <foreign lang="greek">Εἰσαγωγὴ τέχνης μουσικῆς,</foreign> ed. C. Jan, <title>Musici Scriptores
+   <title>Harm.</title> = <foreign lang="grc">Εἰσαγωγὴ τέχνης μουσικῆς,</foreign> ed. C. Jan, <title>Musici Scriptores
     Graeci,</title> Leipzig (T.) 1895, p. 292.</item>
  <item><hi rend="bold">Bacchylides</hi> Lyricus [B.] <date>v B.C.</date>
    Ed. Sir R. C. Jebb, Cambridge 1905.
@@ -1696,7 +1696,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  <item><hi rend="bold">Carystius</hi> Historicus [Caryst.] <date>ii B.C.</date>
    Ed. C. Müller, <title>FHG</title> iv p. 356.</item>
  <item><hi rend="bold">Cassius</hi> Medicus [Cass.] <date>iii A.D.</date>
-   <foreign lang="greek">Προβλήματα,</foreign> ed. J. L. Ideler, <title>Physici et Medici Graeci Minores,</title>
+   <foreign lang="grc">Προβλήματα,</foreign> ed. J. L. Ideler, <title>Physici et Medici Graeci Minores,</title>
     Berlin 1841, i p. 144. [<title>Pr.</title>]</item>
  <item><hi rend="bold">Cassius Felix</hi> Medicus [Cass.Fel.] <date>iv A.D.</date>
    Ed. V. Rose, Leipzig (T.) 1879.</item>
@@ -1729,7 +1729,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  <item><hi rend="bold">Chamaeleon</hi> Grammaticus [Chamael.]
    Apud Athenaeum.</item>
  <item><hi rend="bold">Characteres Epistolici</hi> [<title>Epist.Charact.</title>]
-   <title>Demetrii et Libanii qui feruntur</title> <foreign lang="greek">τύποι ἐπιστολικοί et ἐπιστολιμαῖοι χαρακτῆρες,</foreign> ed. V. Weichert, Leipzig (T.) 1910.</item>
+   <title>Demetrii et Libanii qui feruntur</title> <foreign lang="grc">τύποι ἐπιστολικοί et ἐπιστολιμαῖοι χαρακτῆρες,</foreign> ed. V. Weichert, Leipzig (T.) 1910.</item>
  <item><hi rend="bold">Charax</hi> Historicus <date>ii A.D. (?)</date>
    Ed. C. Müller, <title>FHG</title> iii p. 636, iv p. 669.</item>
  <item><hi rend="bold">Chares</hi> Historicus <date>iv B.C.</date>
@@ -1761,21 +1761,21 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  <item><hi rend="bold">Choerilus</hi> Tragicus [Choeril.Trag.] <date>v B.C.</date>
    Ed. A. Nauck, <title>TGF</title> p. 719.</item>
  <item><hi rend="bold">Choeroboscus</hi> Grammaticus [Choerob.] <date>iv/v A.D.</date>
-   <foreign lang="greek">περὶ ὀρθογραφίας,</foreign> ed. Cramer, <title>An. Ox.</title> ii p. 167.
-   <foreign lang="greek">περὶ τρόπων,</foreign> ed. L. Spengel, <title>Rhet.</title> iii p. 244. [Rh.]
+   <foreign lang="grc">περὶ ὀρθογραφίας,</foreign> ed. Cramer, <title>An. Ox.</title> ii p. 167.
+   <foreign lang="grc">περὶ τρόπων,</foreign> ed. L. Spengel, <title>Rhet.</title> iii p. 244. [Rh.]
    <title>Scholia in Hephaestionem,</title> ed. W. Consbruch, post Hephaestionem, p. 177. [<title>in Heph.</title>]
    <title>Scholia in Theodosii Canones,</title> ed. A. Hilgard, 2 vols., Leipzig
     1889-94. [<title>in Theod.</title>]</item>
  <item><hi rend="bold">Choricius</hi> Rhetor [Chor.] <date>vi A.D.</date>
    Ed. J. F. Boissonade, Paris 1846.
-    </item><item><title>Brum.</title> = <foreign lang="greek">εἰς τὰ Ἰουστινιανοῦ Βρουμάλια,</foreign> ed. R. Förster, <title>Ind.
+    </item><item><title>Brum.</title> = <foreign lang="grc">εἰς τὰ Ἰουστινιανοῦ Βρουμάλια,</foreign> ed. R. Förster, <title>Ind.
       Lect. Vratisl.</title> 1891/2, Breslau 1891.
-    </item><item><title>Lyd.</title> = <foreign lang="greek">Λυδοί,</foreign> ed. R. Förster, op. cit.
-    </item><item><title>Milt.</title> = <foreign lang="greek">Μιλτιάδης,</foreign> ed. R. Förster, <title>Ind. Lect. Vratisl.</title> 1892/3,
+    </item><item><title>Lyd.</title> = <foreign lang="grc">Λυδοί,</foreign> ed. R. Förster, op. cit.
+    </item><item><title>Milt.</title> = <foreign lang="grc">Μιλτιάδης,</foreign> ed. R. Förster, <title>Ind. Lect. Vratisl.</title> 1892/3,
       Breslau 1892.
-    </item><item><title>Proc.</title> = <foreign lang="greek">Ἐπιθαλάμιος εἰς Προκόπιον,</foreign> ed. R. Förster, <title>Ind. Lect.
+    </item><item><title>Proc.</title> = <foreign lang="grc">Ἐπιθαλάμιος εἰς Προκόπιον,</foreign> ed. R. Förster, <title>Ind. Lect.
       Vratisl.</title> 1891/2, Breslau 1891.
-    </item><item><title>Zach.</title> = <foreign lang="greek">Ἐπιθαλάμιος εἰς Ζαχαρίαν,</foreign> ed. R. Förster, op. cit.
+    </item><item><title>Zach.</title> = <foreign lang="grc">Ἐπιθαλάμιος εἰς Ζαχαρίαν,</foreign> ed. R. Förster, op. cit.
    Note.—Other orations cited from periodicals, <title>Hermes</title> xvii (1883),
       </item><item><title>Jahrb.</title> ix (1894), <title>Philol.</title> liv (1895), <title>Rev. Phil.</title> i (1877), <title>Rh.
       Mus.</title> xxxvii (1882), xlix (1894), or from Reiskeʼs <title>Libanius,</title>
@@ -2020,7 +2020,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  <item><hi rend="bold">Diagoras</hi> Lyricus [Diagor.] <date>v B.C.</date>
    Ed. T. Bergk, <title>PLG</title> iii p. 562.</item>
  <item><hi rend="bold">Dialexeis</hi> [<title>Dialex.</title>] <date>ca. 400 B.C.</date>
-   Anonymi <foreign lang="greek">Δισσοὶ Λόγοι,</foreign> ed. H. Diels, <title>Vorsokr.</title> ii p. 334.</item>
+   Anonymi <foreign lang="grc">Δισσοὶ Λόγοι,</foreign> ed. H. Diels, <title>Vorsokr.</title> ii p. 334.</item>
  <item><hi rend="bold">Dicaearchus</hi> Geographus [Dicaearch.] <date>iv B.C.</date>
    Ed. C. Müller, <title>GGM</title> i p. 97.</item>
  <item><hi rend="bold">Dicaearchus</hi> Historicus [Dicaearch.Hist.] <date>iv B.C.</date>
@@ -2104,7 +2104,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  <item><hi rend="bold">Dionysius</hi> Epigrammaticus [Dionys.]
    v. <title>Anthologia Graeca.</title></item>
  <item><hi rend="bold">Dionysius</hi> Rerum Naturalium Scriptor [Dionys.]
-   <title>Av. = de Avibus</title> (Paraphrasis Oppiani <foreign lang="greek">Ἰξευτικῶν</foreign>), ed. F. S. Lehrs
+   <title>Av. = de Avibus</title> (Paraphrasis Oppiani <foreign lang="grc">Ἰξευτικῶν</foreign>), ed. F. S. Lehrs
     (post Oppianum, q.v.).</item>
  <item><hi rend="bold">Dionysius</hi> Tragicus [Dionys.Trag.] <date>iv B.C.</date>
    Ed. A. Nauck, <title>TGF</title> p. 793.</item>
@@ -2159,7 +2159,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    <title>Alex. = Alexipharmaca; Ther. = Theriaca;</title> ed. K. Sprengel,
     </item><item><title>Dioscorides</title> (vols. xxv and xxvi of <title>Medici Graeci,</title> ed. C. G.
     Kühn), Leipzig 1829.
-   <title>Eup.</title> = <foreign lang="greek">περὶ Εὐποριστῶν,</foreign> ed. Wellmann (v. supr.).</item>
+   <title>Eup.</title> = <foreign lang="grc">περὶ Εὐποριστῶν,</foreign> ed. Wellmann (v. supr.).</item>
  <item><hi rend="bold">Dioscorides Glossator</hi> [Diosc.Gloss.]
    Apud Galenum.</item>
  <item><hi rend="bold">Diotimus</hi> Epigrammaticus [Diotim.] <date>iii B.C. (?)</date>
@@ -2239,7 +2239,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
       </item><item><title>Nat.Herc.</title> followed by No. of papyrus and col. or <title>Fr.</title>:
       portions edited by Gomperz in <title>Wien. Stud.</title> i (1879) p. 27
       cited by No. of line, followed by ‘G.ʼ).
-    </item><item><title>Sent. = Sententiae</title> (<foreign lang="greek">κύριαι δόξαι</foreign>) 
+    </item><item><title>Sent. = Sententiae</title> (<foreign lang="grc">κύριαι δόξαι</foreign>) 
     </item><item><title>Sent.Vat. = Gnomologium Vaticanum,</title> ed. Wotke-Usener,
       </item><item><title>Wien. Stud.</title> X (1888) pp. 175-201 = Usener, <title>Kleine Schriften</title>
       i p. 297; ed. P. von der Mühll (v. supr.).
@@ -2261,7 +2261,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    Apud Galenum.</item>
  <item><hi rend="bold">Eratosthenes</hi> Epicus [Eratosth.] <date>iii B.C.</date>
    Ed. J. U. Powell, <title>Coll. Alex.</title> p. 58.
-   <title>Cat.</title> = <foreign lang="greek">Καταστερισμοί,</foreign> ed. A. Olivieri, <title>Mythographi Graeci</title> iii (1),
+   <title>Cat.</title> = <foreign lang="grc">Καταστερισμοί,</foreign> ed. A. Olivieri, <title>Mythographi Graeci</title> iii (1),
     Leipzig (T.) 1897.</item>
  <item><hi rend="bold">Eratosthenes Scholasticus</hi> Epigrammaticus [Eratosth.] <date>vi A.D.</date>
    v. <title>Anthologia Graeca.</title></item>
@@ -2428,30 +2428,30 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    Ed. C. G. Kühn, Leipzig 1821-33 (cited by vol. and p.); ed.
     H. Diels et alii, <title>CMG</title> v 4 (2), 9 (1, 2), Leipzig 1918- (in progress): the following works (cited by title) are separately
     edited in the editions named:
-   <title>Anim.Pass.</title> = <foreign lang="greek">περὶ ψυχῆς παθῶν κτλ.,</foreign> ed. J. Marquardt, <title>Galeni
+   <title>Anim.Pass.</title> = <foreign lang="grc">περὶ ψυχῆς παθῶν κτλ.,</foreign> ed. J. Marquardt, <title>Galeni
     Scripta Minora</title> i p. 1, Leipzig (T.) 1884.
-   <title>Consuet.</title> = <foreign lang="greek">περὶ ἐθῶν,</foreign> ed. I. Müller, <title>Scripta Minora</title> (v. supr.) ii p. 9.
-   <title>Inst.Log.</title> = <foreign lang="greek">εἰσαγωγὴ διαλεκτική,</foreign> ed. C. Kalbfleisch, Leipzig (T.)
+   <title>Consuet.</title> = <foreign lang="grc">περὶ ἐθῶν,</foreign> ed. I. Müller, <title>Scripta Minora</title> (v. supr.) ii p. 9.
+   <title>Inst.Log.</title> = <foreign lang="grc">εἰσαγωγὴ διαλεκτική,</foreign> ed. C. Kalbfleisch, Leipzig (T.)
     1896.
-   <title>Libr.Ord.</title> = <foreign lang="greek">περὶ τῆς τάξεως τῶν ἰδίων βιβλίων,</foreign> ed. I. Müller,
+   <title>Libr.Ord.</title> = <foreign lang="grc">περὶ τῆς τάξεως τῶν ἰδίων βιβλίων,</foreign> ed. I. Müller,
     </item><item><title>Scripta Minora</title> (v. supr.) ii p. 80.
-   <title>Libr.Propr.</title> = <foreign lang="greek">περὶ τῶν ἰδίων βιβλίων,</foreign> ib. p. 91.
-   <title>Med.Phil.</title> = <foreign lang="greek">ὅτι ὁ ἄριστος ἰατρὸς καὶ φιλόσοφος,</foreign> ib. p. 1.
-   <title>Mixt.</title> = <foreign lang="greek">περὶ κράσεων,</foreign> ed. G. Helmreich, Leipzig (T.) 1904.
-   <title>Nat.Fac.</title> = <foreign lang="greek">περὶ φυσικῶν δυνάμεων,</foreign> ed. G. Helmreich, <title>Scripta
+   <title>Libr.Propr.</title> = <foreign lang="grc">περὶ τῶν ἰδίων βιβλίων,</foreign> ib. p. 91.
+   <title>Med.Phil.</title> = <foreign lang="grc">ὅτι ὁ ἄριστος ἰατρὸς καὶ φιλόσοφος,</foreign> ib. p. 1.
+   <title>Mixt.</title> = <foreign lang="grc">περὶ κράσεων,</foreign> ed. G. Helmreich, Leipzig (T.) 1904.
+   <title>Nat.Fac.</title> = <foreign lang="grc">περὶ φυσικῶν δυνάμεων,</foreign> ed. G. Helmreich, <title>Scripta
     Minora</title> iii p. 101.
-   <title>Opt.Doctr.</title> = <foreign lang="greek">περὶ τῆς ἀρίστης διδασκαλίας,</foreign> ed. J. Marquardt,
+   <title>Opt.Doctr.</title> = <foreign lang="grc">περὶ τῆς ἀρίστης διδασκαλίας,</foreign> ed. J. Marquardt,
     ib. i p. 82.
-   <title>Parv.Pil.</title> = <foreign lang="greek">περὶ τοῦ διὰ τῆς σμικρᾶς σφαίρας γυμνασιου,</foreign> ib. p. 93.
-   <title>Phil.Hist.</title> = <foreign lang="greek">φιλόσοφος ἱστορία,</foreign> ed. H. Diels, <title>Doxographi Graeci,</title>
+   <title>Parv.Pil.</title> = <foreign lang="grc">περὶ τοῦ διὰ τῆς σμικρᾶς σφαίρας γυμνασιου,</foreign> ib. p. 93.
+   <title>Phil.Hist.</title> = <foreign lang="grc">φιλόσοφος ἱστορία,</foreign> ed. H. Diels, <title>Doxographi Graeci,</title>
     Berlin 1879.
-   <title>Protr.</title> = <foreign lang="greek">προτρεπτικός,</foreign> ed. J. Marquardt, <title>Scripta Minora</title> i p. 103.
-   <title>Sect.Intr.</title> = <foreign lang="greek">περὶ αἱρέσεων τοῖς εἰσαγομένοις,</foreign> ed. G. Helmreich, ib.
+   <title>Protr.</title> = <foreign lang="grc">προτρεπτικός,</foreign> ed. J. Marquardt, <title>Scripta Minora</title> i p. 103.
+   <title>Sect.Intr.</title> = <foreign lang="grc">περὶ αἱρέσεων τοῖς εἰσαγομένοις,</foreign> ed. G. Helmreich, ib.
     iii p. 1.
    <title>Subf.Emp. = Subfiguratio Empirica,</title> ed. M. Bonnet, Bonn 1872.
-   <title>Thras.</title> = <foreign lang="greek">Θρασύβουλος,</foreign> ed. G. Helmreich, <title>Scripta Minora</title> iii p. 33.
+   <title>Thras.</title> = <foreign lang="grc">Θρασύβουλος,</foreign> ed. G. Helmreich, <title>Scripta Minora</title> iii p. 33.
    <title>UP = de Usu Partium,</title> ed. G. Helmreich, Leipzig (T.) 1907-9.
-   <title>Vict.Att.</title> = <foreign lang="greek">περὶ λεπτυνούσης διαίτης,</foreign> ed. C. Kalbfleisch, <title>CMG</title> v
+   <title>Vict.Att.</title> = <foreign lang="grc">περὶ λεπτυνούσης διαίτης,</foreign> ed. C. Kalbfleisch, <title>CMG</title> v
     (4), Leipzig 1923.
    The work <title>De placitis Hippocratis et Platonis</title> (cited by vol. and p.
     of Kühn) has been re-edited by I. Müller, Leipzig 1874.</item>
@@ -2486,7 +2486,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    Ed. C. Müller, <title>FHG</title> iv p. 410.</item>
  <item><hi rend="bold">Gregorius Corinthius</hi> Grammaticus [Greg.Cor.] <date>xii A.D.</date>
    Ed. G. H. Schaefer, Leipzig 1811.
-   <title>Trop.</title> = <foreign lang="greek">περὶ τρόπων,</foreign> ed. L. Spengel, <title>Rhet.</title> iii p. 215.</item>
+   <title>Trop.</title> = <foreign lang="grc">περὶ τρόπων,</foreign> ed. L. Spengel, <title>Rhet.</title> iii p. 215.</item>
  <item><hi rend="bold">Gregorius Cyprius</hi> Paroemiographus [Greg.Cypr.] <date>xiii A.D.</date>
    Ed. E. L. von Leutsch &amp; F. G. Schneidewin, <title>Paroemiographi</title>
     i p. 349, ii p. 53.</item>
@@ -2553,7 +2553,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  <item><hi rend="bold">Hephaestio</hi> Grammaticus [Heph.]
    <title>Hephaestionis Enchiridion cum commentariis veteribus,</title> ed. M.
     Consbruch, Leipzig (T.) 1906; cited without title.
-   <title>Poëm.</title> = <foreign lang="greek">περὶ ποιημάτων,</foreign> ed. M. Consbruch, ibid. p. 62.
+   <title>Poëm.</title> = <foreign lang="grc">περὶ ποιημάτων,</foreign> ed. M. Consbruch, ibid. p. 62.
    Scholia, ibid. p. 79; ed. R. Westphal, <title>Scriptores Metrici Graeci</title> i
     p. 95, Leipzig (T.) 1866.</item>
  <item><hi rend="bold">Heraclas</hi> Medicus [Heracl.]
@@ -2561,7 +2561,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  <item><hi rend="bold">Heraclides</hi> Comicus [Heraclid.Com.] <date>iv B.C.</date>
    Ed. T. Kock, <title>CAF</title> ii p. 435.</item>
  <item><hi rend="bold">Heraclides</hi> Historicus [Heraclid.]
-   <title>Pol.</title> = <foreign lang="greek">περὶ πολιτειῶν,</foreign> ed. V. Rose, in Arist. <title>Fr.</title> pp. 370-86.</item>
+   <title>Pol.</title> = <foreign lang="grc">περὶ πολιτειῶν,</foreign> ed. V. Rose, in Arist. <title>Fr.</title> pp. 370-86.</item>
  <item><hi rend="bold">Heraclides Cumaeus</hi> Historicus [Heraclid.Cum.] <date>iv B.C.</date>
    Ed. C. Müller, <title>FHG</title> ii p. 95.</item>
  <item><hi rend="bold">Heraclides Lembus</hi> Historicus [Heraclid.Lemb.] <date>ii B.C.</date>
@@ -2610,11 +2610,11 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    v. <title>Anthologia Graeca.</title></item>
  <item><hi rend="bold">Hermogenes</hi> Rhetor [Hermog.] <date>ii A.D.</date>
    Ed. H. Rabe, Leipzig (T.) 1913.
-    </item><item><title>Id.</title> = <foreign lang="greek">περὶ ἰδεῶν</foreign>
-    </item><item><title>Inv.</title> = <foreign lang="greek">περὶ εὑρέσεως</foreign>
-    </item><item><title>Meth.</title> = <foreign lang="greek">περὶ μεθόδου δεινότητος</foreign>
-    </item><item><title>Prog.</title> = <foreign lang="greek">προγυμνάσματα</foreign>
-    </item><item><title>Stat.</title> = <foreign lang="greek">περὶ τῶν στάσεων</foreign></item>
+    </item><item><title>Id.</title> = <foreign lang="grc">περὶ ἰδεῶν</foreign>
+    </item><item><title>Inv.</title> = <foreign lang="grc">περὶ εὑρέσεως</foreign>
+    </item><item><title>Meth.</title> = <foreign lang="grc">περὶ μεθόδου δεινότητος</foreign>
+    </item><item><title>Prog.</title> = <foreign lang="grc">προγυμνάσματα</foreign>
+    </item><item><title>Stat.</title> = <foreign lang="grc">περὶ τῶν στάσεων</foreign></item>
  <item><hi rend="bold">Hermon</hi> vel <hi rend="bold">Hermonax</hi> Epicus
    Ed. J. U. Powell, <title>Coll. Alex.</title> p. 251.</item>
  <item><hi rend="bold">Hero</hi> Mechanicus <date>ii/i B.C. (?)</date>
@@ -2704,65 +2704,65 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  <item><hi rend="bold">Hippocrates</hi> Medicus [Hp.] <date>v B.C.</date>
    Ed. E. Littré, 10 vols., Paris 1839-61; ed. H. Kuehlewein, vols.
     i-ii (all published), Leipzig 1894, 1902.
-    </item><item><title>Acut.</title> = <foreign lang="greek">περὶ διαίτης ὀξέων</foreign>
-    </item><item><title>Acut.(Sp.)</title> = <foreign lang="greek">περὶ διαίτης ὀξέων  (νόθα</foreign>) 
-    </item><item><title>Aër.</title> = <foreign lang="greek">περὶ ἀέρων ὑδάτων τόπων</foreign>
-    </item><item><title>Aff.</title> = <foreign lang="greek">περὶ παθῶν</foreign>
-    </item><item><title>Alim.</title> = <foreign lang="greek">περὶ τροφῆς</foreign>
-    </item><item><title>Anat.</title> = <foreign lang="greek">περὶ ἀνατομῆς</foreign>
-    </item><item><title>Aph.</title> = <foreign lang="greek">ἀφορισμοί</foreign>
-    </item><item><title>Art.</title> = <foreign lang="greek">περὶ ἄρθρων ἐμβολῆς</foreign>
-    </item><item><title>de Arte</title> = <foreign lang="greek">περὶ τέχνης</foreign>
-    </item><item><title>Carn.</title> = <foreign lang="greek">περὶ σαρκῶν</foreign>
-    </item><item><title>Coac.</title> = <foreign lang="greek">Κωακαὶ προγνώσιες</foreign>
-    </item><item><title>Cord.</title> = <foreign lang="greek">περὶ καρδίης</foreign>
-    </item><item><title>Decent.</title> = <foreign lang="greek">περὶ εὐσχημοσύνης</foreign>
-    </item><item><title>Dent.</title> = <foreign lang="greek">περὶ ὀδοντοφυΐης</foreign>
-    </item><item><title>Dieb.Judic.</title> = <foreign lang="greek">περὶ κρισίμων ἡμερέων</foreign>
-    </item><item><title>Ep.</title> = <foreign lang="greek">ἐπιστολαί</foreign>
-    </item><item><title>Epid.</title> = <foreign lang="greek">ἐπιδημίαι</foreign>
-    </item><item><title>Fist.</title> = <foreign lang="greek">περὶ συρίγγων</foreign>
-    </item><item><title>Flat.</title> = <foreign lang="greek">περὶ φυσῶν</foreign>
-    </item><item><title>Foet.Exsect.</title> = <foreign lang="greek">περὶ ἐγκατατομῆς ἐμβρύοι</foreign>
-    </item><item><title>Fract.</title> = <foreign lang="greek">περὶ ἀγμῶν</foreign>
-    </item><item><title>Genit.</title> = <foreign lang="greek">περὶ γονῆς</foreign>
-    </item><item><title>Gland.</title> = <foreign lang="greek">περὶ ἀδένων</foreign>
-    </item><item><title>Haem.</title> = <foreign lang="greek">περὶ αἱμορροΐδων</foreign>
-    </item><item><title>Hebd.</title> = <foreign lang="greek">περὶ ἑβδομάδων,</foreign> ed. W. H. Roscher, <title>Die Hippokratische
+    </item><item><title>Acut.</title> = <foreign lang="grc">περὶ διαίτης ὀξέων</foreign>
+    </item><item><title>Acut.(Sp.)</title> = <foreign lang="grc">περὶ διαίτης ὀξέων  (νόθα</foreign>) 
+    </item><item><title>Aër.</title> = <foreign lang="grc">περὶ ἀέρων ὑδάτων τόπων</foreign>
+    </item><item><title>Aff.</title> = <foreign lang="grc">περὶ παθῶν</foreign>
+    </item><item><title>Alim.</title> = <foreign lang="grc">περὶ τροφῆς</foreign>
+    </item><item><title>Anat.</title> = <foreign lang="grc">περὶ ἀνατομῆς</foreign>
+    </item><item><title>Aph.</title> = <foreign lang="grc">ἀφορισμοί</foreign>
+    </item><item><title>Art.</title> = <foreign lang="grc">περὶ ἄρθρων ἐμβολῆς</foreign>
+    </item><item><title>de Arte</title> = <foreign lang="grc">περὶ τέχνης</foreign>
+    </item><item><title>Carn.</title> = <foreign lang="grc">περὶ σαρκῶν</foreign>
+    </item><item><title>Coac.</title> = <foreign lang="grc">Κωακαὶ προγνώσιες</foreign>
+    </item><item><title>Cord.</title> = <foreign lang="grc">περὶ καρδίης</foreign>
+    </item><item><title>Decent.</title> = <foreign lang="grc">περὶ εὐσχημοσύνης</foreign>
+    </item><item><title>Dent.</title> = <foreign lang="grc">περὶ ὀδοντοφυΐης</foreign>
+    </item><item><title>Dieb.Judic.</title> = <foreign lang="grc">περὶ κρισίμων ἡμερέων</foreign>
+    </item><item><title>Ep.</title> = <foreign lang="grc">ἐπιστολαί</foreign>
+    </item><item><title>Epid.</title> = <foreign lang="grc">ἐπιδημίαι</foreign>
+    </item><item><title>Fist.</title> = <foreign lang="grc">περὶ συρίγγων</foreign>
+    </item><item><title>Flat.</title> = <foreign lang="grc">περὶ φυσῶν</foreign>
+    </item><item><title>Foet.Exsect.</title> = <foreign lang="grc">περὶ ἐγκατατομῆς ἐμβρύοι</foreign>
+    </item><item><title>Fract.</title> = <foreign lang="grc">περὶ ἀγμῶν</foreign>
+    </item><item><title>Genit.</title> = <foreign lang="grc">περὶ γονῆς</foreign>
+    </item><item><title>Gland.</title> = <foreign lang="grc">περὶ ἀδένων</foreign>
+    </item><item><title>Haem.</title> = <foreign lang="grc">περὶ αἱμορροΐδων</foreign>
+    </item><item><title>Hebd.</title> = <foreign lang="grc">περὶ ἑβδομάδων,</foreign> ed. W. H. Roscher, <title>Die Hippokratische
       Schrift von der Siebenzahl,</title> Paderborn 1913.
-    </item><item><title>Hum.</title> = <foreign lang="greek">περὶ χυμῶν</foreign>
-    </item><item><title>Insomn.</title> = <foreign lang="greek">περὶ ἐνυπνίων</foreign>
-    </item><item><title>Int.</title> = <foreign lang="greek">περὶ τῶν ἐντὸς παθῶν</foreign>
-    </item><item><title>Judic.</title> = <foreign lang="greek">περὶ κρισίων</foreign>
-    </item><item><title>Jusj.</title> = <foreign lang="greek">ὅρκος</foreign>
-    </item><item><title>Lex</title> = <foreign lang="greek">νόμος</foreign>
-    </item><item><title>Liqu.</title> = <foreign lang="greek">περὶ ὑγρῶν χρήσιος</foreign>
-    </item><item><title>Loc.Hom.</title> = <foreign lang="greek">περὶ τόπων τῶν κατὰ ἄνθρωπον</foreign>
-    </item><item><title>Medic.</title> = <foreign lang="greek">περὶ ἰητροῦ</foreign>
-    </item><item><title>Mochl.</title> = <foreign lang="greek">μοχλικόν</foreign>
-    </item><item><title>Morb.</title> = <foreign lang="greek">περὶ νούσων</foreign>
-    </item><item><title>Morb.Sacr.</title> = <foreign lang="greek">περὶ ἱερῆς νούσου</foreign>
-    </item><item><title>Mul.</title> = <foreign lang="greek">γυναικεῖα</foreign>
-    </item><item><title>Nat.Hom.</title> = <foreign lang="greek">περὶ φύσιος ἀνθρώπου</foreign>
-    </item><item><title>Nat.Mul.</title> = <foreign lang="greek">περὶ γυναικείης φύσιος</foreign>
-    </item><item><title>Nat.Puer.</title> = <foreign lang="greek">περὶ φύσιος παιδίου</foreign>
-    </item><item><title>Oct.</title> = <foreign lang="greek">περὶ ὀκταμήνου</foreign>
-    </item><item><title>Off.</title> = <foreign lang="greek">κατʼ ἰητρεῖον</foreign>
-    </item><item><title>Oss.</title> = <foreign lang="greek">περὶ ὀστέων φύσιος</foreign>
-    </item><item><title>Praec.</title> = <foreign lang="greek">παραγγελίαι</foreign>
-    </item><item><title>Prog.</title> = <foreign lang="greek">προγνωστικόν</foreign>
-    </item><item><title>Prorrh.</title> = <foreign lang="greek">προρρητικόν</foreign>
-    </item><item><title>Salubr.</title> = <foreign lang="greek">περὶ διαίτης ὑγιεινῆς</foreign>
-    </item><item><title>Septim.</title> = <foreign lang="greek">περὶ ἑπταμήνου</foreign>
-    </item><item><title>Septim. (Sp.)</title> = <foreign lang="greek">περὶ ἑπταμήνου</foreign> (second treatise)
-    </item><item><title>Steril.</title> = <foreign lang="greek">περὶ ἀφόρων</foreign>
-    </item><item><title>Superf.</title> = <foreign lang="greek">περὶ ἐπικυήσιος</foreign>
-    </item><item><title>Ulc.</title> = <foreign lang="greek">περὶ ἑλκῶν</foreign>
-    </item><item><title>VC</title> = <foreign lang="greek">περὶ τῶν ἐν κεφαλη_ τρωμάτων</foreign>
-    </item><item><title>VM</title> = <foreign lang="greek">περὶ ἀρχαίης ἰητρικῇς</foreign>
-    </item><item><title>Vict.</title> = <foreign lang="greek">περὶ διαίτης</foreign>
-    </item><item><title>Vid.Ac.</title> = <foreign lang="greek">περὶ ὄψιος</foreign>
-    </item><item><title>Virg.</title> = <foreign lang="greek">περὶ παρθενίων</foreign></item>
+    </item><item><title>Hum.</title> = <foreign lang="grc">περὶ χυμῶν</foreign>
+    </item><item><title>Insomn.</title> = <foreign lang="grc">περὶ ἐνυπνίων</foreign>
+    </item><item><title>Int.</title> = <foreign lang="grc">περὶ τῶν ἐντὸς παθῶν</foreign>
+    </item><item><title>Judic.</title> = <foreign lang="grc">περὶ κρισίων</foreign>
+    </item><item><title>Jusj.</title> = <foreign lang="grc">ὅρκος</foreign>
+    </item><item><title>Lex</title> = <foreign lang="grc">νόμος</foreign>
+    </item><item><title>Liqu.</title> = <foreign lang="grc">περὶ ὑγρῶν χρήσιος</foreign>
+    </item><item><title>Loc.Hom.</title> = <foreign lang="grc">περὶ τόπων τῶν κατὰ ἄνθρωπον</foreign>
+    </item><item><title>Medic.</title> = <foreign lang="grc">περὶ ἰητροῦ</foreign>
+    </item><item><title>Mochl.</title> = <foreign lang="grc">μοχλικόν</foreign>
+    </item><item><title>Morb.</title> = <foreign lang="grc">περὶ νούσων</foreign>
+    </item><item><title>Morb.Sacr.</title> = <foreign lang="grc">περὶ ἱερῆς νούσου</foreign>
+    </item><item><title>Mul.</title> = <foreign lang="grc">γυναικεῖα</foreign>
+    </item><item><title>Nat.Hom.</title> = <foreign lang="grc">περὶ φύσιος ἀνθρώπου</foreign>
+    </item><item><title>Nat.Mul.</title> = <foreign lang="grc">περὶ γυναικείης φύσιος</foreign>
+    </item><item><title>Nat.Puer.</title> = <foreign lang="grc">περὶ φύσιος παιδίου</foreign>
+    </item><item><title>Oct.</title> = <foreign lang="grc">περὶ ὀκταμήνου</foreign>
+    </item><item><title>Off.</title> = <foreign lang="grc">κατʼ ἰητρεῖον</foreign>
+    </item><item><title>Oss.</title> = <foreign lang="grc">περὶ ὀστέων φύσιος</foreign>
+    </item><item><title>Praec.</title> = <foreign lang="grc">παραγγελίαι</foreign>
+    </item><item><title>Prog.</title> = <foreign lang="grc">προγνωστικόν</foreign>
+    </item><item><title>Prorrh.</title> = <foreign lang="grc">προρρητικόν</foreign>
+    </item><item><title>Salubr.</title> = <foreign lang="grc">περὶ διαίτης ὑγιεινῆς</foreign>
+    </item><item><title>Septim.</title> = <foreign lang="grc">περὶ ἑπταμήνου</foreign>
+    </item><item><title>Septim. (Sp.)</title> = <foreign lang="grc">περὶ ἑπταμήνου</foreign> (second treatise)
+    </item><item><title>Steril.</title> = <foreign lang="grc">περὶ ἀφόρων</foreign>
+    </item><item><title>Superf.</title> = <foreign lang="grc">περὶ ἐπικυήσιος</foreign>
+    </item><item><title>Ulc.</title> = <foreign lang="grc">περὶ ἑλκῶν</foreign>
+    </item><item><title>VC</title> = <foreign lang="grc">περὶ τῶν ἐν κεφαλη_ τρωμάτων</foreign>
+    </item><item><title>VM</title> = <foreign lang="grc">περὶ ἀρχαίης ἰητρικῇς</foreign>
+    </item><item><title>Vict.</title> = <foreign lang="grc">περὶ διαίτης</foreign>
+    </item><item><title>Vid.Ac.</title> = <foreign lang="grc">περὶ ὄψιος</foreign>
+    </item><item><title>Virg.</title> = <foreign lang="grc">περὶ παρθενίων</foreign></item>
  <item><hi rend="bold">Hippodamus</hi> Pythagoreus [Hippod.]
    Apud Stobaeum.</item>
  <item><hi rend="bold">Hippolytus</hi> Scriptor Ecclesiasticus [Hippol.] <date>iii A. D.</date>
@@ -2875,9 +2875,9 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    Ed. J. U. Powell, <title>Coll. Alex.</title> p. 132 (=<title>IG</title> 4.950).</item>
  <item><hi rend="bold">Joannes Alexandrinus</hi> Grammaticus [Jo.Alex. vel Jo.Gramm.] <date>vi A.D.</date>
    Idem qui Philoponus (q.v.).
-   Compendium <foreign lang="greek">περὶ διαλέκτων,</foreign> ed. O. Hoffmann, <title>Die griechischen
+   Compendium <foreign lang="grc">περὶ διαλέκτων,</foreign> ed. O. Hoffmann, <title>Die griechischen
     Dialekte</title> ii, Göttingen 1893, p. 204. [Jo.Gramm.<title>Comp.</title>]
-   <foreign lang="greek">τονικὰ παραγγέλματα.</foreign> ed. W. Dindorf, Leipzig 1825. [Jo.Alex.]</item>
+   <foreign lang="grc">τονικὰ παραγγέλματα.</foreign> ed. W. Dindorf, Leipzig 1825. [Jo.Alex.]</item>
  <item><hi rend="bold">Joannes Diaconus</hi> Grammaticus [Jo.Diac.]
    Ed. T. Gaisford, <title>Poetae Graeci Minores,</title> vol. iii, p. 448.</item>
  <item><hi rend="bold">Joannes Gazaeus</hi> [Jo.Gaz.] <date>vi A.D.</date>
@@ -2907,7 +2907,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  <item><hi rend="bold">Juncus</hi> Philosophus [Junc.] <date>ii A.D. (?)</date>
    Apud Stobaeum.</item>
  <item><hi rend="bold">Justinianus</hi> Imperator [Just.] <date>vi A.D.</date>
-   <title>Constitutio</title> <foreign lang="greek">Δέδωκεν,</foreign> ed. P. Krüger, <title>Corpus Juris Civilis</title> i13, Berlin 1920. [<title>Const.</title><foreign lang="greek">Δέδωκεν</foreign>]
+   <title>Constitutio</title> <foreign lang="grc">Δέδωκεν,</foreign> ed. P. Krüger, <title>Corpus Juris Civilis</title> i13, Berlin 1920. [<title>Const.</title><foreign lang="grc">Δέδωκεν</foreign>]
    <title>Constitution ‘omnem’,</title> ed. P. Krüger, op. cit. [<title>Const.omnem</title>]
    <title>Edicta,</title> ed. R. Schoell et W. Kroll, <title>Corpus Juris Civilis</title> iii4,
     Berlin 1905. [<title>Edict.</title>]
@@ -3200,9 +3200,9 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  <item><hi rend="bold">Meges</hi> Medicus <date>i A.D.</date>
    Apud Oribasium.</item>
  <item><hi rend="bold">Melampus</hi> Scriptor de divinatione [Melamp.]
-   <foreign lang="greek">περὶ ἐλαιῶν τοῦ σώματος μαντικὴ πρὸς Πτολεμαῖον,</foreign> ed. J. G. F.
+   <foreign lang="grc">περὶ ἐλαιῶν τοῦ σώματος μαντικὴ πρὸς Πτολεμαῖον,</foreign> ed. J. G. F.
     Franz, <title>Scriptores Physiognomiae Veteres,</title> Altenburg 1780.
-   <foreign lang="greek">περὶ παλμῶν,</foreign> ed. H. Diels, <title>Abh. Berl.Akad.,</title> 1907; cf. <title>PRyl.</title> 1.28.</item>
+   <foreign lang="grc">περὶ παλμῶν,</foreign> ed. H. Diels, <title>Abh. Berl.Akad.,</title> 1907; cf. <title>PRyl.</title> 1.28.</item>
  <item><hi rend="bold">Melanippides</hi> Lyricus [Melanipp.] <date>v B.C.</date>
    Ed. T. Bergk, <title>PLG</title> iii p. 589.</item>
  <item><hi rend="bold">Melanthius</hi> Historicus [Melanth.Hist.] <date>iv B</date>
@@ -3224,20 +3224,20 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  <item><hi rend="bold">Menander</hi> Comicus [Men.] <date>iv/iii B.C.</date>
    Ed. T. Kock, <title>CAF</title> iii p. 3; suppl. J. Demiańczuk, <title>Supp. Com.</title> p. 54.
    <title>Menandrea,</title> ed. A. Körte2, Leipzig (T.) 1912:
-    </item><item><title>Epit.</title> = <foreign lang="greek">Ἐπιτρέποντες</foreign>
-    </item><item><title>Georg.</title> = <foreign lang="greek">Γεωργός</foreign>
-    </item><item><title>Her.</title> = <foreign lang="greek">Ἥρως</foreign>
+    </item><item><title>Epit.</title> = <foreign lang="grc">Ἐπιτρέποντες</foreign>
+    </item><item><title>Georg.</title> = <foreign lang="grc">Γεωργός</foreign>
+    </item><item><title>Her.</title> = <foreign lang="grc">Ἥρως</foreign>
     </item><item><title>Inc.</title> 1, 2 = <title>Fabula incerta</title> 1, 2
-    </item><item><title>Kith.</title> = <foreign lang="greek">Κιθαριστής</foreign>
-    </item><item><title>Kol.</title> = <foreign lang="greek">Κόλαξ</foreign>
-    </item><item><title>Kon.</title> = <foreign lang="greek">Κωνεαζόμεναι</foreign>
-    </item><item><title>Mis.</title> = <foreign lang="greek">Μισούμεναι</foreign>
-    </item><item><title>Mon.</title> = <foreign lang="greek">Μονόστιχοι,</foreign> ed. A. Meineke, <title>Fragmenta Comicorum
+    </item><item><title>Kith.</title> = <foreign lang="grc">Κιθαριστής</foreign>
+    </item><item><title>Kol.</title> = <foreign lang="grc">Κόλαξ</foreign>
+    </item><item><title>Kon.</title> = <foreign lang="grc">Κωνεαζόμεναι</foreign>
+    </item><item><title>Mis.</title> = <foreign lang="grc">Μισούμεναι</foreign>
+    </item><item><title>Mon.</title> = <foreign lang="grc">Μονόστιχοι,</foreign> ed. A. Meineke, <title>Fragmenta Comicorum
       Graecorum</title> iv (1841) p. 340
-    </item><item><title>Per.</title> = <foreign lang="greek">Περινθία</foreign>
-    </item><item><title>Phasm.</title> = <foreign lang="greek">Φάσμα</foreign>
-    </item><item><title>Pk.</title> = <foreign lang="greek">Περικειρομένη</foreign>
-    </item><item><title>Sam.</title> = <foreign lang="greek">Σαμία</foreign></item>
+    </item><item><title>Per.</title> = <foreign lang="grc">Περινθία</foreign>
+    </item><item><title>Phasm.</title> = <foreign lang="grc">Φάσμα</foreign>
+    </item><item><title>Pk.</title> = <foreign lang="grc">Περικειρομένη</foreign>
+    </item><item><title>Sam.</title> = <foreign lang="grc">Σαμία</foreign></item>
  <item><hi rend="bold">Menander</hi> Rhetor [Men.Rh.] <date>iii A.D.</date>
    Ed. L. Spengel, <title>Rhet.</title> iii p. 329.</item>
  <item><hi rend="bold">Menander Ephesius</hi> Historicus [Men.Eph.]
@@ -3322,7 +3322,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  <item><hi rend="bold">Molpis</hi> Historicus
    Ed. C. Müller, <title>FHG</title> iv p. 453.</item>
  <item><hi rend="bold">Moschio</hi> Gnomologus
-   <foreign lang="greek">Γνῶμαι,</foreign> ed. H. Schenkl (post Epictetum), p. 481. [<title>Gnom.</title>]</item>
+   <foreign lang="grc">Γνῶμαι,</foreign> ed. H. Schenkl (post Epictetum), p. 481. [<title>Gnom.</title>]</item>
  <item><hi rend="bold">Moschio</hi> Paradoxographus
    Apud Athenaeum.</item>
  <item><hi rend="bold">Moschio</hi> Tragicus [MoschioTrag.] <date>iv B.C.</date>
@@ -3695,23 +3695,23 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  <item><hi rend="bold">Philodemus</hi> Philosophus [Phld.] <date>i B.C.</date>
    <title>Acad.Ind. = Academicorum Index,</title> ed. S. Mekler, Berlin 1902.
     [p. . . M.]
-   <title>D</title> 1, 3 = <foreign lang="greek">περὶ θεῶν αʹ, γʹ,</foreign> ed. H. Diels, <title>Abhandlungen der Berliner
+   <title>D</title> 1, 3 = <foreign lang="grc">περὶ θεῶν αʹ, γʹ,</foreign> ed. H. Diels, <title>Abhandlungen der Berliner
     Akademie,</title> 1916, 1917. [Col. or <title>Fr.</title>]
    <title>Herc. = Herculanensia Volumina, Collectio altera,</title> Naples 1862-76,
     (i. e. partim inedita) (ex apographis W. Crönert). [No. of
     papyrus, Col. or <title>Fr.</title>]
-   <title>Hom.</title> = <foreign lang="greek">περὶ τοῦ καθʼ Ὅμηρον ἀγαθοῦ βασιλέως,</foreign> ed. A. Olivieri,
+   <title>Hom.</title> = <foreign lang="grc">περὶ τοῦ καθʼ Ὅμηρον ἀγαθοῦ βασιλέως,</foreign> ed. A. Olivieri,
     Leipzig (T.) 1909.
    <title>Ind.Sto. = Stoicorum Index Herculanensis,</title> ed. D. Comparetti,
     </item><item><title>Riv. Fil.</title> iii (1875). [Col. or <title>Fr.</title>]
    <title>Ir. = de Ira,</title> ed. C. Wilke, Leipzig (T.) 1914.
-   <title>Lib.</title> = <foreign lang="greek">περὶ παρρησίας,</foreign> ed. A. Olivieri, Leipzig (T.) 1914.
+   <title>Lib.</title> = <foreign lang="grc">περὶ παρρησίας,</foreign> ed. A. Olivieri, Leipzig (T.) 1914.
    <title>Mort. = de Morte,</title> ed. D. Bassi, <title>Papiri Ercolanesi,</title> Milan 1914. [Col.]
    <title>Mus. = de Musica,</title> ed. J. Kemke, Leipzig (T.) 1884.
-   <title>Oec.</title> = <foreign lang="greek">περὶ οἰκονομίας,</foreign> ed. C. Jensen, Leipzig (T) 1906.
+   <title>Oec.</title> = <foreign lang="grc">περὶ οἰκονομίας,</foreign> ed. C. Jensen, Leipzig (T) 1906.
    <title>Piet. = de Pietate,</title> ed. T. Gomperz, <title>Herkulanische Studien</title> ii,
     Leipzig 1866. [Col. or <title>Fr.</title>]
-   <title>Po.</title> = <foreign lang="greek">περὶ ποιημάτων,</foreign> ed. A. Hausrath, <title>Jahrbücher für klassische
+   <title>Po.</title> = <foreign lang="grc">περὶ ποιημάτων,</foreign> ed. A. Hausrath, <title>Jahrbücher für klassische
     Philologie, Suppl.</title> xvii (1889) p. 211; ed. T. Gomperz, <title>Philodem
     und die aesthetischen Schriften der Herkulanensischen Bibliothek,
     Sitzungsberichte der Wiener Akademie,</title> cxxiii (1891); ed.
@@ -3720,11 +3720,11 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
     Col. or <title>Fr.</title>]
    <title>Rh. = Volumina Rhetorica,</title> ed. S. Sudhaus, 2 vols., Leipzig
     (T.) 1892, 1896, <title>Suppl.</title> 1895. [Cited by vol. and p.]
-   <title>Sign.</title> = <foreign lang="greek">περὶ σημείων καὶ σημειώσεων,</foreign> ed. T. Gomperz, <title>Herkulanische
+   <title>Sign.</title> = <foreign lang="grc">περὶ σημείων καὶ σημειώσεων,</foreign> ed. T. Gomperz, <title>Herkulanische
     Studien</title> i, Leipzig 1865. [Col. or <title>Fr.</title>]
-   <title>Sto.</title> = <foreign lang="greek">περὶ τῶν Στωικῶν,</foreign> ed. W. Crönert, <title>Kolotes und Menedemos,</title>
+   <title>Sto.</title> = <foreign lang="grc">περὶ τῶν Στωικῶν,</foreign> ed. W. Crönert, <title>Kolotes und Menedemos,</title>
     Leipzig 1906, pp. 53 sqq. [Col. or <title>Fr.</title>]
-   <title>Vit.</title> = <foreign lang="greek">περὶ κακιῶν ιʹ,</foreign> ed. C. Jensen, Leipzig (T.) 1911.</item>
+   <title>Vit.</title> = <foreign lang="grc">περὶ κακιῶν ιʹ,</foreign> ed. C. Jensen, Leipzig (T.) 1911.</item>
  <item><hi rend="bold">Philodemus Gadarensis</hi> Epigrammaticus [Phld.] <date>i B.C.</date>
    Videtur idem fuisse ac philosophus.
    v. <title>Anthologia Graeca.</title></item>
@@ -3760,7 +3760,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    Ed. C. Müller, <title>FHG</title> iii p. 28.</item>
  <item><hi rend="bold">Philostratus</hi> Sophista [Philostr.] <date>ii/iii A.D.</date>
    Ed. C. L. Kayser, Leipzig (T.) 1870, 1871.
-    </item><item><title>Dial.</title> = <foreign lang="greek">Διαλέξεις</foreign>
+    </item><item><title>Dial.</title> = <foreign lang="grc">Διαλέξεις</foreign>
     </item><item><title>Ep. = Epistulae</title>
     </item><item><title>Her. = Heroicus</title>
     </item><item><title>VA = Vita Apollonii</title>
@@ -3959,7 +3959,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
     </item><item><title>Rom. = Romulus</title>
     </item><item><title>Sert. = Sertorius</title>
     </item><item><title>Sol. = Solon</title>
-    </item><item><title>Strom.</title> = <foreign lang="greek">Στρωματεῖς</foreign> (vol. vii, p. 37 B.)
+    </item><item><title>Strom.</title> = <foreign lang="grc">Στρωματεῖς</foreign> (vol. vii, p. 37 B.)
     </item><item><title>Sull. = Sulla</title>
     </item><item><title>TG = Tiberius Gracchus</title>
     </item><item><title>Them. = Themistocles</title>
@@ -4025,7 +4025,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    <title>Chr. = adversus Christianos,</title> ed. A. von Harnack, <title>Abh. Berl.
     Akad.</title> 1916.
    <title>Fr.Hist. = Fragmenta Historica,</title> ed. C. Müler, <title>FGH</title> iii p. 688.
-   <title>Gaur. = ad Gaurum</title> (<foreign lang="greek">πῶς ἐμψυχοῦται τὰ ἔμβρυα</foreign>), ed. T. Kalbfleisch,
+   <title>Gaur. = ad Gaurum</title> (<foreign lang="grc">πῶς ἐμψυχοῦται τὰ ἔμβρυα</foreign>), ed. T. Kalbfleisch,
     </item><item><title>Abh. Berl. Akad.</title> 1895.
    <title>in Cat. = in Aristotelis Categorias commentarium,</title> ed. A. Busse
     (<title>Comm. in Arist. Graeca</title> iv <title>pars</title> i p. 55), Berlin 1887.
@@ -4087,7 +4087,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
     1912.
    <title>Par.Ptol. = Paraphrasis Ptolemaei Tetrabiblou,</title> ed. L. Allatius,
     Basel 1554 (cited by page).
-   <title>Theol.Plat.</title> = <foreign lang="greek">περὶ τῆς κατὰ Πλάτωνα θεολογίας,</foreign> ed. Aem. Portus,
+   <title>Theol.Plat.</title> = <foreign lang="grc">περὶ τῆς κατὰ Πλάτωνα θεολογίας,</foreign> ed. Aem. Portus,
     Hamburg 1618.</item>
  <item><hi rend="bold">Procopius Caesariensis</hi> Historicus [Procop.] <date>vi A.D.</date>
    Ed. J. Haury, Leipzig (T.) 1905-13.
@@ -4098,7 +4098,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
     </item><item><title>Vand. = de Bello Vandalico</title></item>
  <item><hi rend="bold">Procopius Gazaeus</hi> Rhetor [Procop.Gaz.] <date>v/vi A.D.</date>
    Ed. J. F. Boissonade, <title>Choricius,</title> Paris 1846, pp. 129-78.
-   <title>Ecphr.</title> = <foreign lang="greek">ἔκφρασις ὡρολογίου,</foreign> ed. H. Diels, <title>Abh. Berl. Akad.</title> 1917,
+   <title>Ecphr.</title> = <foreign lang="grc">ἔκφρασις ὡρολογίου,</foreign> ed. H. Diels, <title>Abh. Berl. Akad.</title> 1917,
     No. 7 (cited by Boissonadeʼs page, given in margin).
    <title>Ep. = Epistulae,</title> ed. R. Hercher, <title>Epistolographi,</title> p. 533.
    <title>Pan. = Panegyricus in Anastasium,</title> ed. I. Bekker et B. G.
@@ -4130,25 +4130,25 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    Ed. J. L. Heiberg, Leipzig (T.) 1898-1907; works included in
       this edition are marked with an asterisk.
     </item><item><title>*Alm. = Almagest = Syntaxis Mathematica</title>
-    </item><item><title>*Anal.</title> = <foreign lang="greek">περὶ ἀναλήμματος</foreign>
+    </item><item><title>*Anal.</title> = <foreign lang="grc">περὶ ἀναλήμματος</foreign>
     </item><item><title>Calend. = Calendarium,</title> ed. C. Wachsmuth, v. Lyd. <title>Ost.</title>
     </item><item><title>*Fr. = Fragmenta</title>
     </item><item><title>Geog. = Geographia</title> (lib. i-iii, ed. C. Müller, C. T. Fischer, Paris
       1883-1901; ed. F. A. Nobbe, Leipzig 1843-5).
     </item><item><title>Harm. = Harmonica,</title> ed. J. Wallis, <title>Opera Mathematica</title> iii,
       Oxford 1699.
-    </item><item><title>*Hyp.</title> = <foreign lang="greek">Ὑποθέσεις</foreign>
+    </item><item><title>*Hyp.</title> = <foreign lang="grc">Ὑποθέσεις</foreign>
     </item><item><title>*Inscr.Can. = Inscriptio Canobi</title>
-    </item><item><title>Judic.</title> = <foreign lang="greek">περὶ κριτηρίου,</foreign> ed. J. Bullialdus, Paris 1663; ed.
+    </item><item><title>Judic.</title> = <foreign lang="grc">περὶ κριτηρίου,</foreign> ed. J. Bullialdus, Paris 1663; ed.
       F. Hanow, Leipzig (Progr. Küstrin) 1870; cited by page
       of B., given in margin of H.
-    </item><item><title>*Phas.</title> = <foreign lang="greek">Φάσεις</foreign>
+    </item><item><title>*Phas.</title> = <foreign lang="grc">Φάσεις</foreign>
     </item><item><title>*Planisph. = Planisphaerium</title>
-    </item><item><title>*Pseph.</title> = <foreign lang="greek">ψηφοφορία</foreign>
+    </item><item><title>*Pseph.</title> = <foreign lang="grc">ψηφοφορία</foreign>
     </item><item><title>Tetr. = Tetrabiblos,</title> ed. J. Camerarius, Nürnberg 1535, cited
       by page of reprint, Basel 1553 (with Lat. transl. by
       P. Melanchthon).
-   Ps.-Ptol. <title>Centil. = Centiloquium</title> (<foreign lang="greek">καρπός</foreign>), post <title>Tetrabiblon</title> editum.
+   Ps.-Ptol. <title>Centil. = Centiloquium</title> (<foreign lang="grc">καρπός</foreign>), post <title>Tetrabiblon</title> editum.
    Scholia in Ptolemaei Tetrabiblon, Basel 1559; v. Porphyrius.</item>
  <item><hi rend="bold">Ptolemaeus Ascalonita</hi> [Ptol.Ascal.]
    Ed. G. Heylbut, <title>Hermes</title> xxii (1887) p. 388.</item>
@@ -4190,8 +4190,8 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  <item><hi rend="bold">Rufus</hi> Medicus [Ruf.] <date>ii A.D.</date>
    Ed. C. Daremberg &amp; C. E. Ruelle, Paris 1879.
     </item>
-    <item><title>Anat.</title> = <foreign lang="greek">ἀνατομή</foreign>
-    </item><item><title>Onom.</title> = <foreign lang="greek">περὶ ὀνομασίας</foreign>
+    <item><title>Anat.</title> = <foreign lang="grc">ἀνατομή</foreign>
+    </item><item><title>Onom.</title> = <foreign lang="grc">περὶ ὀνομασίας</foreign>
     </item><item><title>Ren.Ves. = de renum et vesicae affectionibus</title>
     </item><item><title>Sat.Gon. = de satyriasmo et gonorrhoea</title>
     </item><item><title>Syn.Puls. = synopsis de pulsibus</title></item>
@@ -4272,7 +4272,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    Ed. H. Mutschmann, Leipzig (T.) 1912-; ed. I. Bekker, Berlin
       1842.
     </item><item><title>M. = adversus Mathematicos</title>
-    </item><item><title>P.</title> = <foreign lang="greek">Πυρρώνειοι ὑποτυπώσεις</foreign></item>
+    </item><item><title>P.</title> = <foreign lang="grc">Πυρρώνειοι ὑποτυπώσεις</foreign></item>
  <item><hi rend="bold">Silenus</hi> Historicus [Silen.] <date>iii/ii B.C.</date>
    Ed. C. Müller, <title>FHG</title> iii p. 100.</item>
  <item><hi rend="bold">Simmias</hi> (vel <hi rend="bold">Simias</hi>) Elegiacus [Simm.] <date>iii B.C.</date>
@@ -4359,7 +4359,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  <item><hi rend="bold">Sotades</hi> Lyricus [Sotad.] <date>iii B.C.</date>
    Ed. J. U. Powell, <title>Coll. Alex.</title> p. 238.</item>
  <item><hi rend="bold">Sotion</hi> Paradoxographus <date>i/ii A.D.</date>
-   Ed. A. Westermann, <foreign lang="greek">Παραδοξογράφοι,</foreign> Brunswick-London 1839,
+   Ed. A. Westermann, <foreign lang="grc">Παραδοξογράφοι,</foreign> Brunswick-London 1839,
    p. 183 (cited by page).</item>
  <item><hi rend="bold">Speusippus</hi> Philosophus [Speus.] <date>iv B.C.</date>
    Cited from sources; cf. F. W. A. Mullach, <title>FPG</title> iii p. 75.</item>
@@ -4412,7 +4412,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
     p. 84.</item>
  <item><hi rend="bold">Suetonius</hi> Grammaticus et Historicus Latinus [Suet.] <date>ii A.D.</date>
    Ed. M. Ihm, Leipzig (T.) 1908.
-   <foreign lang="greek">περὶ βλασφημιῶν,</foreign> ed. E. Miller, <title>Mélanges de littérature grecque,</title>
+   <foreign lang="grc">περὶ βλασφημιῶν,</foreign> ed. E. Miller, <title>Mélanges de littérature grecque,</title>
     Paris 1868, p. 413.</item>
  <item><hi rend="bold">Suidas</hi> Lexicographus [Suid.] <date>x A.D.</date>
    Ed. G. Bernhardy, Halle 1853.</item>
@@ -4614,9 +4614,9 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    Ed. W. Weinberger, v. Coluthus.</item>
  <item><hi rend="bold">Trypho</hi> Grammaticus <date>i B.C.</date>
    <title>Fr. = Fragmenta,</title> ed. A. von Velsen, Berlin 1853.
-   <title>Pass.</title> = Excerpta <foreign lang="greek">περὶ παθῶν,</foreign> ed. R. Schneider, Progr. Gymn.
+   <title>Pass.</title> = Excerpta <foreign lang="grc">περὶ παθῶν,</foreign> ed. R. Schneider, Progr. Gymn.
     Duisburg, Leipzig 1895.
-   <title>Trop.</title> = <foreign lang="greek">περὶ τρόπων,</foreign> ed. L. Spengel, <title>Rhet</title> iii p. 189.</item>
+   <title>Trop.</title> = <foreign lang="grc">περὶ τρόπων,</foreign> ed. L. Spengel, <title>Rhet</title> iii p. 189.</item>
  <item><hi rend="bold">Tullius Flaccus</hi> Epigrammaticus [Tull.Flacc.]
    v. <title>Anthologia Graeca.</title></item>
  <item><hi rend="bold">Tullius Geminus</hi> Epigrammaticus [Tull.Gem.]
@@ -4632,7 +4632,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    ad Hes. <title>Op.</title> = ad Hesiodi <title>Opera et Dies,</title> ed. T. Gaisford, <title>Poetae
     Graeci Minores,</title> vol. iii.
    ad Lyc. = ad Lycophronem, ed. E. Scheer, v. Lycophron.
-   <title>Diff. Poet.</title> = <foreign lang="greek">περὶ διαφορᾶς ποιητῶν,</foreign> ed. G. Kaibel, <title>CGF</title> p. 34.
+   <title>Diff. Poet.</title> = <foreign lang="grc">περὶ διαφορᾶς ποιητῶν,</foreign> ed. G. Kaibel, <title>CGF</title> p. 34.
    <title>H. = Historiarum variarum chiliades,</title> ed. T. Kiessling, Leipzig 1826.
    <title>Proll.Com. = Prolegomena de Comoedia Graeca,</title> ed. G. Kaibel,
     </item><item><title>CGF</title> p. 17.
@@ -4655,9 +4655,9 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
     Ed. H. B. Swete, ed. 3, Cambridge 1901.
    A. Versiones ab Origene collectae
     Ed. F. Field, <title>Origenis Hexapla,</title> Oxford 1875.
-      Al. = <foreign lang="greek">ἄλλοι</foreign>
+      Al. = <foreign lang="grc">ἄλλοι</foreign>
       Aq. = Aquila (q. v.)
-      Heb. = <foreign lang="greek">Ἑβραῖος</foreign>
+      Heb. = <foreign lang="grc">Ἑβραῖος</foreign>
       Quint. = Quinta
       Sext. = Sexta
       Sm. = Symmachus (q.v.)
@@ -4822,7 +4822,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    Louvre: Les textes inédits,</title> Paris 1933.</item>
  <item><title>Delph.</title> 3(1),(2), . . = <title>Fouilles de Delphes,</title> tome iii: <title>Épigraphie.</title> Paris
    1909-. (École française dʼAthènes.)</item>
- <item>Demitsas <foreign lang="greek">Μακεδ.</foreign> = M. G. Demitsas, <foreign lang="greek">Ἡ Μακεδονία κτλ.,</foreign> vol. i (all
+ <item>Demitsas <foreign lang="grc">Μακεδ.</foreign> = M. G. Demitsas, <foreign lang="grc">Ἡ Μακεδονία κτλ.,</foreign> vol. i (all
    published), Athens 1896.</item>
  <item>Dessau <title>ILS</title> = H. Dessau, <title>Inscriptiones Latinae Selectae,</title> Berlin
    1892-1916.</item>
@@ -4989,7 +4989,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    Memoirs</title> iii, vi).</item>
  <item><title>OGI = Orientis Graeci Inscriptiones Selectae,</title> ed. W. Dittenberger,
    Leipzig 1903-5.</item>
- <item>Pelekides <title>Thessalonica</title> = S. Pelekides, <foreign lang="greek">Ἀπὸ τὴν πολιτεία καὶ τὴν   κοινωνία τῆς ἀρχαίας Θεσσαλονίκης,</foreign> Salonika 1934.</item>
+ <item>Pelekides <title>Thessalonica</title> = S. Pelekides, <foreign lang="grc">Ἀπὸ τὴν πολιτεία καὶ τὴν   κοινωνία τῆς ἀρχαίας Θεσσαλονίκης,</foreign> Salonika 1934.</item>
  <item>Petersen-Luschan <title>Reisen in Lykien</title> = E. Petersen &amp; F. von Luschan, <title>Reisen in Lykien, Milyas und Kibyratis,</title> Vienna 1889.</item>
  <item><title>Princeton Exp.Inscr. = Publications of the Princeton University Archaeological Expeditions to Syria in 1904-5 and 1909:</title> Division III,
    <title>Greek and Latin Inscriptions,</title> Leyden, Section A by E. Littmann,
@@ -5054,13 +5054,13 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    aus Ägypten:</title> I. F. Preisigke, Hefte 1 &amp; 2, Strassburg 1913;
    Hefte 3 &amp; 4, Berlin &amp; Leipzig 1922; II. F. Bilabel, Heidelberg
    1931, 1933.</item>
- <item>Bilabel <foreign lang="greek">Ὀψαρτ.</foreign> = F. Bilabel, <title><foreign lang="greek">Ὀψαρτυτικά</foreign> und Verwandtes (Sitzungsberichte d. Heidelberger Akademie der Wissenschaften, Phil.-hist.
+ <item>Bilabel <foreign lang="grc">Ὀψαρτ.</foreign> = F. Bilabel, <title><foreign lang="grc">Ὀψαρτυτικά</foreign> und Verwandtes (Sitzungsberichte d. Heidelberger Akademie der Wissenschaften, Phil.-hist.
    Kl.</title> 1919, 23. <title>Abh.</title>), Heidelberg 1920.</item>
  <item><title>CPHerm. = Corpus Papyrorum Hermopolitanorum</title> i, ed. C. Wessely
    (<title>Studien zur Paläogr. u. Papyruskunde</title> v), Leipzig 1905.</item>
  <item><title>CPR = Corpus Papyrorum Raineri Archiducis Austriae,</title> vol. i,
    <title>Griechische Texte,</title> ed. C. Wessely, Wien 1895; cf. <title>PRain.(NS).</title></item>
- <item><foreign lang="greek">Διηγήσεις  Διηγήσεις</foreign> <title>di poemi di Callimaco in un papiro di Tebtynis,</title>
+ <item><foreign lang="grc">Διηγήσεις  Διηγήσεις</foreign> <title>di poemi di Callimaco in un papiro di Tebtynis,</title>
    a cura di M. Norsa e G. Vitelli, Firenze 1934: cited by column
    and line; ed. A. Vogliano <title>PUniv.Milan.</title> i. 18.</item>
  <item>Frisk <title>Bankakten = Bankakten aus dem Faijûm nebst anderen Berliner Papyri,</title> ed. H. Frisk (<title>Göteborgs Kungl. Vetenskaps- och
@@ -5138,7 +5138,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  <item><title>PEleph. = Elephantine Papyri,</title> ed. O. Rubensohn, <title>Ägyptische Urkunden aus den Kgl. Museen zu Berlin: Griechische Urkunden:</title>
    Sonderheft, Berlin 1907.</item>
  <item><title>PEnteux. = Publications de la Société royale égyptienne de Papyrologie,
-   Textes et Documents,</title> i, <foreign lang="greek">Ἐντεύξεις</foreign> . . , ed. O. Guéraud, Cairo 1931-2.</item>
+   Textes et Documents,</title> i, <foreign lang="grc">Ἐντεύξεις</foreign> . . , ed. O. Guéraud, Cairo 1931-2.</item>
  <item><title>PFay.</title> = B. P. Grenfell, A. S. Hunt, D. G. Hogarth, <title>Fayûm Towns
    and their Papyri,</title> London 1900.</item>
  <item><title>PFlor. = Papiri Fiorentini, documenti pubblici e privati dell’ età
@@ -5311,7 +5311,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  <item><title>PUniv.Milan.</title> = A. Vogliano, <title>Papiri della R. Università di Milano,</title>
    vol. i, Milan 1937.</item>
  <item><title>PVarsov.</title> = G. Manteuffel, <title>Papyri Varsovienses,</title> Warsaw 1935.</item>
- <item><title>PVat.</title> 11 = <title>Il Papiro Vaticano Greco</title> 11 (1. <foreign lang="greek">Φαβωρίνου περὶ φυγῆς;</foreign>
+ <item><title>PVat.</title> 11 = <title>Il Papiro Vaticano Greco</title> 11 (1. <foreign lang="grc">Φαβωρίνου περὶ φυγῆς;</foreign>
    2. <title>Registri Fondiari della Marmarica</title>), ed. M. Norsa &amp; G. Vitelli,
    Città del Vaticano, Biblioteca Apostolica Vaticana 1931. (<title>Studi
    e Testi</title> 53.)</item>
@@ -5369,15 +5369,15 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  <item><title>Annuario = Annuario della regia Scuola Archeologica di Atene,</title>
    1914-.</item>
  <item><title>Arch.Anz. = Archäologischer Anzeiger,</title> in <title>Jahrb.</title> (q.v.).</item>
- <item><foreign lang="greek">Ἀρχ.Δελτ.  Ἀρχαιολογικὸν Δελτίον,</foreign> 1915- (cited by year).</item>
- <item><foreign lang="greek">Ἀρχ.Ἐφ.  Ἀρχαιολογικὴ Ἐφημερίς,</foreign> 1910- (cited by year).</item>
+ <item><foreign lang="grc">Ἀρχ.Δελτ.  Ἀρχαιολογικὸν Δελτίον,</foreign> 1915- (cited by year).</item>
+ <item><foreign lang="grc">Ἀρχ.Ἐφ.  Ἀρχαιολογικὴ Ἐφημερίς,</foreign> 1910- (cited by year).</item>
  <item><title>Arch.Pap. = Archiv für Papyrusforschung,</title> 1900-.</item>
  <item><title>Arch.f.Religionswiss. = Archiv für Religionswissenschaft,</title> Freiburg
    im Breisgau 1898-.</item>
  <item><title>Atene e Roma,</title> 1898-.</item>
  <item><title>Ath.Mitt. = Mitteilungen des deutschen archäologischen Instituts,
    Athenische Abteilung,</title> 1876-.</item>
- <item><foreign lang="greek">Ἀθηνᾶ,</foreign> 1889-.</item>
+ <item><foreign lang="grc">Ἀθηνᾶ,</foreign> 1889-.</item>
  <item><title>Atti Acc. Napoli = Atti della Reale Accademia di Archeologia ecc.,
    Napoli, Nuova Serie,</title> 1910-.</item>
  <item><title>Ausonia = Ausonia, Rivista della Società italiana di archeologia e
@@ -5399,7 +5399,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
   Alexandria. First Series 1898-1902 (Nos. 1-5); Nouv. Série
   (vol. i, No. 6-) 1904- (cited by volume).</item>
  <item><title>Byz.-neugr.Jahrb. = Byzantinisch-neugriechische Jahrbücher,</title> 1920-.</item>
- <item><foreign lang="greek">Βυζάντιον  Βυζάντιον,</foreign> <title>Revue internationale des études byzantines,</title>
+ <item><foreign lang="grc">Βυζάντιον  Βυζάντιον,</foreign> <title>Revue internationale des études byzantines,</title>
    Paris 1924-.</item>
  <item><title>CQ = Classical Quarterly,</title> 1907-.</item>
  <item><title>CR = Classical Review,</title> 1887-.</item>
@@ -5411,11 +5411,11 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    publ. sous la dir. de</title> V. Pârvan, Bucarest 1927-.</item>
  <item><title>Docum. ant. dell’ Africa Italiana = Documenti antichi dell’ Africa
    Italiana,</title> Bergamo 1932-.</item>
- <item><foreign lang="greek">Ἑλληνικά  Ἑλληνικά, ἱστορικὸν περιοδικὸν δημοσίευμα,</foreign> Athens 1928-.</item>
+ <item><foreign lang="grc">Ἑλληνικά  Ἑλληνικά, ἱστορικὸν περιοδικὸν δημοσίευμα,</foreign> Athens 1928-.</item>
  <item><title>Eos, Commentarii Societatis Philologae Polonorum,</title> Lwów 1894-.</item>
- <item><foreign lang="greek">Ἐφ.Ἀρχ.  Ἐφημερὶς Ἀρχαιολογική, περίοδος τρίτη,</foreign> 1883-1909 (cited
+ <item><foreign lang="grc">Ἐφ.Ἀρχ.  Ἐφημερὶς Ἀρχαιολογική, περίοδος τρίτη,</foreign> 1883-1909 (cited
    by year).</item>
- <item><foreign lang="greek">Ἠπειρωτικὰ χρονικά,</foreign> 1926-.</item>
+ <item><foreign lang="grc">Ἠπειρωτικὰ χρονικά,</foreign> 1926-.</item>
  <item><title>Eranos = Eranos: Acta philologica Suecana,</title> 1906-.</item>
  <item><title>Ét.de Pap. = Société royale égyptienne de papyrologie: Études de Papyrologie,</title> Le Caire 1932-.</item>
  <item><title>Glotta,</title> 1907-.</item>
@@ -5453,7 +5453,7 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
    français dʼarchéologie orientale du Caire,</title> Le Caire 1902-.</item>
  <item><title>Mnemos = Mnemosyne,</title> 1852-.</item>
  <item><title>Mon.Ant. = Monumenti antichi pubblicati per cura della Reale Accademia dei Lincei,</title> 1890-.</item>
- <item><foreign lang="greek">Μουσ. Σμυρν.  Μουσεῖον [Σμυρναῖον] καὶ βιβλιοθήκη τῆς Εὐαγγελικῆς   Σχολῆς,</foreign> Smyrna 1875-86 (cited by year).</item>
+ <item><foreign lang="grc">Μουσ. Σμυρν.  Μουσεῖον [Σμυρναῖον] καὶ βιβλιοθήκη τῆς Εὐαγγελικῆς   Σχολῆς,</foreign> Smyrna 1875-86 (cited by year).</item>
  <item><title>Mus.Belg. = Musée Belge,</title> 1897-.</item>
  <item><title>Not.Scav. = Notizie degli Scavi,</title> Serie v, 1904-.</item>
  <item><title>Notiz.Arch. = Notiziario Archeologico del Ministero delle Colonie,</title>
@@ -5463,9 +5463,9 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
  <item><title>Phil.Wochenschr. = Philologische Wochenschrift</title> (incorporating <title>Berliner philologische Wochenschrift</title> and <title>Wochenschrift für klassische
    Philologie),</title> 1921-.</item>
  <item><title>Philol. = Philologus,</title> 1841-.</item>
- <item><foreign lang="greek">Πολέμων  Πολέμων, ἐπιστημονικὸν ἀρχαιολογικὸν περιοδικόν,</foreign> Athens
+ <item><foreign lang="grc">Πολέμων  Πολέμων, ἐπιστημονικὸν ἀρχαιολογικὸν περιοδικόν,</foreign> Athens
    1929 (only vol. i published, but there are offprints from vol. ii).</item>
- <item><foreign lang="greek">Πρακτικὰ Ἀκ.Ἀθ.  Πρακτικὰ τῆς Ἀκαδημίας Ἀθηνῶν,</foreign> 1926-.</item>
+ <item><foreign lang="grc">Πρακτικὰ Ἀκ.Ἀθ.  Πρακτικὰ τῆς Ἀκαδημίας Ἀθηνῶν,</foreign> 1926-.</item>
  <item><title>QDAP = Quarterly of the Department of Antiquities in Palestine,</title>
    London 1931-.</item>
  <item><title>Recueil de Travaux = Recueil de Travaux relatifs à la philologie et à lʼarchéologie égyptiennes et assyriennes,</title> 1870-.</item>
