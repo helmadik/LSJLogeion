@@ -11,6 +11,6 @@ had a single entry, except in the case of οἶδα, which I decided to (also) m
 Despite the many incremental changes over the years, close reading of just about any entry will reveal that more
 can be done. Corrections very much welcome! 
 
-Important update to mark-up, Aug. 2025: Accessibility standards demand up-to-date language notations, so lang="greek", described below, has been replaced with lang="grc" ('ancient', up to 1453). 
+<b>Important update to mark-up, Aug. 2025: Accessibility standards demand up-to-date language notations, so lang="greek", described below, has been replaced with lang="grc" ('ancient', up to 1453). </b>
 
 Change to mark-up, Nov. 2024: italics in the print version could include anything from titles to glosses to foreign languages cited for cognates/loans. Markup had long differentiated successfully recognized titles as such (``<title>``), and now, in addition to most Greek, marked since the Perseus days as ``<foreign lang="greek">``, the other languages are also marked. Volunteers to correct Sanskrit (``lang="sa"``) and other obscure languages from Mandian to Old Prussian, etc., are welcome:-) We have cheated slightly. Latin is now marked as ``lang="lat"`` in LSJ, and still marked as ``lang="la"`` in Lewis&Short. Helma apologizes:-). Also, a million thanks to Josh Dillon, who proof-read all italics that did not pass a spell check (spell-check? he would know) *before* this change was made. As always, let us know when you find we missed a spot! 
