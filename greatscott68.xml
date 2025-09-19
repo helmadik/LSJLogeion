@@ -2553,7 +2553,13 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <pb n="1592"/>
 
  
-<div2 id="crosssefqei/s" orig_id="n93763" key="sefqei/s" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="σεφθείς">σεφθείς</head>, <sense id="n93763.0" n="" level="1" opt="n">v. σέβομαι. <orth extent="full" lang="grc" opt="n">σέω</orth>, <gramGrp opt="n"><gram type="dialect" opt="n">Dor.</gram></gramGrp> for <foreign lang="grc">θέω</foreign>. </sense><sense n="II" id="n93763.1" level="2" opt="n"> etym. of <foreign lang="grc">σύω</foreign> and <foreign lang="grc">σόος,</foreign> <bibl n="Perseus:abo:tlg,0082,002:198:11" default="NO"><author>A.D.</author> <title>Adv.</title> 198.11</bibl>. <orth extent="full" lang="grc" opt="n">σέων</orth>, gen. pl. of <foreign lang="grc">σής</foreign>.</sense></div2>
+<div2 id="crosssefqei/s" orig_id="n93763" key="sefqei/s" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="σεφθείς">σεφθείς</head>, <sense id="n93763.0" n="" level="1" opt="n">v. σέβομαι. </sense></div2>
+
+ 
+<div2 id="crossse/w" orig_id="n93763a" key="se/w" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="σέω">σέω</head>, <sense id="n93763a.0" n="" level="1" opt="n"><gramGrp opt="n"><gram type="dialect" opt="n">Dor.</gram></gramGrp> for <foreign lang="grc">θέω</foreign>. </sense><sense n="II" id="n93763.1" level="2" opt="n"> etym. of <foreign lang="grc">σύω</foreign> and <foreign lang="grc">σόος,</foreign> <bibl n="Perseus:abo:tlg,0082,002:198:11" default="NO"><author>A.D.</author> <title>Adv.</title> 198.11</bibl>. </sense></div2>
+
+ 
+<div2 id="crossse/wn" orig_id="n93763b" key="se/wn" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="σέων">σέων</head>, gen. pl. of <foreign lang="grc">σής</foreign>.</div2>
 
  
 <div2 id="crossse/ws" orig_id="n93764" key="se/ws" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="σέως">σέως</head>, <gen lang="grc" opt="n">ὁ</gen>, <sense id="n93764.0" n="" level="1" opt="n">= <foreign lang="grc">σεισμός,</foreign> dub. in <bibl n="Perseus:abo:tlg,0383,001:26" default="NO"><author>Alc.</author> 26</bibl>; <abbr>v.l.</abbr> <orth extent="full" lang="grc" opt="n">σέος</orth>.</sense></div2>
