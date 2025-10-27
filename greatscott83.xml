@@ -3691,7 +3691,10 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossxwri/" orig_id="n115207" key="xwri/" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="χωρί">χωρί</head>, <sense id="n115207.0" n="" level="1" opt="n">= χωρίς, χ. διατμήγουσι <bibl n="Perseus:abo:tlg,0533,001:48" default="NO"><author>Call.</author> <title>Fr.</title> 48</bibl>, cf. <title>Test.Epict.</title> 5.7: c. gen., <i>excluding,</i> <author>Schwyzer</author> 197.38 (<placeName>Itanos</placeName>, <date>iii B. C.</date>).</sense></div2>
 
  
-<div2 id="crossxwria/zesqai" orig_id="n115208" key="xwria/zesqai" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="χωριάζεσθαι·">χωριάζεσθαι</head> <foreign lang="grc">λέγειν,</foreign> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">χωρῐᾰμός·</orth> <foreign lang="grc">κίστη</foreign> <author>Id.</author> (perh. for <foreign lang="grc">φωριαμός</foreign>).</div2>
+<div2 id="crossxwria/zesqai" orig_id="n115208" key="xwria/zesqai" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="χωριάζεσθαι·">χωριάζεσθαι</head> <foreign lang="grc">λέγειν,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossxwriamo/s" orig_id="n115208" key="xwriamo/s" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="χωρῐᾰμός·">χωριαμός</head> <foreign lang="grc">κίστη</foreign> <author>Id.</author> (perh. for <foreign lang="grc">φωριαμός</foreign>).</div2>
 
  <pb n="2016"/>
 <div2 id="crossxwri/dion" orig_id="n115209" key="xwri/dion" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="χωρίδιον">χωρίδιον</head>, <gen lang="grc" opt="n">τό</gen>, <sense id="n115209.0" n="" level="1" opt="n"><gramGrp opt="n"><gram type="dim" opt="n">Dim. of</gram></gramGrp> χωρίον 3, <bibl n="Perseus:abo:tlg,0540,019:28"><author>Lys.</author> 19.28</bibl>, <bibl n="Perseus:abo:tlg,0007,025:2" default="NO"><author>Plu.</author> <title>Cat.Ma.</title> 2</bibl>; written <orth extent="full" lang="grc" opt="n">χωρείδιον</orth> <title>IG</title> 7.2808.8 (<placeName>Hyettus</placeName>, <date>iii A. D.</date>) [<pron extent="full" lang="grc" opt="n">ῑ</pron> in Com. ap. <bibl n="Perseus:abo:pap,P.Oxy.:1803:23" default="NO"><title>POxy.</title> 1803.23</bibl>].</sense></div2>
