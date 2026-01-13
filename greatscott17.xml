@@ -1026,10 +1026,22 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <pb n="384"/>
 
  
-<div2 id="crossdh=" orig_id="n24296" key="dh=" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="δῆ·">δῆ</head> <foreign lang="grc">γῆ, καὶ σιωπᾷ,</foreign> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">δηαί</orth>, <sense id="n24296.0" n="" level="1" opt="n">= κριθαί (Cret.), <bibl n="Perseus:abo:tlg,4099,001:264:13" default="NO"><title>EM</title> 264.13</bibl>; cf. <foreign lang="grc">δητταί.</foreign></sense></div2>
+<div2 id="crossdh=" orig_id="n24296" key="dh=" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="δῆ·">δῆ</head> <foreign lang="grc">γῆ, καὶ σιωπᾷ,</foreign> <author>Hsch.</author> </div2>
 
  
-<div2 id="crossdh|a/lwtos" orig_id="n24297" key="dh|a/lwtos" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="δῃάλωτος">δῃάλωτος</head>, <itype lang="grc" opt="n">ον</itype>, <gramGrp opt="n"><gram type="var" opt="n">contr.</gram></gramGrp> for <foreign lang="grc">δηϊάλωτος</foreign> (q. v.). <orth extent="full" lang="grc" opt="n">δηατάχα·</orth> <foreign lang="grc">καὶ φθορὰ δένδρων,</foreign> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">δηβοιλοί</orth> <foreign lang="grc">κιθαρῳδοί,</foreign> <author>Id.</author> <orth extent="full" lang="grc" opt="n">δηγῆρες</orth>, <sense id="n24297.0" n="" level="1" opt="n">= στρουθοί, <author>Id.</author>, <author>Suid.</author>, <title>Et.Gud.</title></sense></div2>
+<div2 id="crossdhai/" orig_id="n24296a" key="dhai/" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="δηαί">δηαί</head>, <sense id="n24296a.0" n="" level="1" opt="n">= κριθαί (Cret.), <bibl n="Perseus:abo:tlg,4099,001:264:13" default="NO"><title>EM</title> 264.13</bibl>; cf. <foreign lang="grc">δητταί.</foreign></sense></div2>
+
+ 
+<div2 id="crossdh|a/lwtos" orig_id="n24297" key="dh|a/lwtos" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="δῃάλωτος">δῃάλωτος</head>, <itype lang="grc" opt="n">ον</itype>, <gramGrp opt="n"><gram type="var" opt="n">contr.</gram></gramGrp> for <foreign lang="grc">δηϊάλωτος</foreign> (q. v.). </div2>
+
+ 
+<div2 id="crossdhata/xa" orig_id="n24297a" key="dhata/xa" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="δηατάχα·">δηατάχα</head> <foreign lang="grc">καὶ φθορὰ δένδρων,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossdhboiloi/" orig_id="n24297b" key="dhboiloi/" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="δηβοιλοί">δηβοιλοί</head> <foreign lang="grc">κιθαρῳδοί,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossdhgh=res" orig_id="n24297c" key="dhgh=res" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="δηγῆρες">δηγῆρες</head>, <sense id="n24297c.0" n="" level="1" opt="n">= στρουθοί, <author>Hsch.</author>, <author>Suid.</author>, <title>Et.Gud.</title></sense></div2>
 
  
 <div2 id="crossdh=gma" orig_id="n24298" key="dh=gma" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="δῆγμα">δῆγμα</head>, <itype lang="grc" opt="n">ατος</itype>, <gen lang="grc" opt="n">τό</gen>, <sense id="n24298.0" n="" level="1" opt="n"><i>bite, sting,</i> <bibl n="Perseus:abo:tlg,0032,002:1:3:12"><author>X.</author> <title>Mem.</title> 1.3.12</bibl>, <bibl n="Perseus:abo:tlg,0086,014:604b:21" default="NO"><author>Arist.</author> <title>HA</title> 604b21</bibl>, etc.: metaph., <cit><quote lang="grc">δ. λύπης</quote> <bibl n="Perseus:abo:tlg,0085,005:791"><author>A.</author> <title>Ag.</title> 791</bibl></cit> (lyr.); <cit><quote lang="grc">ἔρωτος</quote> <bibl n="Perseus:abo:tlg,0011,008:841"><author>S.</author> <title>Fr.</title> 841</bibl></cit>; <foreign lang="grc">ψυχῆς</foreign> cj. in <bibl n="Perseus:abo:tlg,0062,064:2" default="NO"><author>Luc.</author> <title>Prom.Es</title> 2</bibl>. </sense><sense n="II" id="n24298.1" level="2" opt="n"> = σπάραγμα ὀδόντων, <author>Hsch.</author></sense></div2>

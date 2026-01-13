@@ -2568,7 +2568,28 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossbe/qron" orig_id="n19751" key="be/qron" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βέθρον">βέθρον</head>, <gen lang="grc" opt="n">τό</gen>, <gramGrp opt="n"><gram type="var" opt="n">contr.</gram></gramGrp> from <foreign lang="grc">βέρεθρον,</foreign> <bibl n="Perseus:abo:tlg,0221,001:148" default="NO"><author>Euph.</author> 148</bibl>, Crates ap. <bibl n="Perseus:abo:tlg,4099,001:194:22" default="NO"><title>EM</title> 194.22</bibl>.</div2>
 
  
-<div2 id="crossbeie/lopes" orig_id="n19752" key="beie/lopes" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βειέλοπες·">βειέλοπες</head> <foreign lang="grc">ἱμάντες,</foreign> used as crowns for victors at Sparta, <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">βεικάδες</orth>, <sense id="n19752.0" n="" level="1" opt="n"><i>the skins of animals which die naturally</i> (<gramGrp opt="n"><gram type="dialect" opt="n">Lacon.</gram></gramGrp>), <author>Id.</author> <orth extent="full" lang="grc" opt="n">βεικάσθων·</orth> <foreign lang="grc">κατʼ ὀλίγον προβάς,</foreign> <author>Id.</author> (leg. <foreign lang="grc">βιβάσθων</foreign>). <orth extent="full" lang="grc" opt="n">βείκατι</orth> (<itype lang="grc" opt="n">β</itype> <abbr>=</abbr> <itype lang="grc" opt="n">ϝ</itype>), = εἴκοσι (<gramGrp opt="n"><gram type="dialect" opt="n">Lacon.</gram></gramGrp>), <author>Id.</author> <orth extent="full" lang="grc" opt="n">βείκηλα·</orth> <foreign lang="grc">νωχελῆ, ἀχρεῖα</foreign> (<gramGrp opt="n"><gram type="dialect" opt="n">Lacon.</gram></gramGrp>), <author>Id.</author> <orth extent="full" lang="grc" opt="n">βειλαρμόστας</orth>, <orth extent="full" lang="grc" opt="n">βειλάρχας</orth>, = ϝιλ- (<gramGrp opt="n"><gram type="dialect" opt="n">Tarent.</gram></gramGrp>), <author>Id.</author> <orth extent="full" lang="grc" opt="n">βείλομαι</orth>, <gramGrp opt="n"><gram type="dialect" opt="n">Boeot.</gram></gramGrp>, = βούλομαι (q. v.). <orth extent="full" lang="grc" opt="n">βείομαι</orth>, <orth extent="full" lang="grc" opt="n">βείω</orth>, <abbr>v.</abbr> sub <foreign lang="grc">βέομαι.</foreign></sense></div2>
+<div2 id="crossbeie/lopes" orig_id="n19752" key="beie/lopes" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βειέλοπες·">βειέλοπες</head> <foreign lang="grc">ἱμάντες,</foreign> used as crowns for victors at Sparta, <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossbeika/des" orig_id="n19752a" key="beika/des" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βεικάδες">βεικάδες</head>, <sense id="n19752.0" n="" level="1" opt="n"><i>the skins of animals which die naturally</i> (<gramGrp opt="n"><gram type="dialect" opt="n">Lacon.</gram></gramGrp>), <author>Hsch.</author> </sense></div2>
+
+ 
+<div2 id="crossbeika/sqwn" orig_id="n19752b" key="beika/sqwn" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βεικάσθων·">βεικάσθων</head> <foreign lang="grc">κατʼ ὀλίγον προβάς,</foreign> <author>Hsch.</author> (leg. <foreign lang="grc">βιβάσθων</foreign>). </div2>
+
+ 
+<div2 id="crossbei/kati" orig_id="n19752c" key="bei/kati" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βείκατι">βείκατι</head> (<itype lang="grc" opt="n">β</itype> <abbr>=</abbr> <itype lang="grc" opt="n">ϝ</itype>), = εἴκοσι (<gramGrp opt="n"><gram type="dialect" opt="n">Lacon.</gram></gramGrp>), <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossbei/khla" orig_id="n19752d" key="bei/khla" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βείκηλα·">βείκηλα</head> <foreign lang="grc">νωχελῆ, ἀχρεῖα</foreign> (<gramGrp opt="n"><gram type="dialect" opt="n">Lacon.</gram></gramGrp>), <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossbeilarmo/stas" orig_id="n19752e" key="beilarmo/stas" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βειλαρμόστας">βειλαρμόστας</head>, <orth extent="full" lang="grc" opt="n">βειλάρχας</orth>, = ϝιλ- (<gramGrp opt="n"><gram type="dialect" opt="n">Tarent.</gram></gramGrp>), <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossbei/lomai" orig_id="n19752f" key="bei/lomai" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βείλομαι">βείλομαι</head>, <gramGrp opt="n"><gram type="dialect" opt="n">Boeot.</gram></gramGrp>, = βούλομαι (q. v.). </div2>
+
+ 
+<div2 id="crossbei/omai" orig_id="n19752g" key="bei/omai" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βείομαι">βείομαι</head>, <orth extent="full" lang="grc" opt="n">βείω</orth>, <abbr>v.</abbr> sub <foreign lang="grc">βέομαι.</foreign></div2>
 
  
 <div2 id="crossbei/rakes" orig_id="n19753" key="bei/rakes" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βείρακες·">βείρακες</head> <foreign lang="grc">ἱέρακες,</foreign> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">βειρακή·</orth> <foreign lang="grc">ἡ ἁρπακτική,</foreign> <author>Id.</author> <orth extent="full" lang="grc" opt="n">βείριξ·</orth> <foreign lang="grc">ἔλαφος,</foreign> <author>Id.</author> <orth extent="full" lang="grc" opt="n">βειρόν·</orth> <foreign lang="grc">δασύ,</foreign> <author>Id.</author></div2>
@@ -2719,7 +2740,19 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossbembra^fu/h" orig_id="n19801" key="bembra^fu/h" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βεμβρᾰφύη">βεμβραφύη</head> [<foreign lang="grc">ῠ</foreign>], <gen lang="grc" opt="n">ἡ</gen>, <sense id="n19801.0" n="" level="1" opt="n"><i>a dish of <foreign lang="grc">μεμβράδες</foreign> and <foreign lang="grc">ἀφύαι,</foreign></i> <bibl n="Perseus:abo:tlg,0420,001:2" default="NO"><author>Aristonym.</author> 2</bibl>.</sense></div2>
 
  
-<div2 id="crossbembrei=" orig_id="n19802" key="bembrei=" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βεμβρεῖ·">βεμβρεῖ</head> <foreign lang="grc">δινεύει,</foreign> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">βεμβρός</orth>, <sense id="n19802.0" n="" level="1" opt="n">v. βεβρός. <orth extent="full" lang="grc" opt="n">βεμεῖ·</orth> <foreign lang="grc">δονεῖ,</foreign> <author>Id.</author> <orth extent="full" lang="grc" opt="n">βεμόλετο</orth>, v. βέμβλετο. <orth extent="full" lang="grc" opt="n">βεμόριξ</orth> (prob. for <foreign lang="grc">βέμβριξ</foreign>), = βέμβιξ, <author>Id.</author></sense></div2>
+<div2 id="crossbembrei=" orig_id="n19802" key="bembrei=" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βεμβρεῖ·">βεμβρεῖ</head> <foreign lang="grc">δινεύει,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossbembro/s" orig_id="n19802a" key="bembro/s" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βεμβρός">βεμβρός</head>, v. βεβρός. </div2>
+
+ 
+<div2 id="crossbemei=" orig_id="n19802b" key="bemei=" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βεμεῖ·">βεμεῖ·</head> <foreign lang="grc">δονεῖ,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossbemo/leto" orig_id="n19802c" key="bemo/leto" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βεμόλετο">βεμόλετο</head>, v. βέμβλετο. </div2>
+
+ 
+<div2 id="crossbemo/ric" orig_id="n19802d" key="bemo/ric" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βεμόριξ">βεμόριξ</head> (prob. for <foreign lang="grc">βέμβριξ</foreign>), = βέμβιξ, <author>Hsch.</author></div2>
 
  
 <div2 id="crossbendi=s" orig_id="n19803" key="bendi=s" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="Βενδῖς">Βενδῖς</head>, <itype lang="grc" opt="n">ῖδος</itype>, <gen lang="grc" opt="n">ἡ</gen>, acc. <foreign lang="grc">Βενδῖν</foreign> (not <foreign lang="grc">Βένδις,</foreign> <itype lang="grc" opt="n">ιδος</itype>, <bibl default="NO"><author>Hdn.Gr.</author> 1.107</bibl>):— <sense id="n19803.0" n="" level="1" opt="n"><i>Bendis, the Thracian Artemis,</i> worshipped under this name at the Piraeus, <bibl n="Perseus:abo:tlg,0233,001:120" default="NO"><author>Hippon.</author> 120</bibl>, <title>IG</title> 1(2).310, <bibl n="Perseus:abo:tlg,0062,018:8" default="NO"><author>Luc.</author> <title>JTr.</title> 8</bibl>, <bibl n="Perseus:abo:tlg,0579,011:200" default="NO"><author>Orph.</author> <title>Fr.</title> 200</bibl>:—hence <orth extent="full" lang="grc" opt="n">Βενδίδ-ειον</orth>, <gen lang="grc" opt="n">τό</gen>, <i>temple of Bendis,</i> <bibl n="Perseus:abo:tlg,0032,001:2:4:11"><author>X.</author> <title>HG</title> 2.4.11</bibl>: Βενδίδεια, <gen lang="grc" opt="n">τά</gen>,</sense> <sense id="n19804.0" n="" level="1" opt="n"><i>her festival,</i> <bibl n="Perseus:abo:tlg,0059,030:354a"><author>Pl.</author> <title>R.</title> 354a</bibl>, <title>IG</title> 2.741 (written <foreign lang="grc">-εα</foreign>): Βενδίδειος, <gen lang="grc" opt="n">ὁ</gen> (sc. <foreign lang="grc">μήν</foreign>), name of month in Bithynia, <title>Hemerolog.Flor.</title></sense></div2>
@@ -3156,7 +3189,19 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossbillariko/s" orig_id="n19942" key="billariko/s" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βιλλαρικός">βιλλαρικός</head>, <itype lang="grc" opt="n">ή</itype>, <itype lang="grc" opt="n">όν</itype>, <sense id="n19942.0" n="" level="1" opt="n">perh. <abbr>=</abbr> Lat. <foreign lang="lat">villaticus,</foreign> <title>POxy.</title> 1026.12 <date>(v A. D.)</date>.</sense></div2>
 
  
-<div2 id="crossbilla=s" orig_id="n19943" key="billa=s" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βιλλᾶς">βιλλᾶς</head>, dub. sens. in <bibl default="NO"><author>Hdn.Gr.</author> 1.55</bibl>. <orth extent="full" lang="grc" opt="n">βιλλίν·</orth> <foreign lang="grc">τὸ αἰδοῖον,</foreign> ib. 158. <orth extent="full" lang="grc" opt="n">βίλλος</orth>, <abbr>=</abbr> foreg., ibid. <orth extent="full" lang="grc" opt="n">βιμβικίζεται·</orth> <foreign lang="grc">περικρούεται,</foreign> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">βίμβλινος</orth>, <sense id="n19943.0" n="" level="1" opt="n">= βίβλινος, Id.</sense></div2>
+<div2 id="crossbilla=s" orig_id="n19943" key="billa=s" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βιλλᾶς">βιλλᾶς</head>, dub. sens. in <bibl default="NO"><author>Hdn.Gr.</author> 1.55</bibl>. </div2>
+
+ 
+<div2 id="crossbilli/n" orig_id="n19943a" key="billi/n" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βιλλίν·">βιλλίν</head> <foreign lang="grc">τὸ αἰδοῖον,</foreign> <bibl default="NO"><author>Hdn.Gr.</author>1.158</bibl>. </div2>
+
+ 
+<div2 id="crossbi/llos" orig_id="n19943b" key="bi/llos" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βίλλος">βίλλος</head>, <abbr>=</abbr> foreg. [βιλλίν], <bibl default="NO"><author>Hdn.Gr.</author>1.158</bibl>. </div2>
+
+ 
+<div2 id="crossbimbiki/zetai" orig_id="n19943c" key="bimbiki/zetai" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βιμβικίζεται·">βιμβικίζεται</head> <foreign lang="grc">περικρούεται,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossbi/mblinos" orig_id="n19943d" key="bi/mblinos" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βίμβλινος">βίμβλινος</head>, <sense id="n19943d.0" n="" level="1" opt="n">= βίβλινος, <author>Hsch.</author></sense></div2>
 
  
 <div2 id="crossbi_ne/w" orig_id="n19944" key="bi_ne/w" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βῑνέω">βινέω</head>, <sense id="n19944.0" n="" level="1" opt="n">coarse word for <i>have sexual intercourse,</i> <bibl n="Perseus:abo:tlg,0233,001:84:16" default="NO"><author>Hippon.</author> 84.16</bibl> W., <bibl n="Perseus:abo:tlg,0019,009:740"><author>Ar.</author> <title>Ra.</title> 740</bibl>;  w. acc. pers., <cit><quote lang="grc">γυναῖ]κα βινέων</quote> <bibl n="Perseus:abo:tlg,0232,001:152" default="NO"><author>Archil.</author> 152</bibl></cit>, <bibl n="Perseus:abo:tlg,0019,006:560"><author>Id.</author> <title>Av.</title> 560</bibl>, etc.; —<gramGrp opt="n"><gram type="voice" opt="n">Pass.</gram></gramGrp>, <gramGrp opt="n"><gram type="dialect" opt="n">Ion.</gram></gramGrp> <tns opt="n">impf.</tns> iterative, <cit><quote lang="grc">βινεσκόμην</quote> of male prostitute, <bibl n="Perseus:abo:tlg,0019,002:1242"><author>Id.</author> <title>Eq.</title> 1242</bibl></cit>; of the woman, <bibl n="Perseus:abo:tlg,0461,001:351:2" default="NO"><author>Eup.</author> 385.2</bibl> K.-A., <bibl n="Perseus:abo:tlg,0489,001:9:4" default="NO"><author>Philetaer.</author> 9.4</bibl> K.-A.; app. understood as illicit, opp. marital, intercourse, <author>Sol.</author> <title>Lg.</title> 52b R. [ap. <author>Hsch.</author> s.v. -HD]. etc.:—[<orth extent="full" lang="grc" opt="n">βενέω</orth>, Lang, <title>Ath.Agora</title> xxi C2 (<date>vi B.C.</date>), C14 (<date>v B.C.</date>). Many codd. and papp. have βειν-].</sense> [Updated from Supp.]</div2>

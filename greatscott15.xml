@@ -1604,7 +1604,13 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="cross*gni/fwn" orig_id="n22486" key="*gni/fwn" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="Γνίφων">Γνίφων</head>, <itype lang="grc" opt="n">ωνος</itype>, <gen lang="grc" opt="n">ὁ</gen>, <sense id="n22486.0" n="" level="1" opt="n"><i>niggard,</i> as pr. n., <bibl n="Perseus:abo:tlg,0062,024:23" default="NO"><author>Luc.</author> <title>Vit.Auct.</title> 23</bibl>; prob. in <bibl n="Perseus:abo:tlg,0640,001:3:34" default="NO"><author>Alciphr.</author> 3.34</bibl>.</sense></div2>
 
  
-<div2 id="crossgnoi/+sai" orig_id="n22487" key="gnoi/+sai" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="γνοΐσαι·">γνοΐσαι</head> <foreign lang="grc">γνοῦαι,</foreign> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">γνοτέρα</orth>, <sense id="n22487.0" n="" level="1" opt="n">= βαλλωτή, Ps.-<author>Dsc.</author> 3.103. <orth extent="full" lang="grc" opt="n">γνόφεον·</orth> <foreign lang="grc">μέλαν,</foreign> <author>Id.</author>; cf. sq. [γνόφος]</sense></div2>
+<div2 id="crossgnoi/+sai" orig_id="n22487" key="gnoi/+sai" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="γνοΐσαι·">γνοΐσαι</head> <foreign lang="grc">γνοῦαι,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossgnote/ra" orig_id="n22487a" key="gnote/ra" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="γνοτέρα">γνοτέρα</head>, = βαλλωτή, Ps.-<author>Dsc.</author> 3.103. </div2>
+
+ 
+<div2 id="crossgno/feon" orig_id="n22487b" key="gno/feon" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="γνόφεον·">γνόφεον</head> <foreign lang="grc">μέλαν,</foreign> <author>Hsch.</author>; cf. sq. [γνόφος] </div2>
 
  
 <div2 id="crossgnofi/as" orig_id="n22488" key="gnofi/as" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="γνοφ-ίας">γνοφίας</head>, <itype lang="grc" opt="n">ου</itype>, <gen lang="grc" opt="n">ὁ</gen>, name of a wind, <bibl n="Perseus:abo:tlg,2580,002:4:119" default="NO"><author>Lyd.</author> <title>Mens.</title> 4.119</bibl>.</div2>

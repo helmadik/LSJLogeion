@@ -1000,7 +1000,10 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossdaneistiko/s" orig_id="n23427" key="daneistiko/s" type="main" opt="n"><head extent="suff" lang="grc" opt="n" orth_orig="δαν-ειστικός">δανειστικός</head>, <itype lang="grc" opt="n">ή</itype>, <itype lang="grc" opt="n">όν</itype>, <sense id="n23427.0" n="" level="1" opt="n"><i>concerning loans,</i> <bibl n="Perseus:abo:pap,BGU:1149:23" default="NO"><title>BGU</title> 1149.23</bibl> <date>(i B.C.)</date>, <bibl n="Perseus:abo:tlg,0007,051:13" default="NO"><author>Plu.</author> <title>Agis</title> 13</bibl>, etc.; <foreign lang="grc">ὁ δ.,</foreign> = δανειστής, <bibl n="Perseus:abo:tlg,0062,015:5" default="NO"><author>Luc.</author> <title>Symp.</title> 5</bibl>.</sense></div2>
 
  
-<div2 id="crossdane/s" orig_id="n23428" key="dane/s" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="δανές·">δανές</head> <foreign lang="grc">ἀληθὲς ἢ δῶρον ἢ μερίδα ἢ ἰσχύν, γέρας ἢ δάνειον,</foreign> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">δανήλοφα</orth>, <sense id="n23428.0" n="" level="1" opt="n">= μακροτράχηλα or <foreign lang="grc">ὑψηλοτράχηλα,</foreign> <author>Id.</author> (i.e. <foreign lang="grc">ταν-</foreign>).</sense></div2>
+<div2 id="crossdane/s" orig_id="n23428" key="dane/s" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="δανές·">δανές</head> <foreign lang="grc">ἀληθὲς ἢ δῶρον ἢ μερίδα ἢ ἰσχύν, γέρας ἢ δάνειον,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossdanh/lofa" orig_id="n23428a" key="danh/lofa" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="δανήλοφα">δανήλοφα</head>, <sense id="n23428a.0" n="" level="1" opt="n">= μακροτράχηλα or <foreign lang="grc">ὑψηλοτράχηλα,</foreign> <author>Hsch.</author> (i.e. <foreign lang="grc">ταν-</foreign>).</sense></div2>
 
  
 <div2 id="crossdani/zw" orig_id="n23429" key="dani/zw" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="δανίζω">δανίζω</head>, <sense id="n23429.0" n="" level="1" opt="n">Hellenistic form for <foreign lang="grc">δανείζω,</foreign> <bibl n="Perseus:abo:tlg,0527,029:19:14"><author>LXX</author> <title>Pr.</title> 19.14</bibl>: <tns opt="n">fut.</tns> <gramGrp opt="n"><gram type="voice" opt="n">Act.</gram></gramGrp> <foreign lang="grc">δανιῶ</foreign> and <gramGrp opt="n"><gram type="voice" opt="n">Med.</gram></gramGrp> <foreign lang="grc">δανιοῦμαι</foreign> ib. <bibl n="Perseus:abo:tlg,0527,005:28:12"><title>De.</title> 28.12</bibl>: <tns opt="n">aor.</tns> <mood opt="n">part.</mood> <cit><quote lang="grc">δανῐσας</quote> <bibl n="Perseus:abo:tlg,7000,001:11:309" default="NO"><title>AP</title> 11.309</bibl></cit> (<author>Lucill.</author>), <title>Lyr.Alex.Adesp.</title> 37.27.</sense></div2>
@@ -1166,10 +1169,19 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossdarto/s" orig_id="n23482" key="darto/s" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="δαρτός">δαρτός</head>, <itype lang="grc" opt="n">ή</itype>, <itype lang="grc" opt="n">όν</itype>, (<etym lang="grc" opt="n">δέρω</etym>) <sense id="n23482.0" n="" level="1" opt="n"><i>flayed,</i> <foreign lang="grc">ἵππων δ. πρόσωπα</foreign> the skin <i>flayed from</i> horses’ heads, <bibl n="Perseus:abo:tlg,1263,001:4:5" default="NO"><author>Choeril.</author> 4.5</bibl>; <foreign lang="grc">δ. χιτών,</foreign> of skin <i>stripped off,</i> <bibl n="Perseus:abo:tlg,0715,001:6:61" default="NO"><author>Paul.Aeg.</author> 6.61</bibl>. </sense><sense n="II" id="n23482.1" level="2" opt="n"> <foreign lang="grc">τὰ δ.</foreign> <i>fish which must be skinned before dressing,</i> Mnesith. ap. <bibl n="Perseus:abo:tlg,0008,001:8:357c" default="NO"><author>Ath.</author> 8.357c</bibl>; of animals, <cit><quote lang="grc">ἕν τι τῶν δ. ὀνομαζομένων</quote> <author>Gal.</author> 2.644</cit>, cf. <title>IG</title> 1(2).190, <title>SIG</title> 57.31 (Milet., V. B.C.).</sense></div2>
 
  
-<div2 id="crossda/rullos" orig_id="n23483" key="da/rullos" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="δάρυλλος">δάρυλλος</head>, <gen lang="grc" opt="n">ἡ</gen>, Maced., <sense id="n23483.0" n="" level="1" opt="n">= δρῦς, <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">δαρχμά</orth>, v. δαρκνά.</sense></div2>
+<div2 id="crossda/rullos" orig_id="n23483" key="da/rullos" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="δάρυλλος">δάρυλλος</head>, <gen lang="grc" opt="n">ἡ</gen>, Maced., = δρῦς, <author>Hsch.</author> </div2>
 
  
-<div2 id="crossda/s" orig_id="n23484" key="da/s" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="δάς·">δάς</head> <foreign lang="grc">ἐπὶ τοῦ πολλοῦ καὶ μεγάλου,</foreign> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">δᾴς</orth>, <sense id="n23484.0" n="" level="1" opt="n">v. δαΐς (A). <orth extent="full" lang="grc" opt="n">δάσασθαι</orth>, <orth extent="full" lang="grc" opt="n">δασάσκετο</orth>, <orth extent="full" lang="grc" opt="n">δασαίμεθα</orth>, v. δατέομαι.</sense></div2>
+<div2 id="crossdarxma/" orig_id="n23483a" key="darxma/" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="δαρχμά">δαρχμά</head>, v. δαρκνά.</div2>
+
+ 
+<div2 id="crossda/s" orig_id="n23484" key="da/s" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="δάς·">δάς</head> <foreign lang="grc">ἐπὶ τοῦ πολλοῦ καὶ μεγάλου,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossda/|s" orig_id="n23484a" key="da/|s" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="δᾴς">δᾴς</head>, v. δαΐς (A). </div2>
+
+ 
+<div2 id="crossda/sasqai" orig_id="n23484b" key="da/sasqai" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="δάσασθαι">δάσασθαι</head>, <orth extent="full" lang="grc" opt="n">δασάσκετο</orth>, <orth extent="full" lang="grc" opt="n">δασαίμεθα</orth>, v. δατέομαι.</div2>
 
  
 <div2 id="crossdaska/zei" orig_id="n23485" key="daska/zei" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="δασκάζει·">δασκάζει</head> <foreign lang="grc">ὑποφεύγει,</foreign> <author>Hsch.</author></div2>

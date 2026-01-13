@@ -216,7 +216,16 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossbla^da^ro/s" orig_id="n20025" key="bla^da^ro/s" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βλᾰδᾰρός">βλαδαρός</head>, <itype lang="grc" opt="n">ά</itype>, <itype lang="grc" opt="n">όν</itype>, <sense id="n20025.0" n="" level="1" opt="n">= πλαδαρός, <i>flaccid,</i> cj. in <author>Gal.</author> 19.88:—<author>Hsch.</author> has <orth extent="full" lang="grc" opt="n">βλᾰδός</orth> and <orth extent="full" lang="grc" opt="n">βλᾰδύς</orth> (which is prob. in <bibl n="Perseus:abo:tlg,0627,002:20" default="NO"><author>Hp.</author> <title>Aër.</title> 20</bibl>). (With <foreign lang="grc">βλαδύς</foreign> cf. Skt. <foreign lang="sa">mrdús</foreign> ‘soft’, Lat. <foreign lang="lat">mollis</foreign>; cf. <foreign lang="grc">μέλδομαι, ἀμαλδύνω</foreign>.)</sense></div2>
 
  
-<div2 id="crossbla/zein" orig_id="n20026" key="bla/zein" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βλάζειν·">βλάζειν</head> <foreign lang="grc">μωραίνειν,</foreign> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">βλάθρον</orth>, <sense id="n20026.0" n="" level="1" opt="n">= βλῆχνον, <author>Id.</author> <orth extent="full" lang="grc" opt="n">βλαί·</orth> <foreign lang="grc">βλητή</foreign> (leg. <foreign lang="grc">βληχή</foreign>) (<gramGrp opt="n"><gram type="dialect" opt="n">Lacon.</gram></gramGrp>), <author>Id.</author> <orth extent="full" lang="grc" opt="n">βλαῖκος·</orth> <foreign lang="grc">ὁ δαλός, κλάδος, ὄζος,</foreign> <bibl n="Perseus:abo:tlg,4099,001:199:31" default="NO"><title>EM</title> 199.31</bibl>.</sense></div2>
+<div2 id="crossbla/zein" orig_id="n20026" key="bla/zein" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βλάζειν·">βλάζειν</head> <foreign lang="grc">μωραίνειν,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossbla/qron" orig_id="n20026a" key="bla/qron" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βλάθρον">βλάθρον</head>, = βλῆχνον, <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossblai/" orig_id="n20026b" key="blai/" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βλαί·">βλαί</head> <foreign lang="grc">βλητή</foreign> (leg. <foreign lang="grc">βληχή</foreign>) (<gramGrp opt="n"><gram type="dialect" opt="n">Lacon.</gram></gramGrp>), <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossblai=kos" orig_id="n20026c" key="blai=kos" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βλαῖκος·">βλαῖκος</head> <foreign lang="grc">ὁ δαλός, κλάδος, ὄζος,</foreign> <bibl n="Perseus:abo:tlg,4099,001:199:31" default="NO"><title>EM</title> 199.31</bibl>.</div2>
 
  
 <div2 id="crossblaiso/omai" orig_id="n20027" key="blaiso/omai" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βλαισ-όομαι">βλαισόομαι</head>, <gramGrp opt="n"><gram type="voice" opt="n">Pass.</gram></gramGrp>, <sense id="n20027.0" n="" level="1" opt="n"><i>to be crooked,</i> <tns opt="n">pf.</tns> <cit><quote lang="grc">ἐβλαίσωται</quote> <bibl n="Perseus:abo:tlg,0086,014:498a:21" default="NO"><author>Arist.</author> <title>HA</title> 498a21</bibl></cit>; but <cit><quote lang="grc">βεβλ-</quote> <bibl n="Perseus:abo:tlg,0086,015:713b:4" default="NO"><author>Id.</author> <title>IA</title> 713b4</bibl></cit>, <author>Gal.</author> 18(1).677.</sense></div2>
@@ -385,7 +394,19 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossble/qra" orig_id="n20081" key="ble/qra" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βλέθρα">βλέθρα</head>, <sense id="n20081.0" n="" level="1" opt="n">= πλέθρα, <title>BCH</title> 9.382 (<placeName>Thespiae</placeName>, <date>iii B. C.</date>).</sense></div2>
 
  
-<div2 id="crossbleqra/nasin" orig_id="n20082" key="bleqra/nasin" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βλεθράνασιν·">βλεθράνασιν</head> <foreign lang="grc">ἰχθῦν,</foreign> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">βλεῖ</orth>, <sense id="n20082.0" n="" level="1" opt="n">= βλίσσει, <abbr>v.l.</abbr> in <author>Id.</author> <orth extent="full" lang="grc" opt="n">βλείης</orth>, <orth extent="full" lang="grc" opt="n">βλεῖο</orth>, v. βάλλω. <orth extent="full" lang="grc" opt="n">βλεκέμυξος·</orth> <foreign lang="grc">βλακώδης,</foreign> <author>Id.</author> <orth extent="full" lang="grc" opt="n">βλέκυξ</orth>, v. βλέτυγες.</sense></div2>
+<div2 id="crossbleqra/nasin" orig_id="n20082" key="bleqra/nasin" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βλεθράνασιν·">βλεθράνασιν</head> <foreign lang="grc">ἰχθῦν,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossblei=" orig_id="n20082a" key="blei=" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βλεῖ·">βλεῖ</head>, = βλίσσει, <abbr>v.l.</abbr> in <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossblei/hs" orig_id="n20082b" key="blei/hs" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βλείης">βλείης</head>, <orth extent="full" lang="grc" opt="n">βλεῖο</orth>, v. βάλλω. </div2>
+
+ 
+<div2 id="crossbleke/mucos" orig_id="n20082c" key="bleke/mucos" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βλεκέμυξος·">βλεκέμυξος</head> <foreign lang="grc">βλακώδης,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossble/kuc" orig_id="n20082d" key="ble/kuc" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βλέκυξ">βλέκυξ</head>, v. βλέτυγες.</div2>
 
  
 <div2 id="crossblemeai/nw" orig_id="n20083" key="blemeai/nw" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βλεμεαίνω">βλεμεαίνω</head>, <sense id="n20083.0" n="" level="1" opt="n"><i>exult,</i> <foreign lang="grc">σθένε βλεμεαίνων,</foreign> of a lion, <bibl n="Perseus:abo:tlg,0012,001:12:42"><title>Il.</title> 12.42</bibl>; of Hector, <bibl n="Perseus:abo:tlg,0012,001:8:337">8.337</bibl>; cf. <foreign lang="grc">ἀβλεμής</foreign>.</sense></div2>
@@ -2952,7 +2973,10 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="cross*bre/mwn" orig_id="n20924" key="*bre/mwn" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="Βρέμων">Βρέμων</head>, <i>Roarer,</i> name of a dog, <bibl n="Perseus:abo:tlg,0032,014:7:5"><author>X.</author> <title>Cyn.</title> 7.5</bibl>.</div2>
 
  
-<div2 id="crossbrenai/atai" orig_id="n20925" key="brenai/atai" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βρεναίαται·">βρεναίαται</head> <foreign lang="grc">δυσχεραίνει, προσποιεῖται,</foreign> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">βρένδος</orth>, <sense id="n20925.0" n="" level="1" opt="n">= ἔλαφος, <author>Id.</author>, <bibl n="Perseus:abo:tlg,4099,001:212:47" default="NO"><title>EM</title> 212.47</bibl>.</sense></div2>
+<div2 id="crossbrenai/atai" orig_id="n20925" key="brenai/atai" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βρεναίαται·">βρεναίαται</head> <foreign lang="grc">δυσχεραίνει, προσποιεῖται,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossbre/ndos" orig_id="n20925a" key="bre/ndos" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βρένδος">βρένδος</head>, <sense id="n20925a.0" n="" level="1" opt="n">= ἔλαφος, <author>Hsch.</author>, <bibl n="Perseus:abo:tlg,4099,001:212:47" default="NO"><title>EM</title> 212.47</bibl>.</sense></div2>
 
  
 <div2 id="crossbre/nqeios" orig_id="n20926" key="bre/nqeios" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βρένθειος">βρένθειος</head>, <itype lang="grc" opt="n">α</itype>, <itype lang="grc" opt="n">ον</itype>, <sense id="n20926.0" n="" level="1" opt="n"><i>costly,</i> <cit><quote lang="grc">μύρον</quote> <bibl n="Perseus:abo:tlg,0009,001:94:19" default="NO"><author>Sapph.</author> 94.19 L.-P.</bibl></cit>; without <foreign lang="grc">μύρον,</foreign> <bibl n="Perseus:abo:tlg,0486,001:101:2" default="NO"><author>Pherecr.</author> 101.2</bibl>.</sense></div2>
@@ -3476,7 +3500,13 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossbrugmo/s" orig_id="n21098" key="brugmo/s" type="main" opt="n"><head extent="suff" lang="grc" opt="n" orth_orig="βρυγ-μός">βρυγμός</head>, <gen lang="grc" opt="n">ὁ</gen>, <sense id="n21098.0" n="" level="1" opt="n"><i>biting,</i> <bibl n="Perseus:abo:tlg,0022,001:716" default="NO"><author>Nic.</author> <title>Th.</title> 716</bibl> (pl., v.l. βρυχμός); <i>gobbling,</i> <bibl n="Perseus:abo:tlg,0461,001:347" default="NO"><author>Eup.</author> 347</bibl>; <i>chattering, shivering,</i> <bibl n="Perseus:abo:tlg,0627,031:3:84" default="NO"><author>Hp.</author> <title>Vict.</title> 3.84</bibl>, <title>Steril.</title> 214, Euryphon ap. <author>Gal.</author> 17(1).888; <foreign lang="grc">β. ὀδόντων</foreign> <i>gnashing</i> of teeth, <bibl n="Perseus:abo:tlg,0031,001:8:12"><title>Ev.Matt.</title> 8.12</bibl>, al. </sense><sense n="II" id="n21098.1" level="2" opt="n"> <i>roaring</i> of a lion, <bibl n="Perseus:abo:tlg,0527,029:19:12"><author>LXX</author> <title>Pr.</title> 19.12</bibl>.</sense></div2>
 
  
-<div2 id="crossbrugko/s" orig_id="n21099" key="brugko/s" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βρυγκός·">βρυγκός</head> <foreign lang="grc">ἄφωνος, νεκρός,</foreign> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">βρυγχός</orth>, <sense id="n21099.0" n="" level="1" opt="n">= βρόχος, <author>Id.</author> <orth extent="full" lang="grc" opt="n">βρυδαλίχα</orth>, <gen lang="grc" opt="n">ἡ</gen>, <i>female mask</i>; also, <i>lewd woman</i> (<gramGrp opt="n"><gram type="dialect" opt="n">Lacon.</gram></gramGrp>), <author>Id.</author></sense></div2>
+<div2 id="crossbrugko/s" orig_id="n21099" key="brugko/s" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βρυγκός·">βρυγκός</head> <foreign lang="grc">ἄφωνος, νεκρός,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossbrugxo/s" orig_id="n21099a" key="brugxo/s" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βρυγχός">βρυγχός</head>, = βρόχος, <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossbrudali/xa" orig_id="n21099b" key="brudali/xa" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βρυδαλίχα">βρυδαλίχα</head>, <gen lang="grc" opt="n">ἡ</gen>, <sense id="n21099b.0" n="" level="1" opt="n"><i>female mask</i>; also, <i>lewd woman</i> (<gramGrp opt="n"><gram type="dialect" opt="n">Lacon.</gram></gramGrp>), <author>Hsch.</author></sense></div2>
 
  
 <div2 id="crossbru/zw" orig_id="n21100" key="bru/zw" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βρύζω">βρύζω</head>, <sense id="n21100.0" n="" level="1" opt="n">dub. sens. in <bibl n="Perseus:abo:tlg,0232,001:32:2" default="NO"><author>Archil.</author> 32.2</bibl>. </sense><sense n="II" id="n21100.1" level="2" opt="n"> <gramGrp opt="n"><gram type="voice" opt="n">Pass.</gram></gramGrp>, <foreign lang="grc">ἐβρύσθη· ἔπεσεν,</foreign> <author>Hsch.</author> (Cf. Lith. <foreign lang="lt">griúti</foreign> ‘collapse’.)</sense></div2>
@@ -4243,7 +4273,10 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossbwta/rion" orig_id="n21352" key="bwta/rion" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βωτάριον">βωτάριον</head>, <sense id="n21352.0" n="" level="1" opt="n"><i>vessel for slow heating,</i> <bibl n="Perseus:abo:tlg,4319,001:p.165" default="NO"><author>Zos.Alch.</author> p.165B.</bibl>; cf. <foreign lang="grc">βοῦτις</foreign>.</sense></div2>
 
  
-<div2 id="crossbwta/zein" orig_id="n21353" key="bwta/zein" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βωτάζειν·">βωτάζειν</head> <foreign lang="grc">βάλλειν,</foreign> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">βωτῆρες</orth>, <sense id="n21353.0" n="" level="1" opt="n">gloss on  βώτορες, Id.</sense></div2>
+<div2 id="crossbwta/zein" orig_id="n21353" key="bwta/zein" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βωτάζειν·">βωτάζειν</head> <foreign lang="grc">βάλλειν,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossbwth=res" orig_id="n21353a" key="bwth=res" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βωτῆρες">βωτῆρες</head>, <sense id="n21353a.0" n="" level="1" opt="n">gloss on βώτορες, <author>Hsch.</author></sense></div2>
 
  
 <div2 id="crossbwti^a/neira" orig_id="n21354" key="bwti^a/neira" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="βωτῐάνειρα">βωτιάνειρα</head> [<foreign lang="grc">ᾰν</foreign>], <gen lang="grc" opt="n">ἡ</gen>, (<etym lang="grc" opt="n">βόσκω</etym>) <sense id="n21354.0" n="" level="1" opt="n"><i>man-feeding, nurse of heroes,</i> epith. of fruitful countries, <bibl n="Perseus:abo:tlg,0012,001:1:155"><title>Il.</title> 1.155</bibl>; <cit><quote lang="grc">χθών</quote> <bibl n="Perseus:abo:tlg,0013,003:363"><title>h.Ap.</title> 363</bibl></cit>, <author>Hes.</author> <title>Cat.Oxy.</title> 1369 <bibl n="Perseus:abo:tlg,0020,007:1:16" default="NO"><title>Fr.</title> 1.16</bibl>. <orth extent="full" lang="grc" opt="n">βωτίον·</orth> <foreign lang="grc">σταμνίον,</foreign> <author>Hsch.</author></sense></div2>
