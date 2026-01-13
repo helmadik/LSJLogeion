@@ -824,7 +824,13 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <pb n="767"/>
 
  
-<div2 id="crossh)ikano/s" orig_id="n46789" key="h)ikano/s" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἠικανός·">ἠικανός</head> <foreign lang="grc">ὁ ἀλεκτρυών,</foreign> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">ἤϊκτο</orth>, <sense id="n46789.0" n="" level="1" opt="n">v. ἔοικα. <orth extent="full" lang="grc" opt="n">ἤϊξε</orth>, v. ἀΐσσω.</sense></div2>
+<div2 id="crossh)ikano/s" orig_id="n46789" key="h)ikano/s" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἠικανός·">ἠικανός</head> <foreign lang="grc">ὁ ἀλεκτρυών,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossh)/i+kto" orig_id="n46789a" key="h)/i+kto" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἤϊκτο">ἤϊκτο</head>, v. ἔοικα. </div2>
+
+ 
+<div2 id="crossh)/i+ce" orig_id="n46789b" key="h)/i+ce" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἤϊξε">ἤϊξε</head>, v. ἀΐσσω.</div2>
 
  
 <div2 id="crossh)i+o/eis" orig_id="n46790" key="h)i+o/eis" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἠϊόεις">ἠϊόεις</head>, <itype lang="grc" opt="n">εσσα</itype>, <itype lang="grc" opt="n">εν</itype>, (<foreign lang="grc">ἤϊα</foreign> A) <sense id="n46790.0" n="" level="1" opt="n"><gramGrp opt="n"><gram type="dialect" opt="n">Ep.</gram></gramGrp> word of doubtful meaning, <cit><quote lang="grc">ἐπʼ ἠϊόεντι Σκαμάνδρῳ</quote> <bibl n="Perseus:abo:tlg,0012,001:5:36"><title>Il.</title> 5.36</bibl></cit>; perh. connected by later poets with <foreign lang="grc">ἠϊών,</foreign> hence <cit><quote lang="grc">ἠ. Πάνορμος</quote> <bibl n="Perseus:abo:tlg,2046,001:1:283" default="NO"><author>Q.S.</author> 1.283</bibl></cit>; <foreign lang="grc">κόλλουρος</foreign> <i>haunting the shore,</i> <bibl n="Perseus:abo:tlg,0281,001:22" default="NO"><author>Marc.Sid.</author> 22</bibl>: but perh. also with <foreign lang="grc">ἤϊα</foreign> (A), <cit><quote lang="grc">χήνεσιν ἠϊόεν πεδίον κάτα βοσκομένοισιν</quote> <bibl n="Perseus:abo:tlg,2046,001:5:299" default="NO"><author>Q.S.</author> 5.299</bibl></cit>; derived from <foreign lang="grc">ἴον</foreign> by <bibl n="Perseus:abo:tlg,4099,001:423:14" default="NO"><title>EM</title> 423.14</bibl>.</sense></div2>

@@ -464,7 +464,10 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossmaze/as" orig_id="n64488" key="maze/as" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="μαζέας">μαζέας</head>, <itype lang="grc" opt="n">ου</itype>, <gen lang="grc" opt="n">ὁ</gen>, <sense id="n64488.0" n="" level="1" opt="n">= ἥπατος, <author>Xenocr.</author> ap. <bibl n="Perseus:abo:tlg,0722,001:2:58:27" default="NO"><author>Orib.</author> 2.58.27</bibl>.</sense></div2>
 
  
-<div2 id="crossmazeino\s" orig_id="n64489" key="mazeino\s" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="μαζεινὸς">μαζεινός</head> <foreign lang="grc">βοῦς· ὁ ἐξ ἀλφίτων,</foreign> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">Μαζεύς</orth>, <sense id="n64489.0" n="" level="1" opt="n">= Ζεύς (Phryg.), Id.</sense></div2>
+<div2 id="crossmazeino\s" orig_id="n64489" key="mazeino\s" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="μαζεινὸς">μαζεινός</head> <foreign lang="grc">βοῦς· ὁ ἐξ ἀλφίτων,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="cross*mazeu/s" orig_id="n64489a" key="*mazeu/s" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="Μαζεύς">Μαζεύς</head>, <sense id="n64489a.0" n="" level="1" opt="n">= Ζεύς (Phryg.), <author>Hsch.</author></sense></div2>
 
  
 <div2 id="crossmazh/reoi" orig_id="n64490" key="mazh/reoi" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="μαζήρεοι">μαζήρεοι</head>, <gen lang="grc" opt="n">οἱ</gen>, <sense id="n64490.0" n="" level="1" opt="n"><i>bastards,</i> <title>I Enoch</title> 10.9. (Hebr. <foreign lang="he">mamzēr.</foreign>) </sense></div2>

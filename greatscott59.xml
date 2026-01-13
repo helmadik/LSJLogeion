@@ -2193,7 +2193,19 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crosspe/sures" orig_id="n82708" key="pe/sures" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="πέσυρες">πέσυρες</head>, <itype lang="grc" opt="n">ρα</itype>, <gramGrp opt="n"><gram type="dialect" opt="n">Aeol.</gram></gramGrp> for <foreign lang="grc">τέσσαρες,</foreign> <title>Epigr.Gr.</title> 988 (<placeName>Balbilla</placeName>).</div2>
 
  
-<div2 id="crosspeta/" orig_id="n82709" key="peta/" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="πετά·">πετά</head> <foreign lang="grc">πτῶσις, στάχυα,</foreign> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">Πεταγείτνυος</orth>, <sense id="n82709.0" n="" level="1" opt="n">v. Πεδαγείτνυος. <orth extent="full" lang="grc" opt="n">πετάζω</orth>, = πετάννυμι, <author>Id.</author> <orth extent="full" lang="grc" opt="n">πεταιτά·</orth> <foreign lang="grc">μετέωρα, ἀμπελουργία. ὡς αἱ ἀναδενδράδες,</foreign> <author>Id.</author> <orth extent="full" lang="grc" opt="n">πέτακνον</orth>, = πέταχνον, <author>Id.</author></sense></div2>
+<div2 id="crosspeta/" orig_id="n82709" key="peta/" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="πετά·">πετά</head> <foreign lang="grc">πτῶσις, στάχυα,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="cross*petagei/tnuos" orig_id="n82709a" key="*petagei/tnuos" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="Πεταγείτνυος">Πεταγείτνυος</head>, v. Πεδαγείτνυος. </div2>
+
+ 
+<div2 id="crosspeta/zw" orig_id="n82709b" key="peta/zw" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="πετάζω">πετάζω</head>, = πετάννυμι, <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crosspetaita/" orig_id="n82709c" key="petaita/" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="πεταιτά·">πεταιτά</head> <foreign lang="grc">μετέωρα, ἀμπελουργία. ὡς αἱ ἀναδενδράδες,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crosspe/taknon" orig_id="n82709d" key="pe/taknon" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="πέτακνον">πέτακνον</head>, = πέταχνον, <author>Hsch.</author></div2>
 
  
 <div2 id="crosspeta/leion" orig_id="n82710" key="peta/leion" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="πετάλ-ειον">πετάλειον</head> [<foreign lang="grc">ᾰ</foreign>], <gen lang="grc" opt="n">τό</gen>, poet. for <foreign lang="grc">πέταλον,</foreign> <bibl n="Perseus:abo:tlg,0022,001:628" default="NO"><author>Nic.</author> <title>Th.</title> 628</bibl>, <bibl n="Perseus:abo:tlg,0022,001:638" default="NO">638</bibl>.</div2>

@@ -459,7 +459,13 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="cross*krono/teknos" orig_id="n60133" key="*krono/teknos" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="Κρονότεκνος">Κρονότεκνος</head>, <gen lang="grc" opt="n">ὁ</gen>, <sense id="n60133.0" n="" level="1" opt="n"><i>father of Cronos,</i> epith. of Uranos in <bibl n="Perseus:abo:tlg,0579,001:4:8" default="NO"><author>Orph.</author> <title>H.</title> 4.8</bibl>.</sense></div2>
 
  
-<div2 id="crosskronta=|" orig_id="n60134" key="kronta=|" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="κροντᾷ·">κροντᾷ</head> <foreign lang="grc">κατασήπεται,</foreign> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">κρόξ</orth>, <sense id="n60134.0" n="" level="1" opt="n">v. κρόκη. <orth extent="full" lang="grc" opt="n">κρόπιον</orth>, <gen lang="grc" opt="n">τό</gen>, <i>two-edged axe,</i> <author>Id.</author> (cf. <foreign lang="grc">κρώπιον</foreign>).</sense></div2>
+<div2 id="crosskronta=|" orig_id="n60134" key="kronta=|" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="κροντᾷ·">κροντᾷ</head> <foreign lang="grc">κατασήπεται,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crosskronta=|" orig_id="n60134a" key="kronta=|" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="κρόξ">κρόξ</head>, v. κρόκη. </div2>
+
+ 
+<div2 id="crosskronta=|" orig_id="n60134b" key="kronta=|" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="κρόπιον">κρόπιον</head>, <gen lang="grc" opt="n">τό</gen>, <sense id="n60134b.0" n="" level="1" opt="n"><i>two-edged axe,</i> <author>Hsch.</author> (cf. <foreign lang="grc">κρώπιον</foreign>).</sense></div2>
 
  
 <div2 id="crosskroso/s" orig_id="n60135" key="kroso/s" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="κροσός">κροσός</head>, Rhod. for <foreign lang="grc">κρωσσός,</foreign> <title>Chron.Lind.</title> B. 9.</div2>
@@ -2235,7 +2241,10 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crosskullai/nw" orig_id="n60719" key="kullai/nw" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="κυλλαίνω">κυλλαίνω</head>, <sense id="n60719.0" n="" level="1" opt="n">= κυλλόω, ὦτα κ. κάτω <i>let</i> them <i>hang</i> down, prob. in <bibl n="Perseus:abo:tlg,0011,008:687"><author>S.</author> <title>Fr.</title> 687</bibl>. </sense><sense n="II" id="n60719.1" level="2" opt="n"> intr., <i>halt, limp,</i> metaph., <cit><quote lang="grc">κυλλαίνων ὁ νοῦς</quote> <bibl n="Perseus:abo:tlg,0018,040:58" default="NO"><author>Ph.</author> <title>Fr.</title> 58</bibl></cit> H.</sense></div2>
 
  
-<div2 id="crossku/llaios" orig_id="n60720" key="ku/llaios" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="κύλλαιος·">κύλλαιος</head> <foreign lang="grc">βόστρυχος,</foreign> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">κυλλάραβις</orth>, <sense id="n60720.0" n="" level="1" opt="n">= δίσκος; also a gymnasium at Argos, Id.</sense></div2>
+<div2 id="crossku/llaios" orig_id="n60720" key="ku/llaios" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="κύλλαιος·">κύλλαιος</head> <foreign lang="grc">βόστρυχος,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crosskulla/rabis" orig_id="n60720a" key="kulla/rabis" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="κυλλάραβις">κυλλάραβις</head>, <sense id="n60720a.0" n="" level="1" opt="n">= δίσκος; also a gymnasium at Argos, <author>Hsch.</author></sense></div2>
 
  
 <div2 id="crossku/lla^ros" orig_id="n60721" key="ku/lla^ros" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="κύλλᾰρος">κύλλαρος</head>, <gen lang="grc" opt="n">ὁ</gen>, <sense id="n60721.0" n="" level="1" opt="n"><i>hermit-crab, Pagurus,</i> <bibl n="Perseus:abo:tlg,0086,014:530a:12" default="NO"><author>Arist.</author> <title>HA</title> 530a12</bibl> (v.l. σκύλλαρος).</sense></div2>
@@ -2513,7 +2522,10 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 
 
  
-<div2 id="crosskunaki/as" orig_id="n60813" key="kunaki/as" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="κυνακίας·">κυνακίας</head> <foreign lang="grc">ἱμάντες, οἱ ἐκ βύρσης τοῦ σφαγιασθέντος τετράχειρι Ἀπόλλωνι βοὸς ἔπαθλα διδόμενοι </foreign> (<foreign lang="grc">-ομένου</foreign> cod.), <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">κυνακρίς</orth>, <sense id="n60813.0" n="" level="1" opt="n"><i>gillus</i> (fort. <i>gryllus),</i> <title>Gloss.</title></sense></div2>
+<div2 id="crosskunaki/as" orig_id="n60813" key="kunaki/as" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="κυνακίας·">κυνακίας</head> <foreign lang="grc">ἱμάντες, οἱ ἐκ βύρσης τοῦ σφαγιασθέντος τετράχειρι Ἀπόλλωνι βοὸς ἔπαθλα διδόμενοι </foreign> (<foreign lang="grc">-ομένου</foreign> cod.), <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossku^nakri/s" orig_id="n60813a" key="ku^nakri/s" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="κυνακρίς">κυνακρίς</head>, <sense id="n60813a.0" n="" level="1" opt="n"><i>gillus</i> (fort. <i>gryllus</i>), <title>Gloss.</title></sense></div2>
 
  
 <div2 id="crossku^nakth/s" orig_id="n60814" key="ku^nakth/s" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="κῠν-ακτής">κυνακτής</head>, <itype lang="grc" opt="n">οῦ</itype>, <gen lang="grc" opt="n">ὁ</gen>, (<etym lang="grc" opt="n">ἄγω</etym>) <sense id="n60814.0" n="" level="1" opt="n"><i>dog-leash,</i> v. κυνάγχη III.</sense></div2>

@@ -289,10 +289,13 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crosszameri/tas" orig_id="n46092" key="zameri/tas" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ζαμερίτας">ζαμερίτας</head>, <itype lang="grc" opt="n">α</itype>, <gen lang="grc" opt="n">ὁ</gen>, <gramGrp opt="n"><gram type="dialect" opt="n">Dor.</gram></gramGrp> word for <foreign lang="grc">μακαρίτης,</foreign> <author>Phot.</author></div2>
 
  
-<div2 id="crosszamh=tai" orig_id="n46093" key="zamh=tai" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ζαμῆται·">ζαμῆται</head> <foreign lang="grc">μεγαλουργοί,</foreign> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">ζαμίλαμπις</orth>, <sense id="n46093.0" n="" level="1" opt="n">a kind of <i>stone,</i> <bibl n="Perseus:abo:tlg,0579,003:263" default="NO"><author>Orph.</author> <title>L.</title> 263</bibl> (s.v.l.).</sense></div2>
+<div2 id="crosszamh=tai" orig_id="n46093" key="zamh=tai" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ζαμῆται·">ζαμῆται</head> <foreign lang="grc">μεγαλουργοί,</foreign> <author>Hsch.</author> </div2>
 
  
-<div2 id="crossza_mi/a" orig_id="n46094" key="za_mi/a" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ζᾱμία">ζαμία</head>, <orth extent="full" lang="grc" opt="n">ζᾱμιόω</orth>, etc., <gramGrp opt="n"><gram type="dialect" opt="n">Aeol.</gram></gramGrp>, etc., for <foreign lang="grc">ζημ-</foreign>.</div2>
+<div2 id="crosszami/lampis" orig_id="n46093a" key="zami/lampis" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ζαμίλαμπις">ζαμίλαμπις</head>, <sense id="n46093a.0" n="" level="1" opt="n">a kind of <i>stone,</i> <bibl n="Perseus:abo:tlg,0579,003:263" default="NO"><author>Orph.</author> <title>L.</title> 263</bibl> (s.v.l.).</sense></div2>
+
+ 
+<div2 id="crossza_mi/a" orig_id="n46094" key="za_mi/a" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ζᾱμία">ζαμία</head>, <orth extent="full" lang="grc" opt="n">ζᾱμιόω</orth>, etc., <gramGrp opt="n"><gram type="dialect" opt="n">Aeol.</gram></gramGrp>, etc., for <foreign lang="grc">ζημία, ζημιόω</foreign>.</div2>
 
  
 <div2 id="crossza_miorgi/a" orig_id="n46095" key="za_miorgi/a" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ζᾱμιοργία">ζαμιοργία</head>, Elean for <foreign lang="grc">δημιουργία,</foreign> <title>Schwyzer</title> 409.6 <date>(vi B.C.)</date>.</div2>

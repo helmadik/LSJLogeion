@@ -5787,7 +5787,13 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossmi^nunqa/nw" orig_id="n67898" key="mi^nunqa/nw" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="μῐνυνθάνω">μινυνθάνω</head> [<foreign lang="grc">ᾰ</foreign>], <sense id="n67898.0" n="" level="1" opt="n">= μινύθω I, <cit><quote lang="grc">μινυνθάνει ἀγλαὸν ἥβην</quote> <bibl n="Perseus:abo:pap,P.Mich.:11:7" default="NO"><title>PMich.</title> 11.7</bibl></cit>.</sense></div2>
 
  
-<div2 id="crossminu/on" orig_id="n67899" key="minu/on" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="μινύον·">μινύον</head> <foreign lang="grc">τὸ βλίτον λάχανον, ἢ κινάβαρ&lt;ι&gt;,</foreign> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">μινυός</orth>, <sense id="n67899.0" n="" level="1" opt="n">= μικρός, <bibl n="Perseus:abo:tlg,4083,001:273:2" default="NO"><author>Eust.</author> 273.2</bibl>. <orth extent="full" lang="grc" opt="n">μίνυρες·</orth> <foreign lang="grc">κλῖναι, μάντες,</foreign> <author>Hsch.</author></sense></div2>
+<div2 id="crossminu/on" orig_id="n67899" key="minu/on" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="μινύον·">μινύον</head> <foreign lang="grc">τὸ βλίτον λάχανον, ἢ κινάβαρ&lt;ι&gt;,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossmi^nuo/s" orig_id="n67899a" key="mi^nuo/s" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="μινυός">μινυός</head>, <sense id="n67899a.0" n="" level="1" opt="n">= μικρός, <bibl n="Perseus:abo:tlg,4083,001:273:2" default="NO"><author>Eust.</author> 273.2</bibl>. </sense></div2>
+
+ 
+<div2 id="crossmi/nures" orig_id="n67899b" key="mi/nures" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="μίνυρες·">μίνυρες</head> <foreign lang="grc">κλῖναι, μάντες,</foreign> <author>Hsch.</author></div2>
 
  
 <div2 id="crossmi^nu/rigma" orig_id="n67900" key="mi^nu/rigma" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="μῐνύρ-ιγμα">μινύριγμα</head> [<foreign lang="grc">ῠ</foreign>], <itype lang="grc" opt="n">ατος</itype>, <gen lang="grc" opt="n">τό</gen>, some kind of eatable, <bibl n="Perseus:abo:tlg,1601,001:2:28" default="NO"><author>Philox.</author> 2.28</bibl> (pl.).</div2>

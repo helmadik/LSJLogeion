@@ -596,7 +596,10 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="cross*)iqa/kh" orig_id="n50176" key="*)iqa/kh" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="Ἰθάκη">Ἰθάκη</head> [<pron lang="grc" opt="n">ῐ</pron>, <pron lang="grc">ᾰ</pron>], <gen lang="grc" opt="n">ἡ</gen>, <sense id="n50176.0" n="" level="1" opt="n"><i>Ithaca,</i> <bibl n="Perseus:abo:tlg,0012,002:1:18"><title>Od.</title> 1.18</bibl>, etc.: <orth extent="full" lang="grc" opt="n">Ἰθᾰκήσιος</orth>, <gen lang="grc" opt="n">ὁ</gen>, <i>Ithacan,</i> <bibl n="Perseus:abo:tlg,0012,001:2:184"><title>Il.</title> 2.184</bibl>, <bibl n="Perseus:abo:tlg,0012,002:2:25"><title>Od.</title> 2.25</bibl>, <author>B.</author> <title>Fr.</title> 25, etc.:—<orth extent="full" lang="grc" opt="n">Ἰθάκηνδε</orth>, <i>to Ithaca,</i> <bibl n="Perseus:abo:tlg,0012,002:16:322"><title>Od.</title> 16.322</bibl>; <orth extent="suff" lang="grc" opt="n">Ἰθάκ-ηθεν</orth>, <i>from it,</i> <bibl n="Perseus:abo:tlg,2046,001:7:187" default="NO"><author>Q.S.</author> 7.187</bibl>.</sense></div2>
 
  
-<div2 id="crossi)/qana" orig_id="n50177" key="i)/qana" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἴθανα">ἴθανα</head>: <foreign lang="grc">σχοινία,</foreign> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">ἶθαρ</orth>, <sense id="n50177.0" n="" level="1" opt="n">= εἶθαρ, Id.</sense></div2>
+<div2 id="crossi)/qana" orig_id="n50177" key="i)/qana" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἴθανα·">ἴθανα</head> <foreign lang="grc">σχοινία,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossi)=qar" orig_id="n50177a" key="i)=qar" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἶθαρ">ἶθαρ</head>, = εἶθαρ, <author>Hsch.</author></div2>
 
  
 <div2 id="crossi)qa^ro/s" orig_id="n50178" key="i)qa^ro/s" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἰθᾰρός">ἰθαρός</head> [<foreign lang="grc">ῐ</foreign>], <itype lang="grc" opt="n">ά</itype>, <itype lang="grc" opt="n">όν</itype>, <sense id="n50178.0" n="" level="1" opt="n"><i>cheerful, glad,</i> in <gramGrp opt="n"><gram type="comp" opt="n">Comp.</gram></gramGrp> <cit><quote lang="grc">-ώτερος</quote> <author>Alc.</author> <title>Supp.</title> 4.18</cit>. </sense><sense n="II" id="n50178.1" level="2" opt="n"> <i>pure,</i> <cit><quote lang="grc">κρᾶναι</quote> <author>Simm.</author> 25.6</cit>; cf. <foreign lang="grc">ἰθαραῖς· ταχείαις, κούφαις, ἱλαραῖς, καλαῖς, καθαραῖς,</foreign> <author>Hsch.</author></sense></div2>
@@ -1479,7 +1482,10 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossi(ma/w" orig_id="n50465" key="i(ma/w" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἱμάω">ἱμάω</head>, <gramGrp opt="n"><gram type="dialect" opt="n">Att.</gram></gramGrp> <mood opt="n">inf.</mood> <cit><quote lang="grc">ἱμῆν</quote> <author>Phot.</author></cit>:—<sense id="n50465.0" n="" level="1" opt="n"><i>draw up,</i> esp. water from a well, <bibl n="Perseus:abo:tlg,0008,001:8:352a" default="NO"><author>Ath.</author> 8.352a</bibl>; <cit><quote lang="grc">κάδῳ</quote> <author>Orib.</author> <title>Eup.</title> 1.1.2</cit>:—<gramGrp opt="n"><gram type="voice" opt="n">Pass.</gram></gramGrp>, <i>to be tapped of, yield,</i> <cit><quote lang="grc">γάλα</quote> <bibl n="Perseus:abo:tlg,0086,014:522b:12" default="NO"><author>Arist.</author> <title>HA</title> 522b12</bibl></cit>, <bibl n="Perseus:abo:tlg,0086,030:688b:10" default="NO"><title>PA</title> 688b10</bibl>. (From <cit><quote lang="grc">ἱμάς</quote> <bibl n="Perseus:abo:tlg,0086,030:2f" default="NO">2f</bibl></cit>, acc. to <bibl n="Perseus:abo:tlg,1323,001:211" default="NO"><author>Ael.Dion.</author> <title>Fr.</title> 211</bibl>; <foreign lang="grc">ἱμάω</foreign> has <pron extent="full" lang="grc" opt="n">ῑ</pron> (v. <foreign lang="grc">καθιμάω</foreign>), like ἱμονιά, ἱμανήθρη, but <foreign lang="grc">ἱμαῖος</foreign> has <pron extent="full" lang="grc" opt="n">ῐ</pron>.)</sense></div2>
 
  
-<div2 id="crossvimba/nai" orig_id="n50466" key="vimba/nai" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ϝιμβάναι">ϝιμβάναι</head> (<foreign lang="grc">γιμβ-</foreign> cod.)<foreign lang="grc">· ζεύγανα,</foreign> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">ἴμβηρις</orth>, <sense id="n50466.0" n="" level="1" opt="n">= ἔγχελυς, at Methymna, <author>Id.</author> (cf. Lith. <foreign lang="lt">ungurỹs</foreign> ‘eelʼ).</sense></div2>
+<div2 id="crossvimba/nai" orig_id="n50466" key="vimba/nai" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ϝιμβάναι">ϝιμβάναι</head> (<foreign lang="grc">γιμβ-</foreign> cod.)<foreign lang="grc">· ζεύγανα,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossi)/mbhris" orig_id="n50466a" key="i)/mbhris" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἴμβηρις">ἴμβηρις</head>, <sense id="n50466a.0" n="" level="1" opt="n">= ἔγχελυς, at Methymna, <author>Hsch.</author> (cf. Lith. <foreign lang="lt">ungurỹs</foreign> ‘eelʼ).</sense></div2>
 
  
 <div2 id="cross*)/imbros" orig_id="n50467" key="*)/imbros" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="Ἴμβρος">Ἴμβρος</head>, <gen lang="grc" opt="n">ἡ</gen>, the island of Imbros, <bibl n="Perseus:abo:tlg,0012,001:13:33"><title>Il.</title> 13.33</bibl>, etc.: also, epith. of Pelasgian Hermes, <author>St.Byz.</author> s.v.: hence <orth extent="full" lang="grc" opt="n">Ἴμβριοι</orth>, <gen lang="grc" opt="n">οἱ</gen>, <sense id="n50467.0" n="" level="1" opt="n"><i>the Imbrians,</i> <title>IG</title> 1(2).198.101.</sense></div2>
@@ -1552,7 +1558,34 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossi(moniostro/fos" orig_id="n50489" key="i(moniostro/fos" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἱμονιοστρόφος">ἱμονιοστρόφος</head>, <gen lang="grc" opt="n">ὁ</gen>, <sense id="n50489.0" n="" level="1" opt="n"><i>water-drawer,</i> <bibl n="Perseus:abo:tlg,0019,009:1297"><author>Ar.</author> <title>Ra.</title> 1297</bibl>.</sense></div2>
 
  
-<div2 id="crossi)/moroi" orig_id="n50490" key="i)/moroi" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἴμοροι·">ἴμοροι</head> <foreign lang="grc">πόλεμοι,</foreign> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">ἴμπασις</orth>, <sense id="n50490.0" n="" level="1" opt="n">v. ἔμπασις. <orth extent="full" lang="grc" opt="n">ἰμπάταὁν·</orth> <foreign lang="grc">ἔμβλεψον</foreign> (Paph.), <author>Id.</author> <orth extent="full" lang="grc" opt="n">ἰμπλατία</orth>, <gen lang="grc" opt="n">ἡ</gen>, Arc. for <foreign lang="grc">ἐμπλ-,</foreign> a sacrificial <i>cake,</i> <title>IG</title> 5(2).4 (<placeName>Tegea</placeName>, <date>iv B.C.</date>). <orth extent="full" lang="grc" opt="n">ἰμπολά</orth>, v. ἐμπολή. <orth extent="full" lang="grc" opt="n">ἰμπόλης·</orth> <foreign lang="grc">ληπτής,</foreign> <author>Hsch.</author> (perh. Arc. for <foreign lang="grc">ἐμπολεύς</foreign>). <orth extent="full" lang="grc" opt="n">ἴμπτω</orth>, v. ἴπτω. <orth extent="full" lang="grc" opt="n">Ἴμψιος</orth>, epith. of Poseidon in Syria, <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">ἵν</orth>, dat. and acc. of the old pers. Pron. <foreign lang="grc">ἵ</foreign> (q.v.). <orth extent="full" lang="grc" opt="n">ἰν</orth>, Arc., Cypr., and Cret. for <foreign lang="grc">ἐν</foreign> (q.v.).</sense></div2>
+<div2 id="crossi)/moroi" orig_id="n50490" key="i)/moroi" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἴμοροι·">ἴμοροι</head> <foreign lang="grc">πόλεμοι,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossi)/mpasis" orig_id="n50490a" key="i)/mpasis" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἴμπασις">ἴμπασις</head>, v. ἔμπασις. </div2>
+
+ 
+<div2 id="crossi)mpa/tao(n" orig_id="n50490b" key="i)mpa/tao(n" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἰμπάταὁν·">ἰμπάταὁν</head> <foreign lang="grc">ἔμβλεψον</foreign> (Paph.), <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossi)mplati/a" orig_id="n50490c" key="i)mplati/a" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἰμπλατία">ἰμπλατία</head>, <gen lang="grc" opt="n">ἡ</gen>, Arc. for <foreign lang="grc">ἐμπλ-,</foreign> <sense id="n50490c.0" n="" level="1" opt="n">a sacrificial <i>cake,</i> <title>IG</title> 5(2).4 (<placeName>Tegea</placeName>, <date>iv B.C.</date>). </sense></div2>
+
+ 
+<div2 id="crossi)mpola/" orig_id="n50490d" key="i)mpola/" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἰμπολά">ἰμπολά</head>, v. ἐμπολή. </div2>
+
+ 
+<div2 id="crossi)mpo/lhs" orig_id="n50490e" key="i)mpo/lhs" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἰμπόλης·">ἰμπόλης</head> <foreign lang="grc">ληπτής,</foreign> <author>Hsch.</author> (perh. Arc. for <foreign lang="grc">ἐμπολεύς</foreign>). </div2>
+
+ 
+<div2 id="crossi)/mptw" orig_id="n50490f" key="i)/mptw" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἴμπτω">ἴμπτω</head>, v. ἴπτω. </div2>
+
+ 
+<div2 id="cross*)/imyios" orig_id="n50490g" key="*)/imyios" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="Ἴμψιος">Ἴμψιος</head>, epith. of Poseidon in Syria, <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossi(/n" orig_id="n50490h" key="i(/n" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἵν">ἵν</head>, dat. and acc. of the old pers. Pron. <foreign lang="grc">ἵ</foreign> (q.v.). </div2>
+
+ 
+<div2 id="crossi)n" orig_id="n50490i" key="i)n" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἰν">ἰν</head>, Arc., Cypr., and Cret. for <foreign lang="grc">ἐν</foreign> (q.v.).</div2>
 
  
 <div2 id="crossi(/n" orig_id="n50491" key="i(/n" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἵν">ἵν</head> or <orth extent="full" lang="grc" opt="n">εἵν</orth>, gen. <itype lang="grc">εἱνός</itype>, <gen lang="grc" opt="n">τό</gen>, an Egyptian and Jewish liquid measure, <bibl n="Perseus:abo:tlg,0527,002:29:40"><author>LXX</author> <title>Ex.</title> 29.40</bibl>, al., <bibl n="Perseus:abo:tlg,0526,001:3:9:4"><author>J.</author> <title>AJ</title> 3.9.4</bibl>, <bibl n="Perseus:abo:tlg,4083,001:1282:51" default="NO"><author>Eust.</author> 1282.51</bibl> (<itype opt="n">indecl.</itype> in <author>LXX</author> ll. cc.); cf. <foreign lang="grc">ἵνιον</foreign>.</div2>
@@ -4311,7 +4344,19 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossi)triopw/lhs" orig_id="n51402" key="i)triopw/lhs" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἰτριοπώλης">ἰτριοπώλης</head>, <itype lang="grc" opt="n">ου</itype>, <gen lang="grc" opt="n">ὁ</gen>, <sense id="n51402.0" n="" level="1" opt="n"><i>dealer in <foreign lang="grc">ἴτρια,</foreign></i> prob. in <bibl n="Perseus:abo:tlg,0542,001:7:30" default="NO"><author>Poll.</author> 7.30</bibl>.</sense></div2>
 
  
-<div2 id="crossi)/tta" orig_id="n51403" key="i)/tta" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἴττα">ἴττα</head>, dialect word for <foreign lang="grc">δρυοκόλαψ,</foreign> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">ἰττέλα</orth>, <sense id="n51403.0" n="" level="1" opt="n">v. ἰξαλῆ. <orth extent="full" lang="grc" opt="n">ἴττιον·</orth> <foreign lang="grc">οὐσία</foreign> (<placeName>Elean</placeName>), <author>Id.</author> <orth extent="full" lang="grc" opt="n">ἴττον·</orth> <foreign lang="grc">ἕν</foreign> (Cret.), <author>Id.</author> <orth extent="full" lang="grc" opt="n">ἴττυγα·</orth> <cit><quote lang="grc">ἐκπληκτικά</quote> <bibl n="Perseus:abo:tlg,0085,008:427" default="NO"><author>A.</author> <title>Fr.</title> 427</bibl></cit> (ap. <author>Hsch.</author>).</sense></div2>
+<div2 id="crossi)/tta" orig_id="n51403" key="i)/tta" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἴττα">ἴττα</head>, dialect word for <foreign lang="grc">δρυοκόλαψ,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossi)tte/la" orig_id="n51403a" key="i)tte/la" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἰττέλα">ἰττέλα</head>, v. ἰξαλῆ. </div2>
+
+ 
+<div2 id="crossi)/ttion" orig_id="n51403b" key="i)/ttion" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἴττιον·">ἴττιον</head> <foreign lang="grc">οὐσία</foreign> (Elean), <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossi)/tton" orig_id="n51403c" key="i)/tton" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἴττον·">ἴττον</head> <foreign lang="grc">ἕν</foreign> (Cret.), <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossi)/ttuga" orig_id="n51403d" key="i)/ttuga" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἴττυγα·">ἴττυγα</head> <cit><quote lang="grc">ἐκπληκτικά</quote> <bibl n="Perseus:abo:tlg,0085,008:427" default="NO"><author>A.</author> <title>Fr.</title> 427</bibl></cit> (ap. <author>Hsch.</author>).</div2>
 
  
 <div2 id="crossi)/ttw" orig_id="n51404" key="i)/ttw" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἴττω">ἴττω</head>, <gramGrp opt="n"><gram type="dialect" opt="n">Boeot.</gram></gramGrp> for <foreign lang="grc">ἴστω,</foreign> <per opt="n">3</per> <number opt="n">sg.</number> imper. of <foreign lang="grc">οἶδα,</foreign> esp. in phrase <foreign lang="grc">ἴττω Ζεύς</foreign> Zeus <sense id="n51404.0" n="" level="1" opt="n"><i>be witness!</i> says Cebes the Theban in <bibl n="Perseus:abo:tlg,0059,004:62a"><author>Pl.</author> <title>Phd.</title> 62a</bibl>; <foreign lang="grc">Θήβαθεν ἴττω Δεύς,</foreign> and <foreign lang="grc">ἴττω Ἡρακλῆς,</foreign> says the Boeotian in <bibl n="Perseus:abo:tlg,0019,001:911"><author>Ar.</author> <title>Ach.</title> 911</bibl>, <bibl n="Perseus:abo:tlg,0019,001:860">860</bibl>, cf. <bibl n="Perseus:abo:tlg,0059,036:345a"><author>Pl.</author> <title>Ep.</title> 345a</bibl>.</sense></div2>
