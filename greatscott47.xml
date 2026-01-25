@@ -3253,7 +3253,10 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossmetayai/rw" orig_id="n67058" key="metayai/rw" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="μεταψαίρω">μεταψαίρω</head>, <sense id="n67058.0" n="" level="1" opt="n"><i>brush against,</i> <cit><quote lang="grc">ποδὶ πέτρον</quote> <bibl n="Perseus:abo:tlg,0006,015:1390"><author>E.</author> <title>Ph.</title> 1390</bibl></cit>.</sense></div2>
 
  
-<div2 id="crossmetaya^la/ssw" orig_id="n67059" key="metaya^la/ssw" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="μεταψᾰλάσσω">μεταψαλάσσω</head>, <sense id="n67059.0" n="" level="1" opt="n"><i>remove, put elsewhere,</i> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">μεταψέφω·</orth> <foreign lang="grc">μεταβουλεύομαι,</foreign> <author>Id.</author>; also <foreign lang="grc">μεταψέφειν· μεταμελεῖσθαι,</foreign> <author>Id.</author></sense></div2>
+<div2 id="crossmetaya^la/ssw" orig_id="n67059" key="metaya^la/ssw" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="μεταψᾰλάσσω">μεταψαλάσσω</head>, <sense id="n67059.0" n="" level="1" opt="n"><i>remove, put elsewhere,</i> <author>Hsch.</author> </sense></div2>
+
+ 
+<div2 id="crossmetaye/fw" orig_id="n67059a" key="metaye/fw" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="μεταψέφω·">μεταψέφω</head> <foreign lang="grc">μεταβουλεύομαι,</foreign> <author>Hsch.</author>; also <foreign lang="grc">μεταψέφειν· μεταμελεῖσθαι,</foreign> <author>Id.</author></div2>
 
  
 <div2 id="crossmetayhfi/zw" orig_id="n67060" key="metayhfi/zw" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="μεταψηφίζω">μεταψηφίζω</head>, <sense id="n67060.0" n="" level="1" opt="n"><i>transfer by decree,</i> <bibl n="Perseus:abo:tlg,0551,017:4:57"><author>App.</author> <title>BC</title> 4.57</bibl> (<gramGrp opt="n"><gram type="voice" opt="n">Pass.</gram></gramGrp>).</sense></div2>
@@ -3740,6 +3743,10 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 
  
 <div2 id="crossmetoxiko/s" orig_id="n67221" key="metoxiko/s" type="main" opt="n"><head extent="suff" lang="grc" opt="n" orth_orig="μετοχ-ικός">μετοχικός</head>, <itype lang="grc" opt="n">ή</itype>, <itype lang="grc" opt="n">όν</itype>, <sense id="n67221.0" n="" level="1" opt="n"><i>relating to a partnership,</i> <title>PStrassb.</title> 116.10 <date>(i A. D.)</date>. </sense><sense n="II" id="n67221.1" level="2" opt="n"> <i>participial,</i> <foreign lang="grc">ὄνομα, σύνταξις,</foreign> <author>D.H.</author> <title>Amm.</title> 2.12, <bibl n="Perseus:abo:tlg,0082,004:84:23" default="NO"><author>A.D.</author> <title>Synt.</title> 84.23</bibl>, cf. <bibl n="Perseus:abo:tlg,4083,001:32:33" default="NO"><author>Eust.</author> 32.33</bibl>, <bibl n="Perseus:abo:tlg,4083,001:138:15" default="NO">138.15</bibl>. <pos opt="n">Adv.</pos> <cit><quote lang="grc">-κῶς</quote> <author>Apollon.</author> <title>Lex.</title></cit> s.v. τέθηπα.</sense></div2>
+<pb n="1122"/>
+
+ 
+<div2 id="crossmeto/xlhsis" orig_id="n67221a" key="meto/xlhsis" type="main" opt="n"><head extent="suff" lang="grc" opt="n" orth_orig="μετόχλησις">μετόχλησις</head>, <gen lang="grc" opt="n">ἡ</gen>, <sense id="n67221a.0" n="" level="1" opt="n"><i>removal by means of a lever</i>, <bibl n="Perseus:abo:tlg,2043,001:3:46"><author>Heph.Astr.</author></bibl> </sense> [added from Supp.]</div2>
 
  
 <div2 id="crossmetoxli/zw" orig_id="n67222" key="metoxli/zw" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="μετοχλίζω">μετοχλίζω</head>, <sense id="n67222.0" n="" level="1" opt="n"><i>remove by a lever, hoist</i> a heavy body <i>out of the way,</i> <cit><quote lang="grc">οὔ κέν τις . . , οὐδὲ μάλʼ ἡβῶν, ῥεῖα μετοχλίσσειεν</quote> <bibl n="Perseus:abo:tlg,0012,002:23:188"><title>Od.</title> 23.188</bibl></cit>; <foreign lang="grc">οὐδέ κʼ ὀχῆα ῥεῖα μετοχλίσσειε θυράων</foreign> <i>would</i> he easily <i>push back</i> the bolt of the doors, <bibl n="Perseus:abo:tlg,0012,001:24:567"><title>Il.</title> 24.567</bibl>, cf. <bibl n="Perseus:abo:tlg,0341,002:627"><author>Lyc.</author> 627</bibl>, <bibl n="Perseus:abo:tlg,7000,001:9:81" default="NO"><title>AP</title> 9.81</bibl> (<author>Crin.</author>); <foreign lang="grc">ἡ γῆ -ίζουσα [τὸν Ἀνταῖον</foreign>] <bibl n="Perseus:abo:tlg,1600,001:2:21" default="NO"><author>Philostr.</author> <title>Im.</title> 2.21</bibl>.</sense></div2>
