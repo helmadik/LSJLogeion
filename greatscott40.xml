@@ -4057,7 +4057,19 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crosski/a" orig_id="n57304" key="ki/a" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="κία·">κία</head> <foreign lang="grc">ἡ μέθη,</foreign> <author>Cyr.</author>, <author>Zonar.</author></div2>
 
  
-<div2 id="crosskia/qw" orig_id="n57305" key="kia/qw" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="κιάθω">κιάθω</head>, <sense id="n57305.0" n="" level="1" opt="n">lengthd. for <foreign lang="grc">κίω,</foreign> only in compd. <foreign lang="grc">μετακιάθω</foreign> (exc. <cit><quote lang="grc">ἐκίαθεν</quote> <author>Hsch.</author></cit>); cf. <foreign lang="grc">κίατο</foreign>. <orth extent="full" lang="grc" opt="n">κιανθείς·</orth> <foreign lang="grc">ἑταίρα κιανγάλη </foreign> (<foreign lang="grc">λίαν καλή</foreign> Mein.), <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">κιάντωρ·</orth> <foreign lang="grc">κιναιδῶς,</foreign> <author>Id.</author> <orth extent="full" lang="grc" opt="n">κίασθαι·</orth> <foreign lang="grc">κεῖσθαι,</foreign> and <orth extent="full" lang="grc" opt="n">κίατο·</orth> <foreign lang="grc">ἐκινεῖτο,</foreign> <author>Id.</author> <orth extent="full" lang="grc" opt="n">κίβαλος·</orth> <foreign lang="grc">διάκονος,</foreign> <author>Id.</author> <orth extent="full" lang="grc" opt="n">κίββα·</orth> <foreign lang="grc">πήρα</foreign> (Aetol.), <author>Id.</author></sense></div2>
+<div2 id="crosskia/qw" orig_id="n57305" key="kia/qw" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="κιάθω">κιάθω</head>, lengthd. for <foreign lang="grc">κίω,</foreign> only in compd. <foreign lang="grc">μετακιάθω</foreign> (exc. <cit><quote lang="grc">ἐκίαθεν</quote> <author>Hsch.</author></cit>); cf. <foreign lang="grc">κίατο</foreign>. <orth extent="full" lang="grc" opt="n">κιανθείς·</orth> <foreign lang="grc">ἑταίρα κιανγάλη </foreign> (<foreign lang="grc">λίαν καλή</foreign> Mein.), <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">κιάντωρ·</orth> <foreign lang="grc">κιναιδῶς,</foreign> <author>Id.</author> <orth extent="full" lang="grc" opt="n">κίασθαι·</orth> <foreign lang="grc">κεῖσθαι,</foreign> and <orth extent="full" lang="grc" opt="n">κίατο·</orth> <foreign lang="grc">ἐκινεῖτο,</foreign> <author>Id.</author> </div2>
+
+ 
+<div2 id="crosski/balos" orig_id="n57305a" key="ki/balos" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="κίβαλος·">κίβαλος</head> <foreign lang="grc">διάκονος,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crosskiba/rion" orig_id="n57305b" key="kiba/rion" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="κιβάριον">κιβάριον</head> <sense id="n57305b.0" n="" level="1" opt="n">Lat. <foreign lang="lat">cibarium</foreign>, <i>provisions</i> </sense>[added from Supp.]</div2>
+
+ 
+<div2 id="crosskiba/rios" orig_id="n57305c" key="kiba/rios" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="κιβάριος">κιβάριος</head>, <itype lang="grc" opt="n">ον</itype> <sense id="n57305c.0" n="" level="1" opt="n"><foreign lang="grc">ἄρτος</foreign>, <i>household</i> bread </sense>[added from Supp.]</div2>
+
+ 
+<div2 id="crosski/bba" orig_id="n57305d" key="ki/bba" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="κίββα·">κίββα</head> <foreign lang="grc">πήρα</foreign> (Aetol.), <author>Hsch.</author></div2>
 
  
 <div2 id="crosskibdhlei/a" orig_id="n57306" key="kibdhlei/a" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="κιβδηλ-εία">κιβδηλεία</head>, <gen lang="grc" opt="n">ἡ</gen>, <sense id="n57306.0" n="" level="1" opt="n"><i>adulteration,</i> <bibl n="Perseus:abo:tlg,0059,034:916d"><author>Pl.</author> <title>Lg.</title> 916d</bibl>, <bibl n="Perseus:abo:tlg,0059,034:920c">920c</bibl>.</sense></div2>
@@ -4360,6 +4372,10 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crosskimai/" orig_id="n57406" key="kimai/" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="κιμαί·">κιμαί</head> <foreign lang="grc">χυμὸς πύρινος,</foreign> and <orth extent="full" lang="grc" opt="n">κιμαός·</orth> <foreign lang="grc">χυλὸς μορέας,</foreign> <author>Hsch.</author></div2>
 
  
+<div2 id="crosskimai=os" orig_id="n57406a" key="kimai=os" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="κιμαῖος">κιμαῖος</head>, <gen lang="grc" opt="n">ὁ</gen>, or -ον, <gen lang="grc" opt="n">τό</gen>, <sense id="n57406a.0" n="" level="1" opt="n"><i>mulberry juice,</i> <bibl n="Perseus:abo:tlg,0233,001:78:14" default="NO"><author>Hippon.</author> 78.14 W.</bibl>; cf. <foreign lang="grc">κιμαί, κιμαός</foreign>. </sense> [added from Supp.]</div2>
+
+ 
+
 <div2 id="crosskimba/zei" orig_id="n57407" key="kimba/zei" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="κιμβ-άζει·">κιμβάζει</head> <foreign lang="grc">στραγγεύεται,</foreign> <author>Hsch.</author></div2>
 
  
