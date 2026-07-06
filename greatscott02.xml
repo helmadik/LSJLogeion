@@ -4510,7 +4510,16 @@ Please report errors at logeion.uchicago.edu ("Report a Problem").
 <div2 id="crossa)diw/motos" orig_id="n1424" key="a)diw/motos" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἀδιώμοτος">ἀδιώμοτος</head>, <itype lang="grc" opt="n">ον</itype>, <sense id="n1424.0" n="" level="1" opt="n"><i>not feeling bound by an oath,</i> <bibl n="Perseus:abo:tlg,4029,002:5" default="NO"><author>Procop.</author> <title>Arc.</title> 5</bibl>.</sense></div2>
 
  
-<div2 id="crossa)dmai/nein" orig_id="n1425" key="a)dmai/nein" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἀδμαίνειν·">ἀδμαίνειν</head> <foreign lang="grc">ὑγιαίνειν, ζῆν,</foreign> <author>Hsch.</author> <orth extent="full" lang="grc" opt="n">ἀδμενίδες</orth>, <gen lang="grc" opt="n">αἱ</gen>, <sense id="n1425.0" n="" level="1" opt="n">= δοῦλαι, <bibl n="Perseus:abo:tlg,4099,001:18:32" default="NO"><title>EM</title> 18.32</bibl>. <orth extent="full" lang="grc" opt="n">ἀδμεύειν</orth>, = ἀδμαίνειν, <bibl n="Perseus:abo:tlg,4099,001:18:31" default="NO"><title>EM</title> 18.31</bibl>, <author>Suid.</author> <orth extent="full" lang="grc" opt="n">ἀδμηλοῖ·</orth> <foreign lang="grc">ἀφανίζει,</foreign> <author>Hsch.</author></sense></div2>
+<div2 id="crossa)dmai/nein" orig_id="n1425" key="a)dmai/nein" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἀδμαίνειν·">ἀδμαίνειν</head> <foreign lang="grc">ὑγιαίνειν, ζῆν,</foreign> <author>Hsch.</author> </div2>
+
+ 
+<div2 id="crossa)dmeni/des" orig_id="n1425a" key="a)dmeni/des" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἀδμενίδες">ἀδμενίδες</head>, <gen lang="grc" opt="n">αἱ</gen>, <sense id="n1425a.0" n="" level="1" opt="n">= δοῦλαι, <bibl n="Perseus:abo:tlg,4099,001:18:32" default="NO"><title>EM</title> 18.32</bibl>. </sense></div2>
+
+ 
+<div2 id="crossa)dmeu/ein" orig_id="n1425b" key="a)dmeu/ein" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἀδμεύειν">ἀδμεύειν</head>, = ἀδμαίνειν, <bibl n="Perseus:abo:tlg,4099,001:18:31" default="NO"><title>EM</title> 18.31</bibl>, <author>Suid.</author> </div2>
+
+ 
+<div2 id="crossa)dmai/nein" orig_id="n1425c" key="a)dmai/nein" type="gloss" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἀδμηλοῖ·">ἀδμηλοῖ</head> <foreign lang="grc">ἀφανίζει,</foreign> <author>Hsch.</author></div2>
 
  
 <div2 id="crossa)dmh/s" orig_id="n1426" key="a)dmh/s" type="main" opt="n"><head extent="full" lang="grc" opt="n" orth_orig="ἀδμ-ής">ἀδμής</head>, <itype lang="grc" opt="n">ῆτος</itype>, <gen lang="grc" opt="n">ὁ</gen>, <gen lang="grc" opt="n">ἡ</gen>, poet. for <foreign lang="grc">ἀδάματος,</foreign> (<author>Hom.</author> only in <title>Od.</title>), of maidens, <sense id="n1426.0" n="" level="1" opt="n"><i>unwedded,</i> <cit><quote lang="grc">παρθένος ἀδμής</quote> <bibl n="Perseus:abo:tlg,0012,002:6:109">6.109</bibl></cit>, <bibl n="Perseus:abo:tlg,0012,002:6:228">228</bibl>; <cit><quote lang="grc">ἀδμῆτας ἀδελφάς</quote> <bibl n="Perseus:abo:tlg,0011,007:1056"><author>S.</author> <title>OC</title> 1056</bibl></cit> (lyr.). </sense><sense n="2" id="n1426.1" level="3" opt="n"> of animals, <i>unbroken,</i> <cit><quote lang="grc">ἡμίονοι . . ἀδμῆτες</quote> <bibl n="Perseus:abo:tlg,0012,002:4:637"><title>Od.</title> 4.637</bibl></cit>. </sense><sense n="3" id="n1426.2" level="3" opt="n"> c. gen., <foreign lang="grc">ἀδμᾶτες νούσων</foreign> <i>unsubdued by</i> . . , <author>B.</author> <title>Fr.</title> 19.</sense></div2>
